@@ -1,59 +1,66 @@
 -
+  id: 301
+  title: "Breakfast &amp; Registration"
+  place: "Hall"
+  service: true
+  description: "We will welcome you with hot espresso, danish pastry and your conference badge."
+-
+  id: 302
+  title: "Welcome"
+  place: "Room 1"
+  service: true
+  description: "Opening of this day of droidcon Vienna"
+-
+  id: 303
+  title: "Lunch Break"
+  place: "Hall"
+  service: true
+-
   id: 307
   title: "Coffee Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  id: 308
+  title: "Closing"
+  place: "Hall"
   service: true
+  description: "Closing this conference day"
 -
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 309
+  title: "Afterparty"
+  place: "TBA"
+  service: true
+  description: "Time to network and relax"
 -
-  id: 002
+  id: 101
+  title: "Keynote"
+  description: "Laurence Moroney will open droidcon - expect a lot of content around Firebase, the Backend-as-a-Service offering for mobile from Google"
+  subtype: keynote
+  speakers: ["laurence-moroney"]
+-
+  id: 102
   title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  description: "How would you like 2 extra hours of your time back every week? All mobile app developers face similar workflows as they work to upload an app to Google Play. Many of these processes are currently done manually, but why not automate them? Fabric’s set of developer tools, collectively called fastlane, makes building, testing, and releasing your app faster, reproducible and less troublesome, leaving developers more time to focus on feature code and not deployment! Learn how you can automate the tedious tasks to generate release notes, screenshots and push your final submission Google Play portal effortlessly from your command line with a powerful open source tool. <a href='https://github.com/fastlane/fastlane/' target='_blank'>github.com/fastlane/fastlane/</a>"
   subtype: presentation
-  speakers: [4, 5]
-  language: en
+  speakers: ["andrea-falcone"]
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  id: 103
+  title: "The 2016 Android Developer Toolbox"
+  description: "Developing for Android has drastically changed over the last few years. We now have a gigantic toolbox we can benefit from to improve our productivity and build better applications. During this presentation I will introduce some of the tools we use daily at happn, a multi-million users French dating application. I will talk about many tools that help us to: - Simulate a laggy/instable HTTP(s) connection - Interact with our application to analyze logs, views, and modify any data (inc. memory / shared preferences / database) in real time - Change our application's backend server without recompiling - Better understand our technical debt - Create a REST mock server in a few seconds to anticipate the development of a feature when the backend is not developed yet - Measure the performance (cpu/memory) of our application - Decompile our application to better understand and analyze its security - Alter a server response and check whether the application behaves properly - and many more tips..."
   subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  speakers: ["gautier-mechling"]
+  complexity: "Beginner" 
 -
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 200
+  title: "Barcamp"
+  description: "Your content, selected by you!"
+  subtype: barcamp
 -
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 999
+  title: "TBA"
+  description: "More details will be announced later"
+  subtype: presentation
+  speakers: []

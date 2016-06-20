@@ -1,7 +1,7 @@
 body, html {
     font-family: $fixed-font-family, $base-font-family;
     font-size: $base-font-size;
-    font-weight: $regular;
+    xxx-font-weight: $regular;
     width: 100%;
     height: 100%;
     background: $base-background-color;
@@ -30,14 +30,14 @@ section {
 }
 p {
     font-size: 15px;
-    font-weight: 300;
+    xxx-font-weight: 300;
     line-height: $base-line-height;
 }
 i {
     font-style: normal;
 }
 b, strong {
-    font-weight: $bold;
+    xxx-font-weight: $bold;
 }
 a {
     @include linkColor($link-color);
@@ -46,7 +46,7 @@ a {
     }
 }
 h1, h2, h3, h4, h5, h6 {
-    font-weight: $light;
+    xxx-font-weight: $regular;
     display: block;
 }
 h1 {

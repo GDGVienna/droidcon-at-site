@@ -2,16 +2,14 @@
 
 module.exports = function(grunt) {
     require('time-grunt')(grunt);
-    require('jit-grunt')(grunt, {
-        buildcontrol: 'grunt-build-control'
-        });
+    require('jit-grunt')(grunt);
 
     grunt.initConfig({
         app: {
             source: 'app',
             dist: 'dist',
-            baseurl: 'zeppelin-grunt',
-            git_repo: 'git@github.com:gdg-x/zeppelin-grunt.git',
+            baseurl: '',
+            git_repo: 'git@github.com:GDGVienna/droidcon-at-site.git',
             branch: 'gh-pages'
         },
         watch: {
@@ -308,18 +306,6 @@ module.exports = function(grunt) {
                     dest: '<%= app.dist %>/<%= app.baseurl %>/js'
                 }]
             }
-        },
-        buildcontrol: {
-            dist: {
-                options: {
-                    dir: '<%= app.dist %>/<%= app.baseurl %>',
-                    remote: '<%= app.git_repo %>',
-                    branch: '<%= app.branch %>',
-                    commit: true,
-                    push: true,
-                    connectCommits: false
-                }
-            }
         }
     });
 
@@ -358,11 +344,6 @@ module.exports = function(grunt) {
         'critical',
         'copy:dist',
         'htmlmin'
-    ]);
-
-    grunt.registerTask('deploy', [
-        'build',
-        'buildcontrol'
     ]);
 
     grunt.registerTask('default', [

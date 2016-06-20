@@ -1,23 +1,14 @@
 - 
-  group: "General sponsor"
+  group: "Silver Sponsor"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "shpock", description: "Shpock - the boot sale app for beautiful things", link: "https://www.shpock.com/", imageUrl: "shpock.png"}
+    - {name: "runtastic", description: "runtastic", link: "https://www.runtastic.com/career", imageUrl: "runtastic.png"}
 - 
-  group: "With support of"
+  group: "Bronze Sponsor"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
+    - {name: "creative workline", description: "creative workline GmbH - Mobile App Solutions", link: "https://www.creativeworkline.at/", imageUrl: "creativeworkline.png"}
 - 
-  group: "Information partners"
+  group: "Usergroup Partners"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+    - {name: "Vienna Scala", description: "Vienna Scala", link: "http://scala-vienna.org/", imageUrl: "vienna-scala.png", width: "120px"}
+    - {name: "Mobile Quality Crew Vienna", description: "Mobile Quality Crew Vienna", link: "http://www.meetup.com/Vienna-Mobile-Quality-Crew-Meetup/", imageUrl: "vienna-mobile-quality-crew.png"}

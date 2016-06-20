@@ -1,60 +1,59 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Helmuth"
+  surname: "Breitenfellner"
+  title: ""
+  thumbnailUrl: HelmuthBreitenfellner.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://google.com/+HelmuthBreitenfellner"}
+    - {name: "twitter", link: "https://twitter.com/helmuthb"}
+    - {name: "github", link: "https://github.com/helmuthb"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Marc"
+  surname: "Edem"
+  title: "IT & Social Media"
+  thumbnailUrl: MarcEdem.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://google.com/+MarcEdem"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Robert"
+  surname: "Hesele"
+  title: "Logistics"
+  thumbnailUrl: RobertHesele.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", title: "Google+", link: "https://google.com/+RobertHesele"}
+    - {name: "twitter", title: "Twitter", link: "https://twitter.com/RHesele"}
+    - {name: "linkedin", title: "LinkedIn", link: "https://at.linkedin.com/pub/robert-hesele/95/1a2/119/en"}
+- 
+  id: 3
+  name: "Klemens"
+  surname: "Zleptnig"
+  title: "Program Committee"
+  thumbnailUrl: KlemensZleptnig.jpg
+  subTeam: true
+  ribbon:
+    - {abbr: "AHV", title: "AndroidHeads Vienna"}
+  social: 
+    - {name: "google-plus", title: "Google+", link: "https://google.com/+KlemensZleptnig"}
+    - {name: "twitter", title: "Twitter", link: "https://twitter.com/klemensz"}
+    - {name: "linkedin", title: "LinkedIn", link: "https://at.linkedin.com/in/klemens1"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Peter"
+  surname: "Riegler"
+  title: "Program Committee"
+  thumbnailUrl: PeterRiegler.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://google.com/+PeterRiegler1"}

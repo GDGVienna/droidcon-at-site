@@ -3,12 +3,23 @@
     {% include general/navigation.html %}
     <div class="content-wrapper">
     <div class="jumbotron">
-        {% assign heroText = site.data.[site.lang].index.hero.title | split:"<typeout>" %}
-        <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.data.[site.lang].index.hero.typeoutFallback }}</span>{{ heroText[1] }}</h1>
+    <div class="row">
+        <div class="col-lg-9 col-md-9">
+        {% if site.data.[site.lang].index.hero.title contains "<typeout>" %}
+          {% assign heroText = site.data.[site.lang].index.hero.title | split:"<typeout>" %}
+          <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.data.[site.lang].index.hero.typeoutFallback }}</span>{{ heroText[1] }}</h1>
+        {% else %}
+          <h1>{{ site.data.[site.lang].index.hero.title }}</h1>
+        {% endif %}
         <p>{{ site.data.[site.lang].index.hero.eventDate }}</p>
             {% for button in site.data.[site.lang].index.hero.buttons %}
         <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
         {% endfor %}
+        </div>
+        <div class="col-lg-3 col-md-3">
+        <a href="/diversity/"><img src="/img/partners/supportingdiversity.png" width="250" class="center-block image-responsive" style="padding-top: 40px; padding-bottom: 40px; padding-left: 10px;"></a>
+        </div>
+    </div>
     </div>
     <a href="#about" class="explore">
         <svg class="icon icon-arrow-down" viewBox="0 0 32 32">

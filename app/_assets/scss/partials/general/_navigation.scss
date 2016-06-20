@@ -1,18 +1,23 @@
 $nav-color: #fff;
-$nav-color-hover: #cfcfcf;
-$nav-scroll-color: rgba(0, 0, 0, .5);
-$nav-scroll-color-hover: rgba(0, 0, 0, .8);
+$nav-color-hover: #bee053;
+$nav-scroll-color: rgba(0, 0, 0, .8);
+$nav-scroll-color-hover: #8ed200;
+$nav-color-dark: #729400;
 
 .top-header {
     position: fixed;
     z-index: 500;
     width: 100%;
-    padding: 0 45px;
+    padding: 0 45px 30px;
     @media (min-width: 768px) and (max-width: 991px) {
-        padding: 13px 0 0 34px;
+        padding: 0 0 30px 34px;
+    }
+    @media (max-width: 767px) {
+        padding: 0 0 0 24px;
     }
     &.after-scroll {
         padding-top: 0;
+        padding-bottom: 0;
         box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
         .overlay {
             opacity: 1;
@@ -36,13 +41,15 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
             transform: translateX(-45px);
         }    
     }
+    .logo-dark {
+        transform: scale(.7);
+    }
     .logo {
         display: inline-block;
         float: left;
         width: 185px;
         height: 60px;
         margin-right: 20px;
-        transform: scale(.7);
         vertical-align: middle;
          @media (max-width: 767px) {
             transform: scale(.6);
@@ -102,8 +109,8 @@ nav {
             display: block;
         }
         a {
-            font-size: $base-font-size;
-            font-weight: $regular;
+            font-size: 1.2 * $base-font-size;
+            xxx-font-weight: 400;
             transition: $base-transition;
             text-transform: uppercase;
             color: $nav-color;
@@ -113,14 +120,14 @@ nav {
                 padding: 13px 15px 13px 15px;
                 transition: $base-transition;
                 text-transform: none;
-                color: rgba(0, 0, 0, .3);
+                color: rgba(0, 0, 0, .8);
                 outline: 0;
             }
             &.current, &:hover, &:active, &:focus {
                 text-decoration: none;
                 color: $nav-color-hover;
                 @media (max-width: 767px) {
-                    color: $main-color;
+                    color: $nav-color-dark;
                 }
             }
             .top-header.after-scroll & {
@@ -182,7 +189,7 @@ nav {
 }
 .menu-trigger {
     float: right;
-    transform: translateY(22px);
+    transform: translateY(22px) translateX(-20px);
     right: 45px;
     transition: $base-transition;
 }
