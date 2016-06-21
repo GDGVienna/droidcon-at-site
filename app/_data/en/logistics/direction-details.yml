@@ -1,9 +1,9 @@
 image: "vienna-belvedere.jpg"
 title: "Get around Vienna"
 cards:
- - {title: "From the Airport", information: 'The Vienna airport is southeast of Vienna. We suggest taking the S7 from the airport direction Floridsdorf, and leaving at the stop Traisengasse. Read more about the airport at the <a href="www.viennaairport.com/index_en.html" target="_blank">official website</a>.'}
+ - {title: "From the Airport", information: 'The Vienna airport is southeast of Vienna. We suggest taking the S7 from the airport direction Floridsdorf, and leaving at the stop Traisengasse. Read more about the airport at the <a href="http://www.viennaairport.com/index_en.html" target="_blank">official website</a>.'}
  - {title: "Public Transit", information: 'The public transport network in Vienna is in an excellent condition. To find your way use the <a href="https://anachb.vor.at/bin/query.exe/en?L=vs_voranachb&" target="_blank">planner</a> from the public transport network.'}
- - {title: "Hotels", information: 'Vienna has many great hotels and hostels. View available choices at <a href="http://www.booking.com/city/at/vienna.en-gb.html">Booking.com</a>.'}
+ - {title: "Hotels", information: 'Vienna has many great hotels and hostels. We have listed a few selected below; view other available options at <a href="http://www.booking.com/city/at/vienna.en-gb.html" target="_blank">Booking.com</a>.'}
 wideCards:
  -
   title: "Links"
