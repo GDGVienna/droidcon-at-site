@@ -16,7 +16,7 @@
   company: "Twitter"
   title: "Software Engineer"
   bio: 'Andrea Falcone is a Senior Software Engineer at Twitter. She has worked on many parts of Fabric, building the Android tooling, including Android Studio Plugin, Crashlytics Android SDK, Gradle plugin and Beta by Crashlytics. She is currently working on fastlane, an open source release process automation suite. Past talks: <a href="https://github.com/asfalcone/talks" target="_blank">github.com/asfalcone/talks</a>'
-  thumbnailUrl: AndreaFalcone.png
+  thumbnailUrl: AndreaFalcone.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/asfalcone"}
@@ -35,3 +35,57 @@
     - {name: "twitter", link: "https://twitter.com/Nilhcem"}
     - {name: "github", link: "https://github.com/Nilhcem"}
     - {name: "google-plus", link: "https://plus.google.com/+GautierMechling"}
+-
+  id: "daniel-hartwich"
+  name: "Daniel"
+  surname: "Hartwich"
+  company: "XING"
+  bio: "Daniel Hartwich is an aspiring Junior Android Developer at the German company XING AG located in Hamburg. He has been programming for the Android platform since 2013. In 2014, after Material Design was announced, Daniel wrote his bachelor thesis about Material Design and how it can be applied to the running Android application of XING. Based on this research the XING Android application was redesigned to use Material Design. Whenever Google releases anything new regarding Android, Daniel instantly develops interest and investigates everything to minimal detail."
+  thumbnailUrl: DanielHartwich.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/KiLLyA_"}
+-
+  id: "zan-markan"
+  name: "Žan"
+  surname: "Markan"
+  company: "Marks & Spencer"
+  bio: "I take care of the android side of native shopping apps at Marks & Spencer in London. My favourite topics are testing and automation, and I spend a lot of time playing about in that. In my spare time I talk at conferences or fiddle with some obscure technologies."
+  thumbnailUrl: "ZanMarkan.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/zmarkan"}
+    - {name: "google-plus", link: "https://plus.google.com/+%C5%BDanMarkan"}
+    - {name: "github", link: "https://github.com/zmarkan"}
+    - {name: "linkedin", link: "https://uk.linkedin.com/in/zmarkan"}
+    - {name: "site", link: "http://www.spacecowboyrocketcompany.com/"}
+-
+  id: "kristijan-jurkovic"
+  name: "Kristijan"
+  surname: "Jurković"
+  company: "Infinum"
+  title: "Android Team Lead"
+  bio: "I started writing web apps and websites in 2004 as a hobby. Those were simple apps written with XHTML, CSS and PHP/MySQL combo. 6 years later I decided to make a living out of my hobby so I got my first pro job in company Superius Ltd. where I've worked as a developer. A variety of everyday tasks with different technologies such as SQL Server 2005, 2008, 2008R2, PostgreSQL, PHP, Java, Android SDK expanded my knowledge and my views beyond simple and easy to implement things to large ERP and BI Systems, Mobile application development. In March 2012, I moved to another company and another city (Zagreb) in which I got a better grasp of technologies such as Java. Besides my regular work I enjoy expanding my knowledge with good books. After 2 years at Interactive1, I moved to an awesome company in Zagreb - Infinum. I improved in mobile development - Android to be exact and after 2 years here I became team lead."
+  thumbnailUrl: "KristijanJurkovic.jpg"
+  social:
+    - {name: "twitter", link: "https://www.twitter.com/kjurkovic"}
+    - {name: "linkedin", link: "http://www.linkedin.com/in/kristijanjurkovic"}
+    - {name: "site", link: "https://about.me/kristijan.jurkovic"}
+-
+  id: "david-schreiber-ranner"
+  name: "David"
+  surname: "Schreiber-Ranner"
+  company: "PSPDFKit"
+  bio: "I was born in Vienna, am 29 years old, and was writing code for long as I can think back – was also coding on the ZX Spectrum. Just music, but hey :-) I did my bachelor degree in information and communication systems, and am working on my master degree paper in the same area. I'm a senior Java/Android developer but also spent nearly as much time in web development with PHP, SQL and JavaScript. I started Android development in 2011, working for an app agency creating a several entertainment apps, brand apps, and whitelabel solutions. I joined PSPDFKit in 2015, helped a lot with improving the public framework API, and invested a lot of time in creating a stable, easy-to-use and comprehensive test suite."
+  thumbnailUrl: "DavidSchreiber-Ranner.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/Flashmasterdash"}
+    - {name: "google-plus", link: "https://plus.google.com/112371263315253005287"}
+-
+  id: "zeljko-plesac"
+  name: "Željko"
+  surname: "Plesac"
+  company: "Infinum"
+  bio: "Željko has been a part of the Infinum Android team for 3 years. He has mastered all those nasty bugs and errors which can occur while developing even the most complicated projects. His passions include ORM libraries and frameworks, Android Studio and contributing to open source. His love for Android Studio can only be matched by his hatred for Eclipse"
+  thumbnailUrl: "ZeljkoPlesac.jpg"
+  social:
+    - {name: "linkedin", link: "https://hr.linkedin.com/in/željko-plesac-01551214"}
+    - {name: "twitter", link: "https://twitter.com/ZeljkoPlesac"}
