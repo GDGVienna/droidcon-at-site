@@ -4,28 +4,27 @@ cards:
  - {title: "From the Airport", information: 'The Vienna airport is southeast of Vienna. We suggest taking the S7 from the airport direction Floridsdorf, and leaving at the stop Traisengasse. Read more about the airport at the <a href="www.viennaairport.com/index_en.html" target="_blank">official website</a>.'}
  - {title: "Public Transit", information: 'The public transport network in Vienna is in an excellent condition. To find your way use the <a href="https://anachb.vor.at/bin/query.exe/en?L=vs_voranachb&" target="_blank">planner</a> from the public transport network.'}
  - {title: "Hotels", information: 'Vienna has many great hotels and hostels. View available choices at <a href="http://www.booking.com/city/at/vienna.en-gb.html">Booking.com</a>.'}
-wideCardsXXX:
+wideCards:
  -
-  title: "Questions?"
+  title: "Links"
   subCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.harrys-home.com/en/vienna/", text: "Harry's Home"}
+     - {link: "http://www.ramadavienna-hs.at/", text: "RAMADA Hotel & Suites Vienna"}
+     - {link: "https://www.novum-hotels.de/hotel-cristall-wien", text: "Hotel Cristall"}
+     - {link: "http://www.motel-one.com/en/hotels/vienna/wien-prater/", text: "Motel One Wien-Prater"}
    -
-    title: "Registration"
+    title: "Touristic & Public Transport"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://www.wien.info/en", text: "Events in Vienna"}
+     - {link: "/files/Public-Transport-Vienna.pdf", text: "Public transport network"}
+     - {link: "http://www.wienerlinien.at/eportal3/ep/channelView.do/pageTypeId/66533/channelId/-48703", text: "Trip planner"}
+     - {link: "http://www.praterwien.com/en/home/", text: "Prater - amusement park"}
    -
     title: "Attendance Details"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://droidconvie-2016.eventbrite.com", text: "Tickets on Eventbrite"}
+     - {permalink: "/code-of-conduct", text: "Code of Conduct"}
+     - {permalink: "/schedule", text: "Schedule"}
