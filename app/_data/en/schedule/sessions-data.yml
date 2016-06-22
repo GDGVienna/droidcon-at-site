@@ -49,7 +49,7 @@
 -
   id: 103
   title: "The 2016 Android Developer Toolbox"
-  description: "Whether your app is a pet project or has millions of users, you probably need the right tools, during the development, to help you modify persisted data in real time, simulate an slow/unstable HTTP(s) connection, detect bugs as fast as possible, or create mock servers to anticipate the development of a feature.<br>We'll make a demonstration of all the tools we use, in 2016, to write maintainable code and improve our productivity."
+  description: "Whether your app is a pet project or has millions of users, you probably need the right tools, during the development, to help you modify persisted data in real time, simulate a slow/unstable HTTP(s) connection, detect bugs as fast as possible, or create mock servers to anticipate the development of a feature.<br>We will make a demonstration of all the tools we use, in 2016, to write maintainable code and improve our productivity."
   subtype: presentation
   speakers: ["gautier-mechling"]
   complexity: "Beginner" 
