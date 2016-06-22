@@ -49,7 +49,7 @@
 -
   id: 103
   title: "The 2016 Android Developer Toolbox"
-  description: "Developing for Android has drastically changed over the last few years. We now have a gigantic toolbox we can benefit from to improve our productivity and build better applications. During this presentation I will introduce some of the tools we use daily at happn, a multi-million users French dating application. I will talk about many tools that help us to: - Simulate a laggy/instable HTTP(s) connection - Interact with our application to analyze logs, views, and modify any data (inc. memory / shared preferences / database) in real time - Change our application's backend server without recompiling - Better understand our technical debt - Create a REST mock server in a few seconds to anticipate the development of a feature when the backend is not developed yet - Measure the performance (cpu/memory) of our application - Decompile our application to better understand and analyze its security - Alter a server response and check whether the application behaves properly - and many more tips..."
+  description: "Whether your app is a pet project or has millions of users, you probably need the right tools, during the development, to help you modify persisted data in real time, simulate an slow/unstable HTTP(s) connection, detect bugs as fast as possible, or create mock servers to anticipate the development of a feature.<br>We'll make a demonstration of all the tools we use, in 2016, to write maintainable code and improve our productivity."
   subtype: presentation
   speakers: ["gautier-mechling"]
   complexity: "Beginner" 
