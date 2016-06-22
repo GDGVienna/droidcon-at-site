@@ -1,4 +1,4 @@
-Future website for [droidcon.at](https://droidcon.at) - droicon Vienna 2016
+Website for [droidcon.at](https://droidcon.at)
 =============
 
 Based on the grunt version of [Project Zeppelin](https://github.com/gdg-x/zeppelin-grunt) site template
@@ -24,7 +24,7 @@ Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 ### Quick-start guide
 1.  Clone locally
 2.  Install [Node.js](www.nodejs.org) and [Ruby](https://www.ruby-lang.org/)
-3.  Run `npm install firebase-tools` (optionally)
+3.  Run `npm -g install firebase-tools` (optionally)
 4.  Run `gem install bundler`
 5.  Install 'grunt-cli' and 'bower' globally with `npm install -g grunt-cli bower`
 6.  `cd` to the directory and run `bundle install`
