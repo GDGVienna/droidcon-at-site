@@ -1,6 +1,7 @@
 Future website for [droidcon.at](https://droidcon.at) - droicon Vienna 2016
-Based on the grunt version of [Project Zeppelin](https://github.com/gdg-x/zeppelin-grunt) site template
 =============
+
+Based on the grunt version of [Project Zeppelin](https://github.com/gdg-x/zeppelin-grunt) site template
 
 ### About 
 The website uses grunt and Jekyll for compiling the assets.
