@@ -36,7 +36,7 @@
 -
   id: 101
   title: "Keynote"
-  description: "Laurence Moroney will open droidcon - expect a lot of content around Firebase, the Backend-as-a-Service offering for mobile from Google"
+  description: "Google offers a terrific number of cloud-based mobile services under the brand Firebase.<br>Follow Laurence Moroney, Developer Advocate at Google, on this journey through the Firebase universe which makes the live of Android developers easier."
   subtype: keynote
   speakers: ["laurence-moroney"]
 -

@@ -4,10 +4,11 @@
   surname: "Moroney"
   company: "Google"
   title: "Developer Advocate at Google"
-  bio: "Author, Technologist, Programmer, Blogger, Husband and Father."
+  bio: "Laurence Moroney has authored more programming books than he can remember.<br>A well known speaker at conferences such as Google I/O, Microsoft Build, and others, he is passionate about mobile development, and Android in particular. When not messing around with development, he is a published Sci-Fi novelist and produced screenwriter.<br>Follow Laurence on <a href='https://twitter.com/lmoroney' target='_blank'>lmoroney</a>"
   thumbnailUrl: LaurenceMoroney.jpg
   rockstar: true
   social: 
+    - {name: "twitter", link: "https://twitter.com/lmoroney"}
     - {name: "google-plus", link: "https://plus.google.com/+LaurenceMoroney/"}
 - 
   id: "andrea-falcone"
