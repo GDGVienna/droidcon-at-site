@@ -10,4 +10,3 @@ bottomLinks:
  - {permalink: "/#tickets", text: "Buy tickets"}
 rightButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
- - {permalink: "/call-for-papers", text: "Become a speaker"}
