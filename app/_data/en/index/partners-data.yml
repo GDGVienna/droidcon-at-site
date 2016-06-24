@@ -12,3 +12,4 @@
   elements: 
     - {name: "Vienna Scala", description: "Vienna Scala", link: "http://scala-vienna.org/", imageUrl: "vienna-scala.png", width: "120px"}
     - {name: "Mobile Quality Crew Vienna", description: "Mobile Quality Crew Vienna", link: "http://www.meetup.com/Vienna-Mobile-Quality-Crew-Meetup/", imageUrl: "vienna-mobile-quality-crew.png"}
+    - {name: "GDG DevFest Ukraine", description: "GDG DevFest Ukraine", link: "https://devfest.gdg.org.ua", imageUrl: "devfest-ukraine.png"}
