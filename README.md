@@ -6,7 +6,7 @@ Based on the grunt version of [Project Zeppelin](https://github.com/gdg-x/zeppel
 ### About 
 The website uses grunt and Jekyll for compiling the assets.
 
-You can find original project [here](https://github.com/gdg-x/zeppelin).
+You can find original project [here](https://github.com/gdg-x/zeppelin-grunt).
 
 Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 
