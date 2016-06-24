@@ -5,8 +5,8 @@ date:   2016-06-24 12:25:00
 isStaticPost: false
 ---
 
-Our new website is live, based on [Project Zeppelin](https://github.com/gdg-x/zeppelin-grunt) by [GDG Lviv(http://lviv.gdg.org.ua/).
-We are now ready to present a (draft) schedule, the initial list of speakers, and some touristic information about Vienna.
+Our new website is live, based on [Project Zeppelin](https://github.com/gdg-x/zeppelin-grunt) by [GDG Lviv](http://lviv.gdg.org.ua/).
+We are now ready to present the (draft) schedule, the initial list of speakers, and some touristic information about Vienna.
 
 #### Initial Set of Speakers
 
