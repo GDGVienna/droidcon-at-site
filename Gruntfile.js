@@ -3,6 +3,7 @@
 module.exports = function(grunt) {
     require('time-grunt')(grunt);
     require('jit-grunt')(grunt);
+    grunt.loadNpmTasks('grunt-convert');
 
     grunt.initConfig({
         app: {
@@ -306,6 +307,17 @@ module.exports = function(grunt) {
                     dest: '<%= app.dist %>/<%= app.baseurl %>/js'
                 }]
             }
+        },
+        convert: {
+          yaml2json: {
+            files: [{
+                expand: true,
+                cwd: 'app/_data/',
+                src: ['en/**/*.yml'],
+                dest: '<%= app.dist %>/<%= app.baseurl %>/json/',
+                ext: '.json'
+            }]
+          }
         }
     });
 
@@ -343,6 +355,7 @@ module.exports = function(grunt) {
         'cssmin',
         'critical',
         'copy:dist',
+        'convert',
         'htmlmin'
     ]);
 
