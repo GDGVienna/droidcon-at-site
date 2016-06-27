@@ -113,3 +113,15 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/abaotic"}
     - {name: "twitter", link: "https://twitter.com/abaotic"}
+-
+  id: "svetlana-isakova"
+  name: "Svetlana"
+  surname: "Isakova"
+  company: "Jetbrains"
+  title: "Developer Advocate"
+  bio: "Svetlana is a Developer Advocate at JetBrains. She's been working on the Kotlin language (<a href='http://kotlinlang.org/' target='_blank'>kotlinlang.org</a>) since 2011. She is one of the authors of the 'Kotlin in Action' book."
+  thumbnailUrl: "SvetalanaIsakova.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/sveta_isakova"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/svetlana-isakova-3b7b25a3"}
+    - {name: "github", link: "https://github.com/svtk"}
