@@ -125,3 +125,21 @@
     - {name: "twitter", link: "https://twitter.com/sveta_isakova"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/svetlana-isakova-3b7b25a3"}
     - {name: "github", link: "https://github.com/svtk"}
+-
+  id: "sina-grunau"
+  name: "Sina"
+  surname: "Grunau"
+  company: "c4 Engineering"
+  title: "Android Developer"
+  bio: "Christian and Sina are passionate Android developers since the early days of the platform. At c4c Engineering they have spent a lot of time developing apps in the automotive area and have become experts with multiple concepts of integrating smartphones into vehicles and their implementations (e.g. Android Auto, MirrorLink, CarPlay)."
+  thumbnailUrl: "SinaGrunau.jpg"
+-
+  id: "christian-dziuba"
+  name: "Christian"
+  surname: "Dziuba"
+  company: "c4 Engineering"
+  title: "Android Developer"
+  bio: "Christian and Sina are passionate Android developers since the early days of the platform. At c4c Engineering they have spent a lot of time developing apps in the automotive area and have become experts with multiple concepts of integrating smartphones into vehicles and their implementations (e.g. Android Auto, MirrorLink, CarPlay)."
+  thumbnailUrl: "ChristianDziuba.jpg"
+  social:
+    - {name: "xing", link: "https://www.xing.com/profile/Christian_Dziuba"}
