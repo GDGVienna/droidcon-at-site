@@ -121,6 +121,7 @@
   title: "Developer Advocate"
   bio: "Svetlana is a Developer Advocate at JetBrains. She's been working on the Kotlin language (<a href='http://kotlinlang.org/' target='_blank'>kotlinlang.org</a>) since 2011. She is one of the authors of the 'Kotlin in Action' book."
   thumbnailUrl: "SvetlanaIsakova.jpg"
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/sveta_isakova"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/svetlana-isakova-3b7b25a3"}
