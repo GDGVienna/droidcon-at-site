@@ -153,7 +153,7 @@
   company: "Tailored Apps"
   title: "Android Developer"
   bio: "Patrick Löwenstein is a Vienna based Android developer, currently working at Tailored Apps. Also, he is studying for his Master's degree in Computer Sciences at the Vienna University of Technology. Patrick also has an <a href='https://nullpointer.wtf' target='_blank'>Android dev blog</a> and is active on <a href='https://github.com/patloew' target='_blank'>GitHub</a>."
-  thumbnailUrl: "PatrickLowenstein.jpg"
+  thumbnailUrl: "PatrickLoewenstein.jpg"
   social:
     - {name: "github", link: "https://github.com/patloew"}
     - {name: "twitter", link: "https://twitter.com/0ptrblog"}
