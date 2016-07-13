@@ -4,4 +4,4 @@ eventDate: "16 - 17 September 2016"
 typeoutTextValues: '"", "London", "Krakow", "Zagreb", "Berlin", "Vienna"'
 typeoutFallback: "Vienna"
 buttons:
- - {permalink: "/#tickets", text: "Tickets"}
+ - {permalink: "/#tickets", text: "Register Now"}
