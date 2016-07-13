@@ -7,6 +7,7 @@
   group: "Bronze Sponsor"
   elements: 
     - {name: "creative workline", description: "creative workline GmbH - Mobile App Solutions", link: "https://www.creativeworkline.at/", imageUrl: "creativeworkline.png"}
+    - {name: "c4c Engineering", description: "c4c Engineering", link: "https://www.c4cengineering.de/", imageUrl: "c4c-engineering.png"}
 - 
   group: "Usergroup Partners"
   elements: 
