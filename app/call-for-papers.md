@@ -4,7 +4,7 @@ title: Call for Papers
 permalink: /call-for-papers/
 isStaticPost: true
 ---
-
+{% comment %}
 _Interested in presenting at droidcon Vienna? Cool! Thanks a lot!_
 
 The second call for papers is open till 10 July 2016, midnight Vienna time.
@@ -50,5 +50,10 @@ We will contact you in case of some questions, and latest beginning of August 20
 ###### Travel Subsidy
 
 As our budget is limited we can only offer limited travel subsidy for your talk. If you need financial support please indicate so in the comment field.
+
+{% endcomment %}
+
+Our call for papers is closed now.
+Thank you for your interest in presenting at droidcon Vienna!
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">

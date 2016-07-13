@@ -6,7 +6,6 @@ links:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/blog/", text: "Blog"}
 bottomLinks:
- - {permalink: "/call-for-papers", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 rightButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
