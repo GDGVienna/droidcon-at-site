@@ -138,7 +138,7 @@
   thumbnailUrl: "SinaGrunau.jpg"
   social:
     - {name: "google-plus", link: "https://plus.google.com/+SinaGrunau/"}
-    - {name: "xing", link: "https://www.xing.com/profile/Sina_Grunau"}
+    - {name: "site", link: "https://www.xing.com/profile/Sina_Grunau"}
 -
   id: "christian-dziuba"
   name: "Christian"
@@ -149,7 +149,7 @@
   thumbnailUrl: "ChristianDziuba.jpg"
   social:
     - {name: "google-plus", link: "https://plus.google.com/+ChristianDziuba"}
-    - {name: "xing", link: "https://www.xing.com/profile/Christian_Dziuba"}
+    - {name: "site", link: "https://www.xing.com/profile/Christian_Dziuba"}
 -
   id: "patrick-loewenstein"
   name: "Patrick"
@@ -162,7 +162,6 @@
     - {name: "github", link: "https://github.com/patloew"}
     - {name: "twitter", link: "https://twitter.com/0ptrblog"}
     - {name: "linkedin", link: "https://at.linkedin.com/in/patrickloewenstein"}
-    - {name: "xing", link: "https://www.xing.com/profile/Patrick_Loewenstein"}
     - {name: "site", link: "https://nullpointer.wtf"}
 -
   id: "daniel-niedermuehlbichler"
@@ -173,6 +172,6 @@
   bio: "Born in Vienna in 1986 & still living there. Using Java for 15 years, coding for the Android platform since 2009. Started as a freelancer at that time and implemented Android apps for clients like the Vienna based football club Austria Wien, the Raiffeisen bank, pharmaceutical companies Bayer and Gilead, also sport apps for the public television broadcaster ORF, and the biggest delivery service platform in Austria: Mjam. Since beginning of 2016 working in the Android team of the Vienna based startup Shpock."
   thumbnailUrl: "DanielNiedermuehlbichler.jpg"
   social:
-    - {name: "xing", link: "https://www.xing.com/profile/Daniel_Niedermuehlbichler"}
+    - {name: "site", link: "https://www.xing.com/profile/Daniel_Niedermuehlbichler"}
     - {name: "github", link: "https://github.com/dnmbv"}
     - {name: "twitter", link: "https://twitter.com/DaNiederm"}
