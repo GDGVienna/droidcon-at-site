@@ -138,6 +138,13 @@
   speakers: ["svetlana-isakova"]
   complexity: "Beginner"
 -
+  id: 116
+  title: "The Blessings of Kotlin for Android"
+  description: "You have tons of custom getters in your model classes to avoid getting null values where you don’t want them? Multiple null-checks for one effective line of code? And what’s about all the clumsy binding of views from your XML-layouts? Maybe you already accepted all that and more as part of building an Android app. But there is hope! With the fresh release of Kotlin 1.0 in February 2016 the JetBrains team gave Android developers a wonderful modern language to build their apps in a more concise, more readable and more stable way. And I will show you how to use the powers of Kotlin for your next Android project."
+  subtype: "presentation"
+  speakers: ["daniel-niedermuehlbichler"]
+  complexity: "Beginner"
+-
   id: 200
   title: "Barcamp"
   description: "Your content, selected by you!"
