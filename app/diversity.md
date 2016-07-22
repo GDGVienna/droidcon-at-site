@@ -20,9 +20,12 @@ Harassment will not be tolerated. All attendees are welcomed at our event, no â€
 
 #### Diversity Tickets
 
-As a small step towards increased diversity we are offering diversity tickets to underrepresented groups.
+As a small step towards increased diversity we are offering five diversity tickets to underrepresented groups.
 Women, transgender & non-binary people, people of color and disabled people are invited to apply for a diversity ticket.
 
+<a href="http://goo.gl/forms/Qhltqit0Obi1uoXM2" target="_blank" class="btn btn-primary waves-effect waves-button waves-light waves-float">Apply Here</a>
+
+Please submit your application before end of August, and we will inform you beginning of September.
 If the demand for diversity tickets will be larger than the supply then they will be raffled.
 
 #### Diverse Speakers
