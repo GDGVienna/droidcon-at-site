@@ -80,7 +80,7 @@
     -
         startTime: "09:45"
         endTime: "10:45"
-        sessionIds: [999, 108]
+        sessionIds: [117, 108]
     -
         startTime: "10:45"
         endTime: "11:30"
