@@ -175,3 +175,15 @@
     - {name: "site", link: "https://www.xing.com/profile/Daniel_Niedermuehlbichler"}
     - {name: "github", link: "https://github.com/dnmbv"}
     - {name: "twitter", link: "https://twitter.com/DaNiederm"}
+-
+  id: "serghei-lotutovici"
+  name: "Serghei (Serj)"
+  surname: "Lotutovici"
+  company: "XING"
+  title: "Senior Android Developer"
+  bio: "Serj is an Android Developer at XING, GDG Hamburg organizer and Clean Architecture geek. He is responsible for the framework part that drives the XING Main App, along side other mobile products. He is known for his passion for clean and sustainable code. DI is his middle name, Jenkins is his best friend and he eats Gradle for lunch. You will never hear him "showing-of" a feature, but he will not miss an opportunity to tell you about 'this cool new library' or 'this awesome design pattern'."
+  thumbnailUrl: "SergheiLotutovici.jpg"
+  social:
+    - {name: "site", link: "https://www.xing.com/profile/Serj_Lotutovici"}
+    - {name: "github", link: "https://github.com/serj-lotutovici"}
+    - {name: "twitter", link: "https://twitter.com/SerjLtt"}
