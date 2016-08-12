@@ -152,6 +152,13 @@
   speakers: ["tim-messerschmidt"]
   complexity: "Beginner"
 -
+  id: 118
+  title: "Safe vs Deep integration of Realm in Android"
+  description: "Realm: A fast and secure database for Android, which is easy to learn and integrate.\n\nHave you heard good things about Realm and considered replacing SQLite or ORM with Realm?\nDo you know that with tons of advantages, Realm also brings some limitations?\nHave you faced thread handling issues with Realm?\nIf yes, we will discuss different integration approaches of Realm and best practices to follow, along with RxJava, Retrofit, Dagger, Annotations & MVP.\n\nIn this talk, you will be learning:\n1. What is Realm and why use it.\n2. Safe vs Deep integration of Realm in Android, with examples.\n3. Best practices to follow when using Realm, with examples.\n4. Unit testing of Realm, with examples.\n\nLinks:\nGitHub - https://github.com/viraj49/Realm_android-injection-rx-test\nBlog - https://medium.com/@Viraj.Tank/realm-integration-in-android-best-practices-449919d25f2f\n\nThis talk requires basic Android understanding."
+  subtype: "presentation"
+  speakers: ["viraj-tank"]
+  complexity: "Beginner"
+-
   id: 200
   title: "Barcamp"
   description: "Your content, selected by you!"

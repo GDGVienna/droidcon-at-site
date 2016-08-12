@@ -201,3 +201,14 @@
     - {name: "github", link: "http://github.com/seraphimserapis"}
     - {name: "linkedin", link: "http://linkedin.com/in/timmesserschmidt"}
     - {name: "twitter", link: "http://twitter.com/seraandroid"}
+-
+  id: "viraj-tank"
+  name: "Viraj"
+  surname: "Tank"
+  company: "Sociomantic Labs"
+  title: "Mobile Team Lead"
+  bio: "Android developer and Mobile team lead at Sociomantic Labs, Berlin."
+  thumbnailUrl: "VirajTank.jpg"
+  social:
+    - {name: "github", link: "https://github.com/viraj49"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/viraj49"}

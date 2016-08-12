@@ -49,7 +49,7 @@
     -
         startTime: "16:00"
         endTime: "17:00"
-        sessionIds: [113, 999, 106]
+        sessionIds: [113, 118, 106]
     -
         startTime: "17:00"
         endTime: "17:45"
