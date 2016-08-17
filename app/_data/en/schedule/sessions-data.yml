@@ -59,6 +59,7 @@
   description: "We introduce Android Auto, yet another way to connect your smartphone to the car, and compare it with other solutions. By presenting the Android Auto APIs with current features and restrictions as well as the development workflow and toolset the audience will have the necessary input to start coding. When we first heard about Android Auto, we had visions of an awesome smartphone/car integration in mind. Unfortunately the current use cases for apps are limited to music and texting and we have no access to vehicle data (e.g. GPS position, speed, engine type). The development of Android Auto apps is straightforward for the given use cases and your music or texting app can be easily extended to the Android Auto context. Nevertheless we found some pitfalls that we would like to share. Android Auto is bleeding edge: APIs, development tools, etc. are changing fast, documentation is rare and toolkits are still unstable. Testing the app on real car head units is difficult. The fast update cycles of the Android Auto OS with new features during the last couple of months raise our hopes, that the APIs will be extended to more interesting uses cases very soon."
   subtype: "presentation"
   speakers: ["sina-grunau", "christian-dziuba"]
+  imageUrl: "people/SinaGrunau_ChristianDziuba.jpg"
   complexity: "Intermediate"
 -
   id: 105

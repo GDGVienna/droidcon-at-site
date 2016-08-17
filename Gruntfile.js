@@ -3,6 +3,7 @@
 module.exports = function(grunt) {
     require('time-grunt')(grunt);
     require('jit-grunt')(grunt);
+    grunt.task.loadTasks('droidcon-grunt');
     grunt.loadNpmTasks('grunt-convert');
 
     grunt.initConfig({
@@ -356,6 +357,7 @@ module.exports = function(grunt) {
         'critical',
         'copy:dist',
         'convert',
+        'droidconAPI',
         'htmlmin'
     ]);
 
