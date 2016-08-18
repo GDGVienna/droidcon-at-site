@@ -212,3 +212,15 @@
   social:
     - {name: "github", link: "https://github.com/viraj49"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/viraj49"}
+-
+  id: "jeremie-martinez"
+  name: "Jérémie"
+  surname: "Martinez"
+  company: "Captain Train"
+  title: "Android Developer"
+  bio: "Jeremie is an Android software developer for several years and currently working at Captain  Train. He is an enthusiast about good development practices and principles of Software craftsmanship."
+  thumbnailUrl: "JeremieMartinez.jpg"
+  social:
+    - {name: "github", link: "http://github.com/jeremiemartinez"}
+    - {name: "linkedin", link: "https://fr.linkedin.com/in/jeremmartinez/en"}
+    - {name: "site", link: "http://jeremie-martinez.com/"}

@@ -160,6 +160,13 @@
   speakers: ["viraj-tank"]
   complexity: "Beginner"
 -
+  id: 119
+  title: "DevOps on Android: From one git push to a Play Store release"
+  description: "n this talk, we will see how we can re-use the DevOps methodology in an Android context. We will begin with a quick overview of a good continuous integration on Android. Then, we will see what tools we can use to implement such a process with a particular focus on testing. We will also explore the API implemented by Google to allow developers to interact with the console Play Store and therefore be able to automate deliveries. At the end of this talk, we will have a full pipeline to deploy from one git push to a production release."
+  subtype: "presentation"
+  speakers: ["jeremie-martinez"]
+  complexity: "Beginner"
+-
   id: 200
   title: "Barcamp"
   description: "Your content, selected by you!"
