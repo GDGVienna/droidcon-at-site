@@ -236,3 +236,17 @@
     - {name: "twitter", link: "https://twitter.com/mariobodemann"}
     - {name: "github", link: "https://github.com/mariobodemann"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/mariobodemann"}
+-
+  id: "joe-birch"
+  name: "Joe"
+  surname: "Birch"
+  company: "Buffer"
+  title: "Android Engineer"
+  bio: "I’m an Android Engineer based in Brighton, UK working on the Android team at Buffer.<br>I’m passionate about coding and love creating robust, polished and exciting projects for mobile, the web, TV, wearables and I’ll probably be toying with whatever the new thing is at the time you’re reading this – I love to be constantly learning.I’m also a keen writer as I love to share my learnings and experiences with others.<br>When I’m not doing the above, you’ll find me with my camera, socialising, running, at the gym, playing Bass / Guitar or finding something new to engage myself in."
+  thumbnailUrl: "JoeBirch.jpg"
+  social:
+    - {name: "site", link: "http://hitherejoe.com/"}
+    - {name: "github", link: "http://github.com/hitherejoe"}
+    - {name: "twitter", link: "http://twitter.com/hitherejoe"}
+    - {name: "google-plus", link: "https://plus.google.com/+hitherejoebirch"}
+    - {name: "linkedin", link: "https://uk.linkedin.com/in/joe-birch-80392157"}
