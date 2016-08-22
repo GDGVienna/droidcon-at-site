@@ -167,6 +167,13 @@
   speakers: ["jeremie-martinez"]
   complexity: "Beginner"
 -
+  id: 120
+  title: "Virtual Reality in Android: Daydreaming about Cardboards"
+  description: "On this year's IO Google announced Daydream, a new way of integrating your apps with Virtual Reality. To prepare the audience for those new changes, I'll explain the current situation of the VR on Android by live coding two apps: An app using Unity to produce an App on Android and IOS, but also show how to write a simple photosphere app, written in pure Java, emphasising the differences and similarities between both SDKs. After showing how to easily write Cardboard Apps, I'll introduce Daydream, and how this specification changes the usage of the SDK and how to use the simulated, or real controller."
+  subtype: "presentation"
+  speakers: ["mario-bodemann"]
+  complexity: "Beginner"
+-
   id: 200
   title: "Barcamp"
   description: "Your content, selected by you!"

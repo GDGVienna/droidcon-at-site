@@ -224,3 +224,15 @@
     - {name: "github", link: "http://github.com/jeremiemartinez"}
     - {name: "linkedin", link: "https://fr.linkedin.com/in/jeremmartinez/en"}
     - {name: "site", link: "http://jeremie-martinez.com/"}
+-
+  id: "mario-bodemann"
+  name: "Mario"
+  surname: "Bodemann"
+  company: "Contentful"
+  title: "Android and Java Evangelist"
+  bio: "Google Developer Group Co-Organiser <a href='https://twitter.com/Berlindroid' target='_blank'>@Berlindroid</a><br>Android and Java Evangelist <a href='https://twitter.com/Contentful' target='_blank'>@Contentful</a><br>Software Engineer <a href='https://twitter.com/Memorado' target='_blank'>@Memorado</a> and <a href='https://twitter.com/HERE' target='_blank'>@HERE</a><br>Graduate Software Engineer <a href='https://twitter.com/Wooga' target='_blank'>@Wooga</a><br>Research Associate <a href='https://twitter.com/HHIFraunhofer' target='_blank'>@HHIFraunhofer</a><br>Person"
+  thumbnailUrl: "MarioBodemann.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/mariobodemann"}
+    - {name: "github", link: "https://github.com/mariobodemann"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mariobodemann"}
