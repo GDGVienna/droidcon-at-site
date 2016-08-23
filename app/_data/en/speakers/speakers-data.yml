@@ -250,3 +250,14 @@
     - {name: "twitter", link: "http://twitter.com/hitherejoe"}
     - {name: "google-plus", link: "https://plus.google.com/+hitherejoebirch"}
     - {name: "linkedin", link: "https://uk.linkedin.com/in/joe-birch-80392157"}
+-
+  id: "matthias-friedrich"
+  name: "Matthias"
+  surname: "Friedrich"
+  title: "Android Developer"
+  company: "Jimdo"
+  bio: "As Android user from the beginning, Matthias started to develop for the platform with version 1.6 in 2009. Since then he is following its progress very enthusiastically and worked on several applications, big and small, featured in the Play Store and as specialized customer solutions. During these years, he also co-founded the GDG Bremen and GDG Hamburg Android, gave several Android related talks and organized developer events around Google technologies in general. Right now he is a Android developer at the Hamburg based startup Jimdo."
+  thumbnailUrl: "MatthiasFriedrich.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/mtthsfrdrch"}
+    - {name: "google-plus", link: "https://google.com/+MatthiasFriedrich"}
