@@ -188,6 +188,13 @@
   speakers: ["matthias-friedrich"]
   complexity: "Beginner"
 -
+  id: 123
+  title: "Xamarin for Android Developers"
+  description: "Xamarin is a Cross-Platform Framework that allows developers to build mobile applications for iOS, Android and Windows using .NET and C#. From a single language mobile developers can leverage the power of C# and a single codebase to build and maintain their apps for all of the above three platforms. This talk gives an introduction of Xamarin and how Android developers can use it to develop apps not only for Android but easily add other platforms to it."
+  subtype: "presentation"
+  speakers: ["rina-ahmed"]
+  complexity: "Beginner"
+-
   id: 200
   title: "Barcamp"
   description: "Your content, selected by you!"
