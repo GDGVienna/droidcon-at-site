@@ -99,14 +99,14 @@
         sessionIds: [303]
     -
         startTime: "14:30"
-        endTime: "16:00"
-        sessionIds: [200]
+        endTime: "15:30"
+        sessionIds: [124, 999]
     -
-        startTime: "16:00"
-        endTime: "16:30"
+        startTime: "15:30"
+        endTime: "16:00"
         sessionIds: [307]
     -
-        startTime: "16:30"
+        startTime: "16:00"
         endTime: "18:00"
         sessionIds: [200]
     -

@@ -195,6 +195,13 @@
   speakers: ["rina-ahmed"]
   complexity: "Beginner"
 -
+  id: 124
+  title: "Material Design For Android Wear"
+  description: "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a successful user experience for this devices. Every platform has it's own design principles and approaches. But, in the core, they all need to follow same rules. So, how can we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!"
+  subtype: "presentation"
+  speakers: ["resul-caner-yildirim"]
+  complexity: "Beginner"
+-
   id: 200
   title: "Barcamp"
   description: "Your content, selected by you!"
