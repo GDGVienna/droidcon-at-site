@@ -202,6 +202,13 @@
   speakers: ["resul-caner-yildirim"]
   complexity: "Beginner"
 -
+  id: 125
+  title: "Build the next Pokemon Go"
+  description: "Developing Augmented Reality apps for Android - Pokemon Go brought Augmented Reality to the hands of millions of users. In this session Wikitude unveils the secrets of how to build an app like Pokemon Go and shares all the possibilities Augmented Reality can bring to Android devs."
+  subtype: "presentation"
+  speakers: ["andreas-schacherbauer"]
+  complexity: "Beginner"
+-
   id: 200
   title: "Barcamp"
   description: "Your content, selected by you!"

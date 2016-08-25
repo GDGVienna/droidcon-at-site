@@ -283,3 +283,13 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/protechman"}
     - {name: "twitter", link: "https://twitter.com/protechman"}
+-
+  id: "andreas-schacherbauer"
+  name: "Andreas"
+  surname: "Schacherbauer"
+  title: "Head of SDK"
+  company: "Wikitude"
+  bio: "Andreas has been developing Wikitude's augmented reality SDK from the ground up. He leads the SDK engineering group within Wikitude and is actively developing augmented reality solutions for mobile for more than 4 years."
+  thumbnailUrl: "AndreasSchacherbauer.jpg"
+  social: 
+    - {name: "twitter", link: "https://twitter.com/a_schacherbauer"}
