@@ -162,7 +162,7 @@
 -
   id: 119
   title: "DevOps on Android: From one git push to a Play Store release"
-  description: "n this talk, we will see how we can re-use the DevOps methodology in an Android context. We will begin with a quick overview of a good continuous integration on Android. Then, we will see what tools we can use to implement such a process with a particular focus on testing. We will also explore the API implemented by Google to allow developers to interact with the console Play Store and therefore be able to automate deliveries. At the end of this talk, we will have a full pipeline to deploy from one git push to a production release."
+  description: "In this talk, we will see how we can re-use the DevOps methodology in an Android context. We will begin with a quick overview of a good continuous integration on Android. Then, we will see what tools we can use to implement such a process with a particular focus on testing. We will also explore the API implemented by Google to allow developers to interact with the console Play Store and therefore be able to automate deliveries. At the end of this talk, we will have a full pipeline to deploy from one git push to a production release."
   subtype: "presentation"
   speakers: ["jeremie-martinez"]
   complexity: "Beginner"
@@ -211,7 +211,7 @@
 -
   id: 126
   title: "Exploring the Features of Android N"
-  description: "In March 2016 Google presented the first preview of the next major Android release: Android N. To keep their apps up date developers have to prepare as early as possible. Even if the final release is planned for Q3 2016 it’s already clear that Android N will provide improvements in the Android system and features which can boost the user experience for your app. In this talk I present the most important changes and how developers can prepare their apps to be on the bleeding edge. In particular I will cover following features:<br> * Improved Notifications<br> * Launcher Shortcuts<br> * Multi-window support<br> * and more"
+  description: "Android Nougat and what an Android developer should know about it"
   subtype: "presentation"
   speakers: ["melanie-freilinger"]
   complexity: "Beginner"
