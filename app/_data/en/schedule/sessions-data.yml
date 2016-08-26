@@ -147,8 +147,8 @@
   complexity: "Beginner"
 -
   id: 117
-  title: "Introducing the new Firebase"
-  description: "Firebase is a mobile platform that helps you quickly develop high-quality apps, grow your user base, and earn more money. It is made up of complementary features that you can mix-and-match to fit your needs. In this session, Tim will run you through the 15 different features that help you build an effectively scaling and high-performing application that works equally well on Android, iOS and the web."
+  title: "User Authentication designed for 2016 and beyond"
+  description: "User authentication is one of the most important parts of mobile applications. Still, many developers are often overwhelmed by the challenge that is posed by integrating multiple identity providers, implementing user-friendly username-password flows, and storing this data securely across a multitude of devices.<br>In this talk Tim will cover principles of good user authentication that can support developers in implementing a compelling UI, password-less login systems built on open standards and various functionalities within Android, that allow for signing-in users automatically."
   subtype: "presentation"
   speakers: ["tim-messerschmidt"]
   complexity: "Beginner"
