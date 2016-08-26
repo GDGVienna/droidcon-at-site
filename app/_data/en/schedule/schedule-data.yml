@@ -99,10 +99,10 @@
         sessionIds: [303]
     -
         startTime: "14:30"
-        endTime: "15:30"
+        endTime: "15:00"
         sessionIds: [126, 112]
     -
-        startTime: "15:30"
+        startTime: "15:00"
         endTime: "16:00"
         sessionIds: [307]
     -

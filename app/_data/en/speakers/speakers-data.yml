@@ -293,14 +293,3 @@
   thumbnailUrl: "AndreasSchacherbauer.jpg"
   social: 
     - {name: "twitter", link: "https://twitter.com/a_schacherbauer"}
--
-  id: "melanie-freilinger"
-  name: "Melanie"
-  surname: "Freilinger"
-  title: "Android Developer"
-  company: "shpock"
-  bio: "Android Developer <a href='https://twitter.com/Shpock'>@Shpock</a>, Programmer, Gamer, Cat lover"
-  thumbnailUrl: "MelanieFreilinger.jpg"
-  social: 
-    - {name: "twitter", link: "https://twitter.com/meli_freilinger"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/melanie-freilinger-104b5886"}

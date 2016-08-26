@@ -210,10 +210,10 @@
   complexity: "Beginner"
 -
   id: 126
-  title: "Exploring the Features of Android N"
-  description: "Android Nougat and what an Android developer should know about it"
-  subtype: "presentation"
-  speakers: ["melanie-freilinger"]
+  title: "Firebase Codelab"
+  description: "Get your toes wet using Firebase by following the Firebase Codelab!"
+  subtype: "codelab"
+  speakers: ["tim-messerschmidt", "laurence-moroney"]
   complexity: "Beginner"
 -
   id: 200
