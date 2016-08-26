@@ -211,7 +211,7 @@
 -
   id: 126
   title: "Firebase Codelab"
-  description: "Get your toes wet using Firebase by following the Firebase Codelab!"
+  description: "Get your feet wet using Firebase by following the Firebase codelab! In this codelab, you'll learn how to use the Firebase platform to easily create Android applications. You will implement a chat client and be able to monitor its performance using Firebase."
   subtype: "codelab"
   speakers: ["tim-messerschmidt", "laurence-moroney"]
   complexity: "Beginner"
