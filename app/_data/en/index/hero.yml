@@ -1,6 +1,7 @@
 image: "technikum-aula.jpg"
 title: "droidcon Vienna"
 eventDate: "16 - 17 September 2016"
+eventLocation: "Technikum Wien"
 typeoutTextValues: '"", "London", "Krakow", "Zagreb", "Berlin", "Vienna"'
 typeoutFallback: "Vienna"
 buttons:

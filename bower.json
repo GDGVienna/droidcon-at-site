@@ -5,7 +5,7 @@
         "animate-sass": "0.6.3",
         "bootstrap-sass": "3.3.4",
         "typed.js": "*",
-        "sticky-kit": "code418/sticky-kit",
+        "sticky-kit": "1.0.4",
         "waves": "0.6.2",
         "svg4everybody": "1.0.0"
     }
