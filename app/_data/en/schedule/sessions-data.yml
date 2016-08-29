@@ -4,35 +4,41 @@
   place: "Hall"
   service: true
   description: "We will welcome you with hot espresso, danish pastry and your conference badge."
+  imageUrl: "other/breakfast.jpg"
 -
   id: 302
   title: "Welcome"
   place: "Room 1"
   service: true
   description: "Opening of this day of droidcon Vienna"
+  imageUrl: "other/opening.jpg"
 -
   id: 303
   title: "Lunch Break"
   place: "Hall"
   service: true
+  imageUrl: "other/lunchbreak.jpg"
 -
   id: 307
   title: "Coffee Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
+  imageUrl: "other/coffeebreak.jpg"
 -
   id: 308
   title: "Closing"
   place: "Hall"
   service: true
   description: "Closing this conference day"
+  imageUrl: "other/closing.jpg"
 -
   id: 309
   title: "Afterparty"
   place: "TBA"
   service: true
   description: "Time to network and relax"
+  imageUrl: "other/party.png"
 -
   id: 101
   title: "Keynote"
@@ -45,14 +51,14 @@
   description: "How would you like 2 extra hours of your time back every week? All mobile app developers face similar workflows as they work to upload an app to Google Play. Many of these processes are currently done manually, but why not automate them? Fabric’s set of developer tools, collectively called fastlane, makes building, testing, and releasing your app faster, reproducible and less troublesome, leaving developers more time to focus on feature code and not deployment! Learn how you can automate the tedious tasks to generate release notes, screenshots and push your final submission Google Play portal effortlessly from your command line with a powerful open source tool. <a href='https://github.com/fastlane/fastlane/' target='_blank'>github.com/fastlane/fastlane/</a>"
   subtype: presentation
   speakers: ["andrea-falcone"]
-  complexity: "Intermediate" 
+  complexity: "Intermediate"
 -
   id: 103
   title: "The 2016 Android Developer Toolbox"
   description: "Whether your app is a pet project or has millions of users, you probably need the right tools, during the development, to help you modify persisted data in real time, simulate a slow/unstable HTTP(s) connection, detect bugs as fast as possible, or create mock servers to anticipate the development of a feature.<br>We will make a demonstration of all the tools we use, in 2016, to write maintainable code and improve our productivity."
   subtype: presentation
   speakers: ["gautier-mechling"]
-  complexity: "Beginner" 
+  complexity: "Beginner"
 -
   id: 104
   title: "Developing Apps for Android Auto"
@@ -220,9 +226,11 @@
   title: "Barcamp"
   description: "Your content, selected by you!"
   subtype: barcamp
+  imageUrl: "other/barcamp.jpg"
 -
   id: 999
   title: "Coming soon"
   description: "More details will be announced later"
   subtype: presentation
   speakers: []
+  imageUrl: "other/questionmark.jpg"
