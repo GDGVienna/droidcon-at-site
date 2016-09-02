@@ -20,20 +20,19 @@ Harassment will not be tolerated. All attendees are welcomed at our event, no �
 
 #### Diversity Tickets
 
-As a small step towards increased diversity we are offering five diversity tickets to underrepresented groups.
-Women, transgender & non-binary people, people of color and disabled people are invited to apply for a diversity ticket.
+As a small step towards increased diversity we have offered diversity tickets to underrepresented groups.
+Women, transgender & non-binary people, people of color and disabled people were invited to apply for a diversity ticket.
 
-<a href="http://goo.gl/forms/Qhltqit0Obi1uoXM2" target="_blank" class="btn btn-primary waves-effect waves-button waves-light waves-float">Apply Here</a>
-
-Please submit your application before end of August, and we will inform you beginning of September.
-If the demand for diversity tickets will be larger than the supply then they will be raffled.
+Till end of August eight applications have been received and everyone has been provided with a free diversity ticket.
 
 #### Diverse Speakers
 
 We strive in having a better diversity in our speaker set. To reduce unconscious bias, the talk proposals are first reviewed anonymously. The Program Committee does not know the speakers’ gender or race when rating the submissions.
 In a second step we deliberately upvote speakers from diversity groups. This does not overrule good content – the best content will still be the winner – but it adds a small twist towards underrepresented groups.
 
+At the end of the process about one third female speakers have been selected. In addition four female speakers had to withdraw their proposal which resulted in the final speaker set with 20% female speakers.
+
 #### Small Steps
 
-These are small steps and we will review their impact. And if you have specific ideas how we can make droidcon Vienna even more inclusive then please let us know via [diversity@droidcon.at](mailto:diversity@droidcon.at)!
+These are small steps and we will continuously measure and review the situation. And if you have specific ideas how we can make droidcon Vienna even more inclusive then please let us know via [diversity@droidcon.at](mailto:diversity@droidcon.at)!
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/diversity2.jpg" style="display:none">
