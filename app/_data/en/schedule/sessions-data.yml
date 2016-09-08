@@ -202,10 +202,10 @@
   complexity: "Beginner"
 -
   id: 124
-  title: "Material Design For Android Wear"
-  description: "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a successful user experience for this devices. Every platform has it's own design principles and approaches. But, in the core, they all need to follow same rules. So, how can we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!"
+  title: "Private Development Made Easy"
+  description: "Deliver private, secure apps with ease<br><br>Mobile phones have become central to our private lives, full of intimate messages, private pictures, and a huge amount of details of our personal lives.  Our experience of using mobile software feels very private: when we look at our mobile screens, it feels like no one else can see what we are seeing.  Unfortunately, information can easily leak out in so many different ways, making it difficult for app developers to deliver on this implicit promise made to users.<br>For companies, it is clear that data can be very lucrative business.  It is also increasingly apparent that having too much data about users can destroy your business if that information gets hacked and dumped onto the internet.<br>Building apps that can securely contain private can be hard to do, but it does not have to be.  Guardian Project's central goal is to make it as easy as possible.  We take cutting edge security research and bundle it up into free, easy to use libraries.  These libraries make it very easy to protect precious data on the device and over the internet.  These libraries use APIs that developers already know (e.g. android.database.*, java.io.*) so the ramp up time for developers is really fast.  This workshop will give an overview of our suite of libraries, including SQLCipher-for-Android, private file stores, and hardened network connections.  Then we will help you start incorporating them in your own apps, providing a wealth of examples including sample code, real world apps that use these libraries, and UI/UX patterns that work well."
   subtype: "presentation"
-  speakers: ["resul-caner-yildirim"]
+  speakers: ["hans-christoph-steiner"]
   complexity: "Beginner"
 -
   id: 125
