@@ -1,4 +1,4 @@
-- 
+-
   id: "laurence-moroney"
   name: "Laurence"
   surname: "Moroney"
@@ -7,10 +7,10 @@
   bio: "Laurence Moroney has authored more programming books than he can remember.<br>A well known speaker at conferences such as Google I/O, Microsoft Build, and others, he is passionate about mobile development, and Android in particular. When not messing around with development, he is a published Sci-Fi novelist and produced screenwriter.<br>Follow Laurence on <a href='https://twitter.com/lmoroney' target='_blank'>lmoroney</a>"
   thumbnailUrl: LaurenceMoroney.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/lmoroney"}
     - {name: "google-plus", link: "https://plus.google.com/+LaurenceMoroney/"}
-- 
+-
   id: "andrea-falcone"
   name: "Andrea"
   surname: "Falcone"
@@ -19,10 +19,10 @@
   bio: 'Andrea Falcone is a Senior Software Engineer at Twitter. She has worked on many parts of Fabric, building the Android tooling, including Android Studio Plugin, Crashlytics Android SDK, Gradle plugin and Beta by Crashlytics. She is currently working on fastlane, an open source release process automation suite. Past talks: <a href="https://github.com/asfalcone/talks" target="_blank">github.com/asfalcone/talks</a>'
   thumbnailUrl: AndreaFalcone.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/asfalcone"}
     - {name: "github", link: "https://github.com/asfalcone"}
-- 
+-
   id: "gautier-mechling"
   name: "Gautier"
   surname: "Mechling"
@@ -30,8 +30,8 @@
   title: "Software Craftsman"
   bio: "Gautier is an aspiring Software Craftsman at happn in Paris, France. Agile thinker passionate in Android Development, he creates and maintains some FOSS tools to improve productivity. Talk to him about Kotlin, Clean Code, or Free Software and you will see his eyes light up."
   thumbnailUrl: GautierMechling.jpg
-  ribbon: 
-  social: 
+  ribbon:
+  social:
     - {name: "twitter", link: "https://twitter.com/Nilhcem"}
     - {name: "github", link: "https://github.com/Nilhcem"}
     - {name: "google-plus", link: "https://plus.google.com/+GautierMechling"}
@@ -280,7 +280,7 @@
   company: "Wikitude"
   bio: "Andreas has been developing Wikitude's augmented reality SDK from the ground up. He leads the SDK engineering group within Wikitude and is actively developing augmented reality solutions for mobile for more than 4 years."
   thumbnailUrl: "AndreasSchacherbauer.jpg"
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/a_schacherbauer"}
 -
   id: "hans-christoph-steiner"
@@ -290,3 +290,6 @@
   company: "Guardian Project"
   bio: "Hans-Christoph Steiner is a researcher and hacker with Guardian Project working to make private-by-design easy for all to achieve. He spends his time making software as private as possible yet usable by everyone, designing digital interactions focused on perceptual capabilities, and composing music with computers. With an emphasis on collaboration, he works in many forms, including free software for mobile and embedded devices, responsive sound environments, free wireless networks that build community, musical robots that listen, programming environments to let you play with math, and a jet-powered fish that you can ride. To further his research, he teaches and works at various community centers and organizes open, collaborative hacklabs and open barcamp conferences. He is currently focused on building the most flexible, private, and secure app store as well as teaching digital security, interaction design, and media programming at workshops around and universities around the world."
   thumbnailUrl: "Hans-ChristophSteiner.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/hansstatus"}
+    - {name: "site", link: "https://guardianproject.info/blog"}
