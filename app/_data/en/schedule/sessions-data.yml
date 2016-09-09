@@ -35,9 +35,9 @@
 -
   id: 309
   title: "Afterparty"
-  place: "TBA"
+  place: "Alias"
   service: true
-  description: "Time to network and relax"
+  description: "Time to network and relax - join us at the <a href='http://www.millennium-city.at/en/gastro/alias/' target='_blank'>Café Alias</a> for free beer & wine"
   imageUrl: "other/party.png"
 -
   id: 101
