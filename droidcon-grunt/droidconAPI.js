@@ -123,12 +123,12 @@ module.exports = function(grunt) {
               }
             }
             else if (schedule[i].timeslots[j].sessionIds.length == 2) {
-              // first session in room 1, second in room 3
+              // first session in room 1, second in room 2
               if (k == 0) {
                 aSession.roomId = 1;
               }
               else {
-                aSession.roomId = 3;
+                aSession.roomId = 2;
               }
             }
             else {
