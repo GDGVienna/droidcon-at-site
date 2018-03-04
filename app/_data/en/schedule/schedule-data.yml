@@ -1,12 +1,12 @@
-- 
-  date: "2016-09-16"
-  dateReadable: "Friday, 16 September"
-  tracks: 
+-
+  date: "2018-06-08"
+  dateReadable: "Friday, 8 June"
+  tracks:
     - {title: "Room 1", color: "#90be4e"}
     - {title: "Room 2", color: "#03a9f4"}
     - {title: "Room 3", color: "#e91e63"}
   timeslots:
-    - 
+    -
       startTime: "08:00"
       endTime: "09:00"
       sessionIds: [301]
@@ -62,13 +62,13 @@
         startTime: "19:00"
         endTime: "22:00"
         sessionIds: [309]
-- 
-  date: "2016-09-17"
-  dateReadable: "Saturday, 17 September"
-  tracks: 
+-
+  date: "2018-06-09"
+  dateReadable: "Saturday, 9 June"
+  tracks:
     - {title: "Room 1", color: "#90be4e"}
     - {title: "Room 2", color: "#e91e63"}
-  timeslots: 
+  timeslots:
     -
         startTime: "09:00"
         endTime: "09:15"

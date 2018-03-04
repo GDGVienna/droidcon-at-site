@@ -1,8 +1,8 @@
 # Site Settings
-title: "droidcon Vienna 2016"
+title: "droidcon Vienna 2018"
 email: "team@droidcon.at"
 description: "droidcon Vienna brings the best from Android to Austria"
-enablePreloader: true
+enablePreloader: false
 
 # Head
 metaKeywords: "event, droidcon, vienna, android, programming, software, developers, gdg, google"

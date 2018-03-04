@@ -1,6 +1,6 @@
 title: "About droidcon Vienna"
 blocks:
  - {title: "Conference", image: "room.jpg", text: "droidcon Vienna will feature <b>more than 20 sessions</b> in three parallel tracks, with over <b>fifteen hours</b> of high-quality content." }
- - {title: "Community", image: "community.jpg", text: "droidcon is always about community. A half day is dedicated to a <b>Barcamp</b> - your content selected by you!" }
+ - {title: "Community", image: "community.jpg", text: "droidcon is always about community. The second day is our community day - with <b>Barcamp</b>, your content selected by you!" }
  - {title: "Sessions", image: "conference.jpg", text: "A program committee comprised of members of the <b>local Android developer community</b> is reviewing the talk proposals to ensure the quality of the accepted sessions for the conference." }
  - {title: "Speakers", image: "speaker.jpg", text: "Speakers are a mixture of <b>internationally renowned speakers</b> as well as <b>developer experts</b> from the region." }

@@ -1,11 +1,11 @@
 links:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/logistics/", text: "Logistics"}
+# - {permalink: "/blog/", text: "Blog"}
 bottomLinks:
- - {permalink: "/#tickets", text: "Register Now"}
+# - {permalink: "/#tickets", text: "Register Now"}
 rightButtons:
- - {permalink: "/#tickets", text: "Register Now"}
+# - {permalink: "/#tickets", text: "Register Now"}
