@@ -5,4 +5,4 @@ eventLocation: "Technikum Wien"
 typeoutTextValues: '"", "London", "Krakow", "Zagreb", "Berlin", "Vienna"'
 typeoutFallback: "Vienna"
 buttons:
- - {permalink: "/#tickets", text: "Register Now"}
+# - {permalink: "/#tickets", text: "Register Now"}

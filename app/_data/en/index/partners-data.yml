@@ -1,16 +1,10 @@
-- 
+-
   group: "Silver Sponsor"
-  elements: 
+  elements:
     - {name: "shpock", description: "Shpock - the boot sale app for beautiful things", link: "https://www.shpock.com/", imageUrl: "shpock.png"}
     - {name: "runtastic", description: "runtastic", link: "https://www.runtastic.com/career", imageUrl: "runtastic.png"}
-- 
+-
   group: "Bronze Sponsor"
-  elements: 
+  elements:
     - {name: "creative workline", description: "creative workline GmbH - Mobile App Solutions", link: "https://www.creativeworkline.at/", imageUrl: "creativeworkline.png"}
     - {name: "c4c Engineering", description: "c4c Engineering", link: "https://www.c4cengineering.de/", imageUrl: "c4c-engineering.png"}
-- 
-  group: "Usergroup Partners"
-  elements: 
-    - {name: "Vienna Scala", description: "Vienna Scala", link: "http://scala-vienna.org/", imageUrl: "vienna-scala.png", width: "120px"}
-    - {name: "Mobile Quality Crew Vienna", description: "Mobile Quality Crew Vienna", link: "http://www.meetup.com/Vienna-Mobile-Quality-Crew-Meetup/", imageUrl: "vienna-mobile-quality-crew.png"}
-    - {name: "GDG DevFest Ukraine", description: "GDG DevFest Ukraine", link: "https://devfest.gdg.org.ua", imageUrl: "devfest-ukraine.png"}
