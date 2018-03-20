@@ -4,14 +4,13 @@ title: Call for Papers
 permalink: /call-for-papers/
 isStaticPost: true
 ---
-{% comment %}
 _Interested in presenting at droidcon Vienna? Cool! Thanks a lot!_
 
-The second call for papers is open till 10 July 2016, midnight Vienna time.
+The call for papers is open till 15 April 2018, midnight Vienna time.
 
 ##### Topics
 
-The theme of droidcon Vienna 2016 is *Everything Android*. We will include talks around development topics on Android, mobile app design, monetization, and related soft skills.
+The theme of droidcon Vienna 2018 is *Everything Android*. We will include talks around development topics on Android, mobile app design, monetization, and related soft skills.
 
 Among our participants are highly-skilled and experienced Android developers. Talk proposals about advanced and specialized Android topics are therefore also welcomed.
 
@@ -45,15 +44,15 @@ To reduce unconscious bias, the talk proposals will be anonymized before being i
 
 Afterwards we will add in the speaker details. Generally only one talk per speaker will be accepted, and we will in this second phase also review experience with past talks given.
 
-We will contact you in case of some questions, and latest beginning of August 2016 you should hear from us whether your talk has been selected. Exceptionally high-quality talk proposals might be selected and announced even earlier.
+We will contact you in case of some questions, and latest beginning of May 2018 you should hear from us whether your talk has been selected. Exceptionally high-quality talk proposals might be selected and announced even earlier.
 
 ###### Travel Subsidy
 
 As our budget is limited we can only offer limited travel subsidy for your talk. If you need financial support please indicate so in the comment field.
 
-{% endcomment %}
-
+{% comment %}
 Our call for papers is closed now.
 Thank you for your interest in presenting at droidcon Vienna!
+{% endcomment %}
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
