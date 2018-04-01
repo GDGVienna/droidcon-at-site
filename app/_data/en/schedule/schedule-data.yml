@@ -21,7 +21,7 @@
     -
         startTime: "10:15"
         endTime: "11:15"
-        sessionIds: [102, 121]
+        sessionIds: [999, 999]
     -
         startTime: "11:15"
         endTime: "11:30"
@@ -29,7 +29,7 @@
     -
         startTime: "11:30"
         endTime: "12:30"
-        sessionIds: [115, 103]
+        sessionIds: [999, 999]
     -
         startTime: "12:30"
         endTime: "14:00"
@@ -37,11 +37,11 @@
     -
         startTime: "14:00"
         endTime: "15:00"
-        sessionIds: [111, 104, 120]
+        sessionIds: [999, 999, 999]
     -
         startTime: "15:00"
         endTime: "16:00"
-        sessionIds: [105, 122, 125]
+        sessionIds: [999, 999, 999]
     -
         startTime: "16:00"
         endTime: "16:15"
@@ -49,11 +49,11 @@
     -
         startTime: "16:15"
         endTime: "17:15"
-        sessionIds: [113, 118, 124]
+        sessionIds: [999, 999, 999]
     -
         startTime: "17:15"
         endTime: "18:15"
-        sessionIds: [107, 119, 114]
+        sessionIds: [999, 999, 999]
     -
         startTime: "18:15"
         endTime: "18:30"
@@ -80,11 +80,11 @@
     -
         startTime: "09:30"
         endTime: "10:30"
-        sessionIds: [117, 108]
+        sessionIds: [999, 999]
     -
         startTime: "10:30"
         endTime: "11:30"
-        sessionIds: [109, 123]
+        sessionIds: [999, 999]
     -
         startTime: "11:30"
         endTime: "11:45"
@@ -92,28 +92,20 @@
     -
         startTime: "11:45"
         endTime: "12:45"
-        sessionIds: [116, 110]
+        sessionIds: [999, 999]
     -
         startTime: "12:45"
         endTime: "13:15"
-        sessionIds: [126, 112]
+        sessionIds: [999, 999]
     -
         startTime: "13:15"
         endTime: "14:45"
         sessionIds: [303]
     -
         startTime: "14:45"
-        endTime: "16:30"
+        endTime: "15:30"
         sessionIds: [200]
     -
-        startTime: "16:30"
-        endTime: "17:00"
-        sessionIds: [307]
-    -
-        startTime: "17:00"
-        endTime: "18:00"
-        sessionIds: [200]
-    -
-        startTime: "18:00"
-        endTime: "18:15"
+        startTime: "15:30"
+        endTime: "16:00"
         sessionIds: [308]

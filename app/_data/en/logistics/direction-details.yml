@@ -25,6 +25,6 @@ wideCards:
    -
     title: "Attendance Details"
     links:
-     - {link: "https://droidconvie-2016.eventbrite.com", text: "Tickets on Eventbrite"}
+     # - {link: "https://droidconvie-2016.eventbrite.com", text: "Tickets on Eventbrite"}
      - {permalink: "/code-of-conduct", text: "Code of Conduct"}
      - {permalink: "/schedule", text: "Schedule"}
