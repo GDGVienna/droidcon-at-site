@@ -1,6 +1,6 @@
 -
   date: "2018-06-08"
-  dateReadable: "Friday, 8 June"
+  dateReadable: "Friday, 21 September"
   tracks:
     - {title: "Room 1", color: "#90be4e"}
     - {title: "Room 2", color: "#03a9f4"}
@@ -64,7 +64,7 @@
         sessionIds: [309]
 -
   date: "2018-06-09"
-  dateReadable: "Saturday, 9 June"
+  dateReadable: "Saturday, 22 September"
   tracks:
     - {title: "Room 1", color: "#90be4e"}
     - {title: "Room 2", color: "#e91e63"}

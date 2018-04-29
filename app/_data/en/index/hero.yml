@@ -1,7 +1,7 @@
 image: "technikum-aula.jpg"
 title: "droidcon Vienna"
-eventDate: ""
-# eventLocation: "Technikum Wien"
+eventDate: "21 - 22 September 2018"
+eventLocation: "Technikum Wien"
 typeoutTextValues: '"", "London", "Krakow", "Zagreb", "Berlin", "Vienna"'
 typeoutFallback: "Vienna"
 buttons:
