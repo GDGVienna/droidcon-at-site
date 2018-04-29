@@ -1,0 +1,26 @@
+<!-- Begin Photos List-->
+<section id="photos-{{ include.year }}" class="photos team">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>droidcon Vienna {{ include.year }}</h3>
+        </div>
+        <div class="col-lg-10 col-lg-offset-1 text-center"><div class="row">
+            {% for photo in site.data.[site.lang].photos.photos %} {% if photo.year == include.year %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+                <div class="zoe-effect" data-toggle="modal" data-target="#photo-{{ photo.year }}-{{ photo.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl_root| append: '/img/photos/' | append: photo.year | append: '/' | append: photo.file }})">
+                        <div class="overlay solid-overlay"></div>
+                        <figcaption>
+                            <div class="col-md-8 col-xs-8 text-left">
+                                <h2 class="name">{{ photo.text }} </h2>
+                                <div class="clearfix"></div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+            {% endif %} {% endfor %}
+        </div></div>
+    </div>
+</section>
+<!-- End Team List -->

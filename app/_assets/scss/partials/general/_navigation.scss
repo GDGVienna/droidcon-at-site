@@ -21,10 +21,14 @@ $nav-color-dark: #729400;
         box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
         .overlay {
             opacity: 1;
+            &.white-solid {
+                background: rgba(255, 255, 255, 1);
+            }        
         }
     }
     .overlay {
-        opacity: 0;
+        opacity: 0.5;
+	    background: linear-gradient(to bottom, #444 0%, #444 32%, rgba(68, 68, 68, 68) 64%, rgba(0, 0, 0, .0) 100%);
         transition: $base-transition;
     }
 }

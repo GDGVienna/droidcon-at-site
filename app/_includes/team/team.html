@@ -6,6 +6,11 @@
             <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.data.[site.lang].team.team.aboutUs }}</p>
         </div>
         <div class="col-lg-10 col-lg-offset-1 text-center">
+            <figure class="waves-effect waves-block waves-light">
+                <img style="width: 100%;" src="{{ site.baseurl_root | append: '/img/sections-background/team-header.jpg' }}" alt="Picture of team members at droidcon Vienna 2016">
+            </figure>
+        </div>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Organizers</h4>
             {% for teamMember in site.data.[site.lang].team.team-data %} {% if teamMember.team != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
