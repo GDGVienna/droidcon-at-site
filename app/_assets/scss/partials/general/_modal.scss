@@ -41,6 +41,11 @@ $modal-highlight-color: #212121;
         margin-top: 100px;
     }
 }
+.modal-dialog.photo-dialog {
+    @media (min-width: 768px) {
+        margin-top: 50px;
+    }
+}
 .modal-body {
     padding: 16px 31px;
     color: $modal-color;

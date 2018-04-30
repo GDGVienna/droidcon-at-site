@@ -2,7 +2,7 @@
 <div class="modals" class="modals">
     {% for photo in site.data.[site.lang].photos.photos %}
         <div class="modal fade text-left photo-modal" id="photo-{{ photo.year }}-{{ photo.id }}" tabindex="-1" role="dialog" aria-labelledby="photoLabel-{{ photo.year }}-{{ photo.id }}" aria-hidden="true">
-            <div class="modal-dialog">
+            <div class="modal-dialog photo-dialog">
                 <div class="modal-content" style="width:860px;">
                     <div class="modal-body">
                         <div class="close">
