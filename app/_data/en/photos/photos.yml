@@ -2,39 +2,44 @@
   id: 0
   file: attendees.jpg
   year: 2016
-  text: "Attendees of droidcon Vienna 2016"
+  text: "Attendees of droidcon"
 -
   id: 1
   file: lunchbreak.jpg
   year: 2016
-  text: "Lunchbreak droidcon Vienna 2016"
+  text: "Lunchbreak"
 -
   id: 3
   file: lunchbreak2.jpg
   year: 2016
-  text: "Lunchbreak droidcon Vienna 2016"
+  text: "Lunchbreak"
 -
   id: 4
   file: runtastic.jpg
   year: 2016
-  text: "Sponsor 'runtastic' at droidcon Vienna 2016"
+  text: "runtastic at droidcon"
 -
   id: 5
   file: shpock.jpg
   year: 2016
-  text: "Sponsor 'shpock' at droidcon Vienna 2016"
+  text: "shpock at droidcon"
 -
   id: 6
   file: wrapstars.jpg
   year: 2016
-  text: "Team from wrapstars, caterer from droidcon Vienna 2016"
+  text: "wrapstars, our caterer"
 -
   id: 7
   file: speaker-dinner.jpg
   year: 2016
-  text: "Speaker dinner droidcon Vienna 2016"
+  text: "Speaker dinner"
 -
   id: 8
+  file: team.jpg
+  year: 2016
+  text: "Relaxed team"
+-
+  id: 9
   file: after-drink.jpg
   year: 2016
-  text: "Attendees and speakers having a drink after droidcon Vienna 2016"
+  text: "After droidcon ..."

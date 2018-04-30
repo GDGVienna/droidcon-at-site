@@ -32,7 +32,9 @@
         </div>
     </div>
 
-    {% if page.modal != null %}
+    {% if page.modal == "photos" %}
+        {% include photos/photos-modals.html %}
+    {% elsif page.modal != null %}
     	{% include speakers/speakers-modals.html %}
     {% endif %}
 

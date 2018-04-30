@@ -4,6 +4,7 @@ links:
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/call-for-papers/", text: "Call"}
  - {permalink: "/team/", text: "Team"}
+ - {permalink: "/photos/", text: "Photos"}
  - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/blog/", text: "Blog"}
 bottomLinks:

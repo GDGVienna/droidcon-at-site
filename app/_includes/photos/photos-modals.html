@@ -1,0 +1,24 @@
+<!-- Begin Photos Modals -->
+<div class="modals" class="modals">
+    {% for photo in site.data.[site.lang].photos.photos %}
+        <div class="modal fade text-left photo-modal" id="photo-{{ photo.year }}-{{ photo.id }}" tabindex="-1" role="dialog" aria-labelledby="photoLabel-{{ photo.year }}-{{ photo.id }}" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content" style="width:860px;">
+                    <div class="modal-body">
+                        <div class="close">
+                            <svg class="icon icon-cross" viewBox="0 0 32 32">
+                                <use xlink:href="{{ site.baseurl_root }}/img/sprites/sprites.svg#icon-cross"></use>
+                            </svg>
+                            <div class="close-mask" data-dismiss="modal"></div>
+                        </div>
+                        <img src="{{ site.baseurl_root| append: '/img/photos/' | append: photo.year | append: '/' | append: photo.file }}" alt="{{ photo.text }}">
+                        <br>
+                        <br>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>
+<!-- End Photos Modals -->
+    
