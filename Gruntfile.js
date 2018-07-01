@@ -354,7 +354,6 @@ module.exports = function(grunt) {
         'sass:dist',
         'autoprefixer:dist',
         'cssmin',
-        'critical',
         'copy:dist',
         'convert',
         'droidconAPI',

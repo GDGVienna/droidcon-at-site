@@ -15,6 +15,7 @@
                 {% endfor %}
             </ul>
             {% endfor %}
+            {% comment %}
             <h3 id="sponsors">{{ site.data.[site.lang].index.partners.title }}</h3>
             {% for partner in site.data.[site.lang].index.partners-data %}
             <h5>{{ partner.group }}</h5>
@@ -28,9 +29,8 @@
                 {% endfor %}
             </ul>
             {% endfor %}
-<!--
-            <a target="_blank" href="{{ site.data.[site.lang].index.partners.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.[site.lang].index.partners.c4sponsorsButton }}</a>
--->
+            {% endcomment %}
+            <a download target="_blank" href="{{ site.data.[site.lang].index.partners.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.[site.lang].index.partners.c4sponsorsButton }}</a>
         </div>
     </div>
 </section>

@@ -1,75 +1,37 @@
 -
-  id: "laurence-moroney"
-  name: "Laurence"
-  surname: "Moroney"
-  company: "Google"
-  title: "Developer Advocate at Google"
-  bio: "Laurence Moroney has authored more programming books than he can remember.<br>A well known speaker at conferences such as Google I/O, Microsoft Build, and others, he is passionate about mobile development, and Android in particular. When not messing around with development, he is a published Sci-Fi novelist and produced screenwriter.<br>Follow Laurence on <a href='https://twitter.com/lmoroney' target='_blank'>lmoroney</a>"
-  thumbnailUrl: LaurenceMoroney.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/lmoroney"}
-    - {name: "google-plus", link: "https://plus.google.com/+LaurenceMoroney/"}
+  id: "bartosz-kraszewski"
+  name: "Bartosz"
+  surname: "Kraszewski"
+  thumbnailUrl: "BartoszKraszewski.jpg"
+  bio: "Software Engineer specialised in Mobile Applications development. Focused on code quality and standards, experienced working in fast paced, product-oriented environment - Silicon Valley startups. Co-founder of Mobile Bialystok - local mobile technology enthusiasts group. Also an amateur squash player."
 -
-  id: "andrea-falcone"
-  name: "Andrea"
-  surname: "Falcone"
-  company: "Twitter"
-  title: "Software Engineer"
-  bio: 'Andrea Falcone is a Senior Software Engineer at Twitter. She has worked on many parts of Fabric, building the Android tooling, including Android Studio Plugin, Crashlytics Android SDK, Gradle plugin and Beta by Crashlytics. She is currently working on fastlane, an open source release process automation suite. Past talks: <a href="https://github.com/asfalcone/talks" target="_blank">github.com/asfalcone/talks</a>'
-  thumbnailUrl: AndreaFalcone.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/asfalcone"}
-    - {name: "github", link: "https://github.com/asfalcone"}
+  id: "hari-vignesh-jayapalan"
+  name: "Hari"
+  surname: "Vignesh Jayapalan"
+  bio: "I’m a unicorn developer, currently working for a non-profit organization called Habba as an Android Developer and a UX engineer. I’m also the world’s first Google-certified Associate Android developer. I love public speaking and blogging. A regular speaker in Google Developer Group events, Droidcon Speaker, a guest writer for PacktPub and a blogger at Medium. My hobbies include close-up magic, lock picking and digital painting."
+  thumbnailUrl: "HariVigneshJayapalan.jpg"
 -
-  id: "gautier-mechling"
-  name: "Gautier"
-  surname: "Mechling"
-  company: "happn, Paris"
-  title: "Software Craftsman"
-  bio: "Gautier is an aspiring Software Craftsman at happn in Paris, France. Agile thinker passionate in Android Development, he creates and maintains some FOSS tools to improve productivity. Talk to him about Kotlin, Clean Code, or Free Software and you will see his eyes light up."
-  thumbnailUrl: GautierMechling.jpg
-  ribbon:
-  social:
-    - {name: "twitter", link: "https://twitter.com/Nilhcem"}
-    - {name: "github", link: "https://github.com/Nilhcem"}
-    - {name: "google-plus", link: "https://plus.google.com/+GautierMechling"}
+  id: "moyinoluwa-adeyemi"
+  name: "Moyinoluwa"
+  surname: "Adeyemi"
+  bio: "Moyinoluwa Adeyemi is an Android Developer who enjoys sharing her knowledge about Android Development by speaking at conferences and writing on Medium. She cares a lot about building apps that look good and work well on all devices. She can constantly be found trying to beat her personal best for her 5km run."
+  thumbnailUrl: "MoyinoluwaAdeyemi.jpg"
 -
-  id: "daniel-hartwich"
-  name: "Daniel"
-  surname: "Hartwich"
-  company: "XING"
-  bio: "Daniel Hartwich is an aspiring Android Developer at the German company XING AG located in Hamburg. He has been programming for the Android platform since 2013. Whenever Google releases anything new regarding Android, Daniel instantly gets interested and investigates everything - up to the smallest detail."
-  thumbnailUrl: DanielHartwich.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/KiLLyA_"}
-    - {name: "github", link: "https://github.com/dhartwich1991"}
+  id: "adnan-am"
+  name: "Adnan"
+  surname: "A M"
+  company: "Redmart"
+  title: "Android Developer"
+  bio: "Adnan is a seasoned Android developer working with Redmart. His area of focus has generally been writing large scalable code, improving UX and overall app performance. He has a lot of domain knowledge and exposure with E-Commerce domain and used to previously work at BookMyShow, where he went to rewrite the entire app from scratch."
+  thumbnailUrl: "AdnanAm.jpg"
 -
-  id: "zan-markan"
-  name: "Žan"
-  surname: "Markan"
-  company: "Marks & Spencer"
-  bio: "I take care of the android side of native shopping apps at Marks & Spencer in London. My favourite topics are testing and automation, and I spend a lot of time playing about in that. In my spare time I talk at conferences or fiddle with some obscure technologies."
-  thumbnailUrl: "ZanMarkan.jpg"
-  social:
-    - {name: "twitter", link: "https://twitter.com/zmarkan"}
-    - {name: "google-plus", link: "https://plus.google.com/+%C5%BDanMarkan"}
-    - {name: "github", link: "https://github.com/zmarkan"}
-    - {name: "linkedin", link: "https://uk.linkedin.com/in/zmarkan"}
-    - {name: "site", link: "http://www.spacecowboyrocketcompany.com/"}
--
-  id: "kristijan-jurkovic"
-  name: "Kristijan"
-  surname: "Jurković"
-  company: "Infinum"
-  title: "Android Team Lead"
-  bio: "My programming path went from HTML, CSS and PHP/MySQL and ERP and BI Systems to Mobile development. With roughly 10 years of total programming experience and 6 years in mobile development, I became an Android team lead in an awesome cool young company from Zagreb - Infinum. Besides programming and learning new stuff, I enjoy reading a good book or getting wasted as noob in Counter Strike:GO."
-  thumbnailUrl: "KristijanJurkovic.jpg"
-  social:
-    - {name: "twitter", link: "https://www.twitter.com/kjurkovic"}
-    - {name: "linkedin", link: "http://www.linkedin.com/in/kristijanjurkovic"}
-    - {name: "site", link: "https://about.me/kristijan.jurkovic"}
+  id: "kapil-bakshi"
+  name: "Kapil"
+  surname: "Bakshi"
+  company: "BlackBuck"
+  title: "Software Development Engineer"
+  thumbnailUrl: "KapilBakshi.jpg"
+  bio: "Kapil Bakshi is a very passionate techie with an aim to embrace technology, imbibe every bit of it, transcend all the barriers and turn ideas into reality. His experience spans across edtech, fintech and logistics sectors where he has developed things from scratch taking them to a level where they have scaled drastically and have become a brand in their respective domains. Kapil has given talks on emerging Android technologies and architectural best practices and testing and has been invited to speak at International Conferences like Droidcon Beijing 2017, DroidKaigi Tokyo 2018 and Android Makers France 2018 and HesienBug Russia 2018."
 -
   id: "david-schreiber-ranner"
   name: "David"
@@ -81,215 +43,10 @@
     - {name: "twitter", link: "https://twitter.com/Flashmasterdash"}
     - {name: "google-plus", link: "https://plus.google.com/112371263315253005287"}
 -
-  id: "zeljko-plesac"
-  name: "Željko"
-  surname: "Plesac"
-  company: "Infinum"
-  bio: "Željko has been a part of the Infinum Android team for 3 years. He has mastered all those nasty bugs and errors which can occur while developing even the most complicated projects. His passions include ORM libraries and frameworks, Android Studio and contributing to open source. His love for Android Studio can only be matched by his hatred for Eclipse"
-  thumbnailUrl: "ZeljkoPlesac.jpg"
-  social:
-    - {name: "linkedin", link: "https://hr.linkedin.com/in/željko-plesac-01551214"}
-    - {name: "twitter", link: "https://twitter.com/ZeljkoPlesac"}
--
-  id: "hasan-hosgel"
-  name: "Hasan"
-  surname: "Hoşgel"
-  company: "ImmobilienScout24"
-  title: "Google Developer Expert"
-  bio: "Hasan Hoşgel is a dedicated Android developer and a Google Developer Export for Android with over fiveteen years of professional programming experience. Since 2010 doing all day long Android application development. Continuous improvement of the architecture, performance and also quality are his dedication. He works since 2006 for ImmobilienScout24, Germany’s real estate marketplace leader. With a short intermezzo at Kitchen Stories, which offered a premium cooking application. As a co-organizer of the “GDG Berlin Android” and as a speaker he attended many mobile conferences and several Google Developer Groups across Europe. As well being in program committees and organization of mobile conferences."
-  thumbnailUrl: "HasanHosgel.jpg"
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+HasanHosgel"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/hosgel"}
-    - {name: "twitter", link: "https://www.twitter.com/alosdev"}
-    - {name: "github", link: "https://github.com/alosdev"}
--
-  id: "ana-baotic"
-  name: "Ana"
-  surname: "Baotić"
-  company: "Infinum"
-  title: "Technical Manager Mobile Banking"
-  bio: "During college I got involved in e-learning projects where I developed in Java, and ended up in love with it. After graduation I got a job at Infinum as an Android developer, and have been working there ever since. By the end of 2014. I switched from various project in the telecommunication, medical and travel industry to mobile banking, where I became the Technical Manager of Mobile Banking in early 2016. My responsibilities include researching new technology and advancements in security, making sure new practices are implemented and generally pushing things forward in the right direction. I love making quality, reliable products. Apart from the effort you put in the architecture of the project, I believe that the details will define the difference between good and really amazing. We prefer amazing."
-  thumbnailUrl: "AnaBaotic.jpg"
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/abaotic"}
-    - {name: "twitter", link: "https://twitter.com/abaotic"}
--
-  id: "svetlana-isakova"
-  name: "Svetlana"
-  surname: "Isakova"
-  company: "JetBrains"
-  title: "Developer Advocate"
-  bio: "Svetlana is a Developer Advocate at JetBrains. She's been working on the Kotlin language (<a href='http://kotlinlang.org/' target='_blank'>kotlinlang.org</a>) since 2011. She is one of the authors of the 'Kotlin in Action' book."
-  thumbnailUrl: "SvetlanaIsakova.jpg"
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/sveta_isakova"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/svetlana-isakova-3b7b25a3"}
-    - {name: "github", link: "https://github.com/svtk"}
--
-  id: "sina-grunau"
-  name: "Sina"
-  surname: "Grunau"
-  company: "c4c Engineering"
-  title: "Android Developer"
-  bio: "Sina is a passionate Android developer since the early days of the platform. At c4c Engineering she spends a lot of time developing apps in the automotive and industrial area. She is interested in everything that improves and simplifies app development, such as continuous integration, architecture patterns, quality checks and testing."
-  thumbnailUrl: "SinaGrunau.jpg"
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+SinaGrunau/"}
-    - {name: "site", link: "https://www.xing.com/profile/Sina_Grunau"}
--
-  id: "christian-dziuba"
-  name: "Christian"
-  surname: "Dziuba"
-  company: "c4c Engineering"
-  title: "Android Developer"
-  bio: "Christian started Android development way back in 2009 during college when everybody still thought iPhones were the coolest gadgets in town. During his diploma thesis he did a lot of research about concepts of integrating smartphones into vehicles. He currently works at c4c Engineering where he spends his time working on automotive apps. He is always curious about new technologies, cool gadgets and the latest features of the Android platform. If he sees fancy and well-thought-out user interfaces build upon Material Design, his eyes will start to shine."
-  thumbnailUrl: "ChristianDziuba.jpg"
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+ChristianDziuba"}
-    - {name: "site", link: "https://www.xing.com/profile/Christian_Dziuba"}
--
-  id: "patrick-loewenstein"
-  name: "Patrick"
-  surname: "Löwenstein"
-  company: "Tailored Apps"
-  title: "Android Developer"
-  bio: "Patrick Löwenstein is a Vienna based Android developer, currently working at Tailored Apps. Also, he is studying for his Master's degree in Computer Sciences at the Vienna University of Technology. Patrick also has an <a href='https://nullpointer.wtf' target='_blank'>Android dev blog</a> and is active on <a href='https://github.com/patloew' target='_blank'>GitHub</a>."
-  thumbnailUrl: "PatrickLoewenstein.jpg"
-  social:
-    - {name: "github", link: "https://github.com/patloew"}
-    - {name: "twitter", link: "https://twitter.com/0ptrblog"}
-    - {name: "linkedin", link: "https://at.linkedin.com/in/patrickloewenstein"}
-    - {name: "site", link: "https://nullpointer.wtf"}
--
-  id: "daniel-niedermuehlbichler"
-  name: "Daniel"
-  surname: "Niedermühlbichler"
-  company: "Shpock"
-  title: "Android Developer"
-  bio: "Born in Vienna in 1986 & still living there. Using Java for 15 years, coding for the Android platform since 2009. Started as a freelancer at that time and implemented Android apps for clients like the Vienna based football club Austria Wien, the Raiffeisen bank, pharmaceutical companies Bayer and Gilead, also sport apps for the public television broadcaster ORF, and the biggest delivery service platform in Austria: Mjam. Since beginning of 2016 working in the Android team of the Vienna based startup Shpock."
-  thumbnailUrl: "DanielNiedermuehlbichler.jpg"
-  social:
-    - {name: "site", link: "https://www.xing.com/profile/Daniel_Niedermuehlbichler"}
-    - {name: "github", link: "https://github.com/dnmbv"}
-    - {name: "twitter", link: "https://twitter.com/DaNiederm"}
--
-  id: "serghei-lotutovici"
-  name: "Serghei (Serj)"
-  surname: "Lotutovici"
-  company: "XING"
-  title: "Senior Android Developer"
-  bio: "Serj is an Android Developer at XING, GDG Hamburg organizer and Clean Architecture geek. He is responsible for the framework part that drives the XING Main App, along side other mobile products. He is known for his passion for clean and sustainable code. DI is his middle name, Jenkins is his best friend and he eats Gradle for lunch. You will never hear him 'showing-of' a feature, but he will not miss an opportunity to tell you about 'this cool new library' or 'this awesome design pattern'."
-  thumbnailUrl: "SergheiLotutovici.jpg"
-  social:
-    - {name: "site", link: "https://www.xing.com/profile/Serj_Lotutovici"}
-    - {name: "github", link: "https://github.com/serj-lotutovici"}
-    - {name: "twitter", link: "https://twitter.com/SerjLtt"}
--
-  id: "tim-messerschmidt"
-  name: "Tim"
-  surname: "Messerschmidt"
-  company: "Google"
-  title: "Developer Relations"
-  bio: "Tim Messerschmidt oversees Germany as Regional Lead for Google's Developer Relations team. When not working with Android, he loves building backends with Node.js and researching user authentication concepts. Recently, Tim co-authored a book about identity concepts and data security. Before joining Google, Tim ran PayPal's Developer Relations team across EMEA and APAC."
-  thumbnailUrl: "TimMesserschmidt.jpg"
-  rockstar: true
-  social:
-    - {name: "site", link: "https://timmesserschmidt.com"}
-    - {name: "google-plus", link: "http://plus.google.com/+TimMesserschmidt"}
-    - {name: "github", link: "http://github.com/seraphimserapis"}
-    - {name: "linkedin", link: "http://linkedin.com/in/timmesserschmidt"}
-    - {name: "twitter", link: "http://twitter.com/seraandroid"}
--
-  id: "viraj-tank"
-  name: "Viraj"
-  surname: "Tank"
-  company: "Sociomantic Labs"
-  title: "Mobile Team Lead"
-  bio: "Android developer and Mobile team lead at Sociomantic Labs, Berlin."
-  thumbnailUrl: "VirajTank.jpg"
-  social:
-    - {name: "github", link: "https://github.com/viraj49"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/viraj49"}
--
-  id: "jeremie-martinez"
-  name: "Jérémie"
-  surname: "Martinez"
-  company: "Captain Train"
-  title: "Android Developer"
-  bio: "Jeremie is an Android software developer for several years and currently working at Captain  Train. He is an enthusiast about good development practices and principles of Software craftsmanship."
-  thumbnailUrl: "JeremieMartinez.jpg"
-  social:
-    - {name: "github", link: "http://github.com/jeremiemartinez"}
-    - {name: "linkedin", link: "https://fr.linkedin.com/in/jeremmartinez/en"}
-    - {name: "site", link: "http://jeremie-martinez.com/"}
--
-  id: "mario-bodemann"
-  name: "Mario"
-  surname: "Bodemann"
-  company: "Contentful"
-  title: "Android and Java Evangelist"
-  bio: "Google Developer Group Co-Organiser <a href='https://twitter.com/Berlindroid' target='_blank'>@Berlindroid</a><br>Android and Java Evangelist <a href='https://twitter.com/Contentful' target='_blank'>@Contentful</a><br>Software Engineer <a href='https://twitter.com/Memorado' target='_blank'>@Memorado</a> and <a href='https://twitter.com/HERE' target='_blank'>@HERE</a><br>Graduate Software Engineer <a href='https://twitter.com/Wooga' target='_blank'>@Wooga</a><br>Research Associate <a href='https://twitter.com/FraunhoferHHI' target='_blank'>@FraunhoferHHI</a><br>Person"
-  thumbnailUrl: "MarioBodemann.jpg"
-  social:
-    - {name: "twitter", link: "https://twitter.com/mariobodemann"}
-    - {name: "github", link: "https://github.com/mariobodemann"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/mariobodemann"}
--
-  id: "joe-birch"
-  name: "Joe"
-  surname: "Birch"
-  company: "Buffer"
-  title: "Android Engineer"
-  bio: "I’m an Android Engineer based in Brighton, UK working on the Android team at Buffer.<br>I’m passionate about coding and love creating robust, polished and exciting projects for mobile, the web, TV, wearables and I’ll probably be toying with whatever the new thing is at the time you’re reading this – I love to be constantly learning.I’m also a keen writer as I love to share my learnings and experiences with others.<br>When I’m not doing the above, you’ll find me with my camera, socialising, running, at the gym, playing Bass / Guitar or finding something new to engage myself in."
-  thumbnailUrl: "JoeBirch.jpg"
-  social:
-    - {name: "site", link: "http://hitherejoe.com/"}
-    - {name: "github", link: "http://github.com/hitherejoe"}
-    - {name: "twitter", link: "http://twitter.com/hitherejoe"}
-    - {name: "google-plus", link: "https://plus.google.com/+hitherejoebirch"}
-    - {name: "linkedin", link: "https://uk.linkedin.com/in/joe-birch-80392157"}
--
-  id: "matthias-friedrich"
-  name: "Matthias"
-  surname: "Friedrich"
-  title: "Android Developer"
-  company: "Jimdo"
-  bio: "As Android user from the beginning, Matthias started to develop for the platform with version 1.6 in 2009. Since then he is following its progress very enthusiastically and worked on several applications, big and small, featured in the Play Store and as specialized customer solutions. During these years, he also co-founded the GDG Bremen and GDG Hamburg Android, gave several Android related talks and organized developer events around Google technologies in general. Right now he is a Android developer at the Hamburg based startup Jimdo."
-  thumbnailUrl: "MatthiasFriedrich.jpg"
-  social:
-    - {name: "twitter", link: "https://twitter.com/mtthsfrdrch"}
-    - {name: "google-plus", link: "https://google.com/+MatthiasFriedrich"}
--
-  id: "rina-ahmed"
-  name: "Rina"
-  surname: "Ahmed"
-  title: "Technical Evangelist"
-  company: "Microsoft"
-  bio: "Rina Ahmed is a Technical Evangelist for Mobile App Development at the Developer Experience & Evangelism Group at Microsoft. Currently she is specialized on Windows 10 development and cross-plattform mobile app frameworks."
-  thumbnailUrl: "RinaAhmed.jpg"
-  social:
-    - {name: "twitter", link: "https://twitter.com/rinaahm"}
-    - {name: "linkedin", link: "https://at.linkedin.com/in/rinaahmed"}
--
-  id: "andreas-schacherbauer"
-  name: "Andreas"
-  surname: "Schacherbauer"
-  title: "Head of SDK"
-  company: "Wikitude"
-  bio: "Andreas has been developing Wikitude's augmented reality SDK from the ground up. He leads the SDK engineering group within Wikitude and is actively developing augmented reality solutions for mobile for more than 4 years."
-  thumbnailUrl: "AndreasSchacherbauer.jpg"
-  social:
-    - {name: "twitter", link: "https://twitter.com/a_schacherbauer"}
--
-  id: "hans-christoph-steiner"
-  name: "Hans-Christoph"
-  surname: "Steiner"
-  title: "Researcher"
-  company: "Guardian Project"
-  bio: "Hans-Christoph Steiner is a researcher and hacker with Guardian Project working to make private-by-design easy for all to achieve. He spends his time making software as private as possible yet usable by everyone, designing digital interactions focused on perceptual capabilities, and composing music with computers. With an emphasis on collaboration, he works in many forms, including free software for mobile and embedded devices, responsive sound environments, free wireless networks that build community, musical robots that listen, programming environments to let you play with math, and a jet-powered fish that you can ride. To further his research, he teaches and works at various community centers and organizes open, collaborative hacklabs and open barcamp conferences. He is currently focused on building the most flexible, private, and secure app store as well as teaching digital security, interaction design, and media programming at workshops around and universities around the world."
-  thumbnailUrl: "Hans-ChristophSteiner.jpg"
-  social:
-    - {name: "twitter", link: "https://twitter.com/hansstatus"}
-    - {name: "site", link: "https://guardianproject.info/blog"}
+  id: "segun-famisa"
+  name: "Segun"
+  surname: "Famisa"
+  company: "trivago"
+  title: "Software Engineer"
+  bio: "Segun Famisa is a Software Engineer at trivago based in Düsseldorf, Germany and has been developing for Android since Gingerbread. He is passionate about Android development and loves to share his passion and findings through technical articles on his blog as well as speaking about the platform. He is an amateur runner and he does some painting in his spare time."
+  thumbnailUrl: "SegunFamisa.jpg"

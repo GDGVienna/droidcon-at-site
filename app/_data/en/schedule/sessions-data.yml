@@ -46,6 +46,48 @@
   subtype: keynote
   speakers: []
 -
+  id: 102
+  title: "Building Apps with Flutter"
+  description: "An introduction of building cross-platform apps using Flutter and Dart. In this talk I'll explain the basics of Flutter, describe the technology behind it, and walk through all components that are required to build a basic flutter app."
+  subtype: presentation
+  speakers: ["david-schreiber-ranner"]
+-
+  id: 103
+  title: "Production Level Test Driven Development And What's New"
+  description: "Eight out of ten developers don’t really know how to test their apps and write testable code. From practically writing code to test genuine production level scenarios with different approaches to incredibly optimising your tests cases, we will also see what’s new in Android Test Support Library 1.0 and how to test on multiple devices."
+  subtype: presentation
+  speakers: ["kapil-bakshi"]
+-
+  id: 104
+  title: "Sticky Authentication with Fingerprints"
+  description: "Fingerprint authentication is becoming increasingly popular in apps these days. In the past, you may have used the FingerPrintManager class to implement it in your app. But with this approach, the responsibility of implementing the UI was all on you. Thankfully, with the release of Android P, there’s a new, better way of doing it using the Fingerprint Dialog API and delivering a better experience to your users. In this talk, you will learn all about the new Fingerprint Dialog API. We will look at the rationale behind this change, how to implement the new APIs in an existing application, and how to incorporate them when starting from scratch. We will also look at how to handle results for the authentication and close out with tips for failing gracefully. You don’t want to miss out on this powerful new API!"
+  subtype: presentation
+  speakers: ["segun-famisa"]
+-
+  id: 105
+  title: "Having fun with Kotlin fun()"
+  description: "Functions are at the heart of Kotlin. Be it writing a simple utility function or writing a very critical piece of functionality, whatever task you have at hand - How do you know which fun() to use? How do they compare to the good old Java functions?<br>In this talk, you will learn:<ul><li>How to write basic functions in Kotlin<li>Understand how are they different from java functions<li>The various functions available and their behaviors<li>Look at how some standard functions - let, apply, run etc help you make life easier<li>How to make the most of the function types available</ul>"
+  subtype: presentation
+  speakers: ["adnan-am"]
+-
+  id: 106
+  title: "GraphQL for n00bs"
+  description: "GraphQL is a extremely powerful query language that simplifies data storage and retrieval, offers better query efficiency and improves data understanding and organization. More organizations are switching their backend services to GraphQL in order to take advantage of all it has to offer. As an Android Developer in one of those organizations, you’ll also need to migrate your network requests to work with GraphQL. In this talk, you will learn:<ul><li>What GraphQL is and how it is different from REST and SOAP<li>First steps to include GraphQL in your Android applications<li>What GraphQL queries and mutations are and how to create them<li>How to mock and test GraphQL server responses</ul> At the end of the talk, you’ll be ready to incorporate GraphQL into your existing applications!"
+  subtype: presentation
+  speakers: ["moyinoluwa-adeyemi"]
+-
+  id: 107
+  title: "Awesome Animations using ConstraintLayout and ConstraintSet"
+  description: "Creating awesome animations using ConstraintLayout and ConstraintSet ConstraintLayout helps us to easily create complex UIs without nesting views and complex view-hierarchy management. But do you know, that it also helps us to create beautiful animations and transitions with very less code? That’s what I will be sharing and discussing it with you.<br>In this talk, I’ll be explaining the following:<ul><li>How keyframe animation works with ConstraintLayout and ConstraintSet<li>Few real-time use cases/animations - you can hack them in few minutes<li>How’s it different from others?<li>Animating without duplicating the layouts<li>When and where to use keyframe animations<li>Do’s and Don’ts<li>Limitations of ConstraintSet animations</ul>"
+  subtype: presentation
+  speakers: ["hari-vignesh-jayapalan"]
+-
+  id: 108
+  title: "Your Phone is learning! Introduction to running Tensorflow on Android"
+  description: "There is no escape from Machine Learning - advanced algorithms are everywhere, mining, analysing data and making decisions every day. Your phone is extremely smart AI system. In my talk i'd like to introduce you to machine learning without need to understand complex statistic equations and PHD in Math. Together we'll implement practical example of using Tensorflow Framework on Android for real world use case."
+  subtype: presentation
+  speakers: ["bartosz-kraszewski"]
+-
   id: 200
   title: "Barcamp"
   description: "Your content, selected by you!"
