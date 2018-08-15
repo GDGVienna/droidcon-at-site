@@ -8,8 +8,8 @@ links:
  - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/blog/", text: "Blog"}
 bottomLinks:
-# - {permalink: "/#tickets", text: "Register Now"}
+ - {permalink: "/#tickets", text: "Register Now"}
 # - {permalink: "/call-for-papers/", text: "Call"}
 rightButtons:
-# - {permalink: "/#tickets", text: "Register Now"}
+ - {permalink: "/#tickets", text: "Register Now"}
 # - {permalink: "/call-for-papers/", text: "Call"}

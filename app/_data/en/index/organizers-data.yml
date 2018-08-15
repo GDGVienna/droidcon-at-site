@@ -3,5 +3,4 @@
   elements: 
     - {name: "GDG Vienna", description: "GDG Google Developer Group Vienna", link: "http://www.gdg-vienna.at", imageUrl: "gdg-vienna.png", width: "200"}
     - {name: "AndroidHeads Vienna", description: "AndroidHeads Vienna", link: "http://www.androidheads.org/", imageUrl: "androidheads.png"}
-    - {name: "Java Vienna", description: "Java Vienna", link: "http://www.meetup.com/Java-Vienna/", imageUrl: "java-vienna.png"}
 - 

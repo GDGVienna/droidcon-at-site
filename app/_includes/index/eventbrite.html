@@ -3,15 +3,35 @@
 	<div class="content-wrapper">
 		<div class="col-lg-10 col-md-10 col-lg-offset-1 col-md-offset-1">
 		<h3>Tickets</h3>
-<iframe src="https://eventbrite.com/tickets-external?eid=24720117537&amp;ref=etckt" frameborder="0" style="overflow:none;" height="390" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+<div id="eventbrite-widget-container-48318657405"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '48318657405',
+        iframeContainerId: 'eventbrite-widget-container-48318657405',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
 <!--
 		<p>
         In addition we offer diversity tickets - please see our <a href="/diversity/">diversity page</a> to read more about our efforts in increasing diversity at the event.
         </p>
  -->
+<br>
  		<p>
  		We are also looking for volunteers.
- 		If you are ready to invest a bit of your time in helping us running the event smoothly we will offer you free entry to the conference. <em>Interested? Contact us an email at <a href="mailto:volunteer@droidcon.at" title="Send mail to volunteer@droidcon.at">volunteer@droidcon.at</a></em>.
+ 		If you are ready to invest a bit of your time in helping us running the event smoothly we will offer you free entry to the conference. <em>Interested? Contact us via email at <a href="mailto:team@droidcon.at" title="Send mail to team@droidcon.at">team@droidcon.at</a></em>.
         </div>
 	</div>
 </section>
