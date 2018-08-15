@@ -88,6 +88,36 @@
   subtype: presentation
   speakers: ["bartosz-kraszewski"]
 -
+  id: 109
+  title: "Tools for Protecting Your Users' Data"
+  description: "2018 - the year the average user started to care about data protection. Mainstream media continues to run stories of Cambridge Analytica's impact on democratic elections, and with the introduction of the EU’s GDPR less than 2 weeks ago, data protection continues to be a hot topic. This talk will focus on security features available from Google Play Services and Google's SafetyNet APIs. We will see how they allow developers to verify the trustworthiness of the devices their apps run on, as well as examples of how to implement them to improve your app’s security. Next, we will share first hand experience of hardening an Android app that handles medical & health information. We will see where patient data had the potential to be leaked to 3rd parties and the measures taken to resolve this. In this current climate of heightened user awareness we need to show that we can protect the users of our products, after this session you will be better able to do just that."
+  subtype: presentation
+  speakers: ["maurice-garvin"]
+-
+  id: 110
+  title: "Android Performance"
+  description: "This talk is all about giving your apps a performance boost. A wide range of topics, from ProGuard to network & memory optimizations, will be covered. You will get a lot of tips with code examples and insights into tools to measure your success. Suitable for beginning developers with little experience, but senior devs will also be able to take away a thing or two."
+  subtype: presentation
+  speakers: ["konrad-pozniak"]
+-
+  id: 111
+  title: "What the Hype?"
+  description: "During the development process, we tend to decide on a technology based on the current amount of hype on the internet, in the media, from friends and colleagues. This often leads to a catastrophic result. If you do not base your decision on analytical data, the chosen technology could potentially be unusable for your project or even deprecated. You're shooting yourself in the foot before development has even started. In this talk, we'll take a closer look into what hype-driven development is, examine some of the greatest hypes in Android development in the last couple of years, and provide guidelines for selecting technology based on facts instead of emotions."
+  subtype: presentation
+  speakers: ["zeljko-plesac"]
+-
+  id: 112
+  title: "How 'Effective Java' influenced Kotlin"
+  description: "One of the most popular Java books is 'Effective Java' from Joshua Bloch, which describes how to avoid common mistakes, how to deal with Java's weaknesses, and how best practices for the language look like. When Jetbrains started to create a 'better Java' with Kotlin, a lot of ideas about how to make a better language came from the information of 'Effective Java' and lots of design decisions are based on the book. In this talk the audience will learn how the book influenced the language design and the compiler of Kotlin and in what way the book is deeply ingrained into the language."
+  subtype: presentation
+  speakers: ["lukas-lechner"]
+-
+  id: 113
+  title: "Making change as an Ally"
+  description: "In today's workplaces, there are still huge issues with diversity and inclusivity. Whilst you may not notice it in your workplace, underrepresented groups are faced with difficulties and feelings that those with privilege are likely to have never encountered. But this doesn't, and shouldn't, have to be the way - being an ally allows us to amplify the voices of the underrepresented and make change happen."
+  subtype: presentation
+  speakers: ["joe-birch"]
+-
   id: 200
   title: "Barcamp"
   description: "Your content, selected by you!"
