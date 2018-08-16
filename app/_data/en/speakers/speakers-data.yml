@@ -22,6 +22,8 @@
   surname: "Gavin"
   bio: "Maurice is the Android Lead at Toothpic in Dublin, Ireland. He has been working with Android since 2010 and is currently using his skills to make quality dental care more accessible through tele-dentistry. His interests include machine learning, mobile security and clean architecture. In his spare time he enjoys to travel, run and play computer games."
   thumbnailUrl: "MauriceGavin.jpg"
+  social:
+    - { name: "twitter", link: "https://twitter.com/mauricegavin"}
 -
   id: "adnan-am"
   name: "Adnan"
