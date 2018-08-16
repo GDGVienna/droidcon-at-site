@@ -118,6 +118,12 @@
   subtype: presentation
   speakers: ["joe-birch"]
 -
+  id: 114
+  title: "Building a Google Keep clone with React Native"
+  description: "Join me on an adventure cloning the famous Google Keep app taking advantage of React Native and Firebase features. Following this talk, you will learn React Native Best Practices including Modern JavaScript, Material Design for the UI components, and tons of Firebase awesomeness."
+  subtype: presentation
+  speakers: ["juarez-filho"]
+-
   id: 200
   title: "Barcamp"
   description: "Your content, selected by you!"

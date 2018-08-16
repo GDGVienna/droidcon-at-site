@@ -96,3 +96,13 @@
     - {name: "twitter", link: "http://twitter.com/hitherejoe"}
     - {name: "google-plus", link: "https://plus.google.com/+hitherejoebirch"}
     - {name: "linkedin", link: "https://uk.linkedin.com/in/joe-birch-80392157"}
+-
+  id: "juarez-filho"
+  name: "Juarez"
+  surname: "Filho"
+  bio: "Passionate about traveling as well as sharing his adventures with Web Technologies and Firebase. As a Google Developer Expert, he’s helping communities all over the world to learn, discover and have fun."
+  thumbnailUrl: "JuarezFilho.jpg"
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+JuarezPAFilho"}
+    - {name: "twitter", link: "https://twitter.com/juarezpaf"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/juarezpaf"}
