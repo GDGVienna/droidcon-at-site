@@ -106,3 +106,9 @@
     - {name: "google-plus", link: "https://plus.google.com/+JuarezPAFilho"}
     - {name: "twitter", link: "https://twitter.com/juarezpaf"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/juarezpaf"}
+-
+  id: "vivek-chanddru"
+  name: "Vivek"
+  surname: "Chanddru"
+  bio: "First of his name. Developer of frameworks. Advocate of modular code. Master of Android. Lover of Kotlin. Loves to teach and learn. Fell in love with programming when he was 8. Works at Zoho Corporation, India - Developing masterclass software for the world. Working as the Android developer and Mobile App Lead for Zoho Assist suite of products. Writes all the code as modules and publishes it as frameworks that are used by other apps. Google certified Associate Android Developer and Google India scholarship recipient for Android Nanodegree. Have some experience working with WebRTC and constantly tries to write blogs at <a href='https://vivekc.xyz' target='_blank'>vivekc.xyz</a>."
+  thumbnailUrl: "VivekChanddru.jpg"

@@ -124,6 +124,12 @@
   subtype: presentation
   speakers: ["juarez-filho"]
 -
+  id: 115
+  title: "Dear Kotliners, Java developers are humans too"
+  description: "Ever since Google made the announcement, Pro-Kotlin developers have been having the times of their life. We see a lot of developers using their command of the language to showcase their works and skills. While we have to appreciate Kotlin for bringing a new life to the dull and verbose Android development, it has also created an imaginary wall between the two factions of developers - One who worships Kotlin and the ones who wants to. Believe me, when I say, most of us want to learn and adopt Kotlin. But a few things are standing between the later of the two factions and their end goal. It is not easy for many to find time to learn Kotlin and it is definitely not possible if your company wants to push features out and not spend time rewriting the code that is working in Java or experiment with something new when the old one works perfectly fine! But as a developer, when you see a lot of libraries coming up with solutions in Kotlin, it is not easy for those poor souls to catch up. It breaks their heart to know that they are not able to catch up with the rest of the world. Sometimes, when searching for a library to reduce their work, what do they see? All examples in Kotlin - Beautifully written with Lambdas and higher-order functions. Amazingly structured and optimized with coroutines. So what do the Java developers do? They move away. Did the developers intend them to not use their library? No. They just didn't want to think about Java when they have moved to the all-mightly Kotlin. But for the foreseeable future, Java developers and Kotlin developers need to exist side-by-side until there is a definite transition from Java to Kotlin. This talk is for those Kotlin developers who came from humble Java beginnings to remind them of the sufferings Java developers have to undergo and that they are humans too."
+  subtype: presentation
+  speakers: ["vivek-chanddru"]
+-
   id: 200
   title: "Barcamp"
   description: "Your content, selected by you!"
