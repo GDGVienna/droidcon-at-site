@@ -130,6 +130,42 @@
   subtype: presentation
   speakers: ["vivek-chanddru"]
 -
+  id: 116
+  title: "Quash boring tasks with Android Gradle Plugin"
+  description: "<em>Developer's chores will be an infinite loop of WRITE, TEST and COMPILE code</em>. It's not the case for most Android developers, we do have repetitive boring tasks to be done in every project. But Gradle plugins can help us package these uninspiring tasks as reusable Gradle tasks, which can be used across projects. In this talk, I aim to break Gradle magic by revealing what goes on behind the scene. I will go over basics of Android Gradle plugin development by creating Gradle tasks and extensions for syncing TODO comments to the cloud. I will then talk about Android Gradle tool APIs for creating plugins that inject/generate resources and classes. After attending this talk, you will get familiar with building blocks of the Gradle plugin to get started with your plugin development and quash those uninspiring tasks."
+  subtype: presentation
+  speakers: ["lakshmikanth-dhanaraj"]
+-
+  id: 117
+  title: "Gra-Fi-Te: Leveraging Gradle and Firebase for Android Testing"
+  description: "An area of Android testing that may not receive much attention is the setup i.e. running test effectively, leveraging gradle tasks/scripts for creating testing reports and artifacts (e.g. coverage reports) , testing setup for multi module apps, instant apps and multi platform Kotlin Native. The second part of this talk will focus on using Firebase TestLab and the various options available to perform cloud testing effectively and using open source tools such as Flank."
+  subtype: presentation
+  speakers: ["santosh-astagi"]
+-
+  id: 118
+  title: "Want a Slice?"
+  description: "With the announcement of Android Slices, you can now provide rich, dynamic and interactive content to your users even outside your app! Slices allow you to build content to be displayed in the Google Search app and later in other places like the Google Assistant. Slices can help users perform tasks faster by enabling engagement outside of the fullscreen app experience. In this session, we’ll explore how Slices can help you provide a better experience for your users and see how it’s implemented."
+  subtype: presentation
+  speakers: ["kaan-mamikoglu"]
+-
+  id: 119
+  title: "Leaving No One Behind: Building Apps for The Next Billion Users"
+  description: "The future of the Internet is in the hands of the next billion users — the latest generation of internet users to come online on smartphones in places like Brazil, China, India, Indonesia and Nigeria. As time goes on, the average internet user will be more like these “next billion users” than the first billion who started on PCs. That means we need to look not just at Silicon Valley or London but to places like Sao Paulo, Bangalore, Shanghai, Jakarta and Lagos to truly understand where the internet is going.<br>People in these countries are facing very different constraints to accessing the internet. In this talk, we’ll cover best practices, guidelines, and applied examples of how mobile developers can build their apps to be truly global and inclusive. Some things to consider: the next billion users have a mobile-only mindset, an instinct for ubiquitous computing, a demand for localized content; the Internet access in emerging markets is still slow and intermittent; 80% of people with disabilities live in emerging markets. Come and learn how to create great experiences that work well for billions of users around the world."
+  subtype: presentation
+  speakers: ["aygul-zagudullina"]
+-
+  id: 120
+  title: "Clean architecture application - A guided tour"
+  description: "Not so long ago I've built my first full-fledged, clean-architecture application. In this talk, I'll share my experience by proving architecture walkthrough. I’ll describe the different components at play and the relationships between them as well as talk about some of the architecture decisions I’ve made along the way."
+  subtype: presentation
+  speakers: ["yossi-segev"]
+-
+  id: 121
+  title: "Modded Android Apps - Gotta Catch ‘Em All!"
+  description: "We at GO-JEK grew by 900X in last 18 months and we (the driver app team) had a difficult and unique problem to solve. The market in which our app runs have an insanely huge number of hackers and modders who sell modded (or tampered) version of our original apps to the drivers thereby hampering our business, trust and brand image. Detecting modded Android apps is not a trivial job by any means. There are lots of deep technical struggles that one needs to overcome. Most of the devices our driver app runs are also rooted devices making our job even more difficult. With root access, there are infinite ways for the modder to bypass any check you want to perform and remain undetected. Anyone (individual developers or companies) would want to make their apps security tight enough and not get exploited. No one would want their premium features getting distributed for free in modded apps. No company would want modded apps to game their system and give unfair advantages to these users and ruin the trust of the original app users."
+  subtype: presentation
+  speakers: ["aritra-roy"]
+-
   id: 200
   title: "Barcamp"
   description: "Your content, selected by you!"
