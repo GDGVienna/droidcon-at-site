@@ -132,7 +132,7 @@
   thumbnailUrl: "LakshmikanthDhanaraj.jpg"
 -
   id: "santosh-astagi"
-  name: "Sathosh"
+  name: "Santosh"
   surname: "Astagi"
   bio: "Santosh Astagi is a Senior Software Engineer developing Android Applications for Rally Health. He has been involved in both the current Rally Health Android applications (Engage and Care). He has spearheaded large features and undertaken setting up the testing infrastructure and migrating the codebase from RxJava 1 to RxJava 2. Currently he is investigating Kotlin Multiplatform projects for Android development and potentially sharing common code."
   thumbnailUrl: "SantoshAstagi.jpg"
