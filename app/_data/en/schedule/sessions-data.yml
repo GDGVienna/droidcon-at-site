@@ -166,6 +166,12 @@
   subtype: presentation
   speakers: ["aritra-roy"]
 -
+  id: 122
+  title: "Struggles with a large native app, LibreOffice's attempts at Android"
+  description: "LibreOffice is open source, and has a solid base of regular developers, but porting to another platform is not an easy task, especially with all kinds of restrictions – both technical and plain like maximum application size, as well as in terms of UI. Started as a strictly volunteer effort, we went through various toolchain changes, multiple overhauls of the UI but are now at a state where we have most features ready "under the hood" (also thanks to LibreOfficeKit) and all that is left is adding some buttons and other controls for editing, right? The presentation will cover how we hook up LibreOffice's build system to android's ndk environment, the struggle with change and the current state of the port."
+  subtype: presentation
+  speakers: ["christian-lohmaier"]
+-
   id: 200
   title: "Barcamp"
   description: "Your content, selected by you!"
