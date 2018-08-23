@@ -41,10 +41,10 @@
   imageUrl: "other/party.png"
 -
   id: 101
-  title: "Keynote"
-  description: "TBA"
+  title: "Keynote: Making change as an Ally"
+  description: "In today's workplaces, there are still huge issues with diversity and inclusivity. Whilst you may not notice it in your workplace, underrepresented groups are faced with difficulties and feelings that those with privilege are likely to have never encountered. But this doesn't, and shouldn't, have to be the way - being an ally allows us to amplify the voices of the underrepresented and make change happen."
   subtype: keynote
-  speakers: []
+  speakers: ["joe-birch"]
 -
   id: 102
   title: "Building Apps with Flutter"
@@ -113,10 +113,10 @@
   speakers: ["lukas-lechner"]
 -
   id: 113
-  title: "Making change as an Ally"
-  description: "In today's workplaces, there are still huge issues with diversity and inclusivity. Whilst you may not notice it in your workplace, underrepresented groups are faced with difficulties and feelings that those with privilege are likely to have never encountered. But this doesn't, and shouldn't, have to be the way - being an ally allows us to amplify the voices of the underrepresented and make change happen."
+  title: "Struggles with a large native app, LibreOffice's attempts at Android"
+  description: "LibreOffice is open source, and has a solid base of regular developers, but porting to another platform is not an easy task, especially with all kinds of restrictions – both technical and plain like maximum application size, as well as in terms of UI. Started as a strictly volunteer effort, we went through various toolchain changes, multiple overhauls of the UI but are now at a state where we have most features ready 'under the hood' (also thanks to LibreOfficeKit) and all that is left is adding some buttons and other controls for editing, right? The presentation will cover how we hook up LibreOffice's build system to android's ndk environment, the struggle with change and the current state of the port."
   subtype: presentation
-  speakers: ["joe-birch"]
+  speakers: ["christian-lohmaier"]
 -
   id: 114
   title: "Building a Google Keep clone with React Native"
@@ -152,7 +152,7 @@
   title: "Leaving No One Behind: Building Apps for The Next Billion Users"
   description: "The future of the Internet is in the hands of the next billion users — the latest generation of internet users to come online on smartphones in places like Brazil, China, India, Indonesia and Nigeria. As time goes on, the average internet user will be more like these “next billion users” than the first billion who started on PCs. That means we need to look not just at Silicon Valley or London but to places like Sao Paulo, Bangalore, Shanghai, Jakarta and Lagos to truly understand where the internet is going.<br>People in these countries are facing very different constraints to accessing the internet. In this talk, we’ll cover best practices, guidelines, and applied examples of how mobile developers can build their apps to be truly global and inclusive. Some things to consider: the next billion users have a mobile-only mindset, an instinct for ubiquitous computing, a demand for localized content; the Internet access in emerging markets is still slow and intermittent; 80% of people with disabilities live in emerging markets. Come and learn how to create great experiences that work well for billions of users around the world."
   subtype: presentation
-  speakers: ["aygul-zagudullina"]
+  speakers: ["aygul-zagidullina"]
 -
   id: 120
   title: "Clean architecture application - A guided tour"
@@ -165,12 +165,6 @@
   description: "We at GO-JEK grew by 900X in last 18 months and we (the driver app team) had a difficult and unique problem to solve. The market in which our app runs have an insanely huge number of hackers and modders who sell modded (or tampered) version of our original apps to the drivers thereby hampering our business, trust and brand image. Detecting modded Android apps is not a trivial job by any means. There are lots of deep technical struggles that one needs to overcome. Most of the devices our driver app runs are also rooted devices making our job even more difficult. With root access, there are infinite ways for the modder to bypass any check you want to perform and remain undetected. Anyone (individual developers or companies) would want to make their apps security tight enough and not get exploited. No one would want their premium features getting distributed for free in modded apps. No company would want modded apps to game their system and give unfair advantages to these users and ruin the trust of the original app users."
   subtype: presentation
   speakers: ["aritra-roy"]
--
-  id: 122
-  title: "Struggles with a large native app, LibreOffice's attempts at Android"
-  description: "LibreOffice is open source, and has a solid base of regular developers, but porting to another platform is not an easy task, especially with all kinds of restrictions – both technical and plain like maximum application size, as well as in terms of UI. Started as a strictly volunteer effort, we went through various toolchain changes, multiple overhauls of the UI but are now at a state where we have most features ready "under the hood" (also thanks to LibreOfficeKit) and all that is left is adding some buttons and other controls for editing, right? The presentation will cover how we hook up LibreOffice's build system to android's ndk environment, the struggle with change and the current state of the port."
-  subtype: presentation
-  speakers: ["christian-lohmaier"]
 -
   id: 200
   title: "Barcamp"
