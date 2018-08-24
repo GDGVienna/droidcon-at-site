@@ -166,6 +166,12 @@
   subtype: presentation
   speakers: ["aritra-roy"]
 -
+  id: 122
+  title: "Multi Module in practice"
+  description: "With Gradle multi-module support, it's much easier to scale your project. But it comes with a cost of increased building time. Contents: 1. How multi-module works? 2. Understanding dagger graph with multi-module? 3. How to structure your code in multi-module without hampering build time?"
+  subtype: presentation
+  speakers: ["yogesh-madaan"]
+-
   id: 200
   title: "Barcamp"
   description: "Your content, selected by you!"
