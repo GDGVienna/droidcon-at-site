@@ -1,15 +1,23 @@
 -
+  id: "joe-birch"
+  name: "Joe"
+  surname: "Birch"
+  company: "Buffer"
+  title: "Android Engineer"
+  bio: "Hi, my name is Joe. I’m an Android Engineer and Google Developer Expert for Android based in Brighton, UK working on the Android team at Buffer. I’m passionate about coding and love creating robust, polished and exciting projects for mobile, the web, TV, wearables and I’ll probably be toying with whatever the new thing is at the time you’re reading this – I love to be constantly learning. I’m also a keen writer as I love to share my learnings and experiences with others."
+  thumbnailUrl: "JoeBirch.jpg"
+  social:
+    - {name: "site", link: "http://hitherejoe.com/"}
+    - {name: "github", link: "http://github.com/hitherejoe"}
+    - {name: "twitter", link: "http://twitter.com/hitherejoe"}
+    - {name: "google-plus", link: "https://plus.google.com/+hitherejoebirch"}
+    - {name: "linkedin", link: "https://uk.linkedin.com/in/joe-birch-80392157"}
+-
   id: "bartosz-kraszewski"
   name: "Bartosz"
   surname: "Kraszewski"
   thumbnailUrl: "BartoszKraszewski.jpg"
   bio: "Software Engineer specialised in Mobile Applications development. Focused on code quality and standards, experienced working in fast paced, product-oriented environment - Silicon Valley startups. Co-founder of Mobile Bialystok - local mobile technology enthusiasts group. Also an amateur squash player."
--
-  id: "hari-vignesh-jayapalan"
-  name: "Hari"
-  surname: "Vignesh Jayapalan"
-  bio: "I’m a unicorn developer, currently working for a non-profit organization called Habba as an Android Developer and a UX engineer. I’m also the world’s first Google-certified Associate Android developer. I love public speaking and blogging. A regular speaker in Google Developer Group events, Droidcon Speaker, a guest writer for PacktPub and a blogger at Medium. My hobbies include close-up magic, lock picking and digital painting."
-  thumbnailUrl: "HariVigneshJayapalan.jpg"
 -
   id: "moyinoluwa-adeyemi"
   name: "Moyinoluwa"
@@ -38,8 +46,16 @@
   surname: "Pozniak"
   company: "REWE International"
   title: "Open Source Developer"
-  bio: "Android Software Developer at REWE International AG, Open Source Developer, 28 years old <a href='https://github.com/connyduck' target='_blank'>https://github.com/connyduck</a>"
+  bio: "Konrad is an Android software developer from Vienna with 4 years experience, building E-Commerce apps at REWE International AG and regularly contributing to open source apps.<br>He likes to dig deep into the details of his apps to make sure users get the best experience possible."
   thumbnailUrl: "KonradPozniak.jpg"
+  social:
+    - { name: "github", link: "https://github.com/connyduck"}
+-
+  id: "hari-vignesh-jayapalan"
+  name: "Hari"
+  surname: "Vignesh Jayapalan"
+  bio: "I’m a unicorn developer, currently working for a non-profit organization called Habba as an Android Developer and a UX engineer. I’m also the world’s first Google-certified Associate Android developer. I love public speaking and blogging. A regular speaker in Google Developer Group events, Droidcon Speaker, a guest writer for PacktPub and a blogger at Medium. My hobbies include close-up magic, lock picking and digital painting."
+  thumbnailUrl: "HariVigneshJayapalan.jpg"
 -
   id: "kapil-bakshi"
   name: "Kapil"
@@ -82,20 +98,6 @@
   surname: "Lechner"
   bio: "I'm a Vienna-based Software Developer who currently focusses on Android Development. I worked on the biggest Mobile App Projects in Austria like willhaben, die Presse and Geizhals. I am currently building eCommerce Apps for RIAG Digital / REWE Group International, like the Billa Online Shop. I always try to stay on the edge of new technologies around Android Development and write about them on my blog (<a href='https://www.lukaslechner.com' target='_blank'>www.lukaslechner.com</a>) or speak about them at meetups."
   thumbnailUrl: "LukasLechner.jpg"
--
-  id: "joe-birch"
-  name: "Joe"
-  surname: "Birch"
-  company: "Buffer"
-  title: "Android Engineer"
-  bio: "Hi, my name is Joe. I’m an Android Engineer and Google Developer Expert for Android based in Brighton, UK working on the Android team at Buffer. I’m passionate about coding and love creating robust, polished and exciting projects for mobile, the web, TV, wearables and I’ll probably be toying with whatever the new thing is at the time you’re reading this – I love to be constantly learning. I’m also a keen writer as I love to share my learnings and experiences with others."
-  thumbnailUrl: "JoeBirch.jpg"
-  social:
-    - {name: "site", link: "http://hitherejoe.com/"}
-    - {name: "github", link: "http://github.com/hitherejoe"}
-    - {name: "twitter", link: "http://twitter.com/hitherejoe"}
-    - {name: "google-plus", link: "https://plus.google.com/+hitherejoebirch"}
-    - {name: "linkedin", link: "https://uk.linkedin.com/in/joe-birch-80392157"}
 -
   id: "juarez-filho"
   name: "Juarez"
