@@ -1,10 +1,4 @@
 -
   group: "Silver Sponsor"
   elements:
-    - {name: "shpock", description: "Shpock - the boot sale app for beautiful things", link: "https://www.shpock.com/", imageUrl: "shpock.png"}
-    - {name: "runtastic", description: "runtastic", link: "https://www.runtastic.com/career", imageUrl: "runtastic.png"}
--
-  group: "Bronze Sponsor"
-  elements:
-    - {name: "creative workline", description: "creative workline GmbH - Mobile App Solutions", link: "https://www.creativeworkline.at/", imageUrl: "creativeworkline.png"}
-    - {name: "c4c Engineering", description: "c4c Engineering", link: "https://www.c4cengineering.de/", imageUrl: "c4c-engineering.png"}
+    - {name: "jumio", description: "Jumio - When Identity Matters", link: "https://www.jumio.com/careers/", imageUrl: "jumio.png"}

@@ -18,6 +18,9 @@
   surname: "Kraszewski"
   thumbnailUrl: "BartoszKraszewski.jpg"
   bio: "Software Engineer specialised in Mobile Applications development. Focused on code quality and standards, experienced working in fast paced, product-oriented environment - Silicon Valley startups. Co-founder of Mobile Bialystok - local mobile technology enthusiasts group. Also an amateur squash player."
+  social:
+   - {name: "github", link: "https://twitter.com/BartoszKraszew1"}
+   - {name: "site", link: "https://about.me/bartoszk"}
 -
   id: "moyinoluwa-adeyemi"
   name: "Moyinoluwa"
@@ -40,6 +43,8 @@
   title: "Android Developer"
   bio: "Adnan is a seasoned Android developer working with Redmart. His area of focus has generally been writing large scalable code, improving UX and overall app performance. He has a lot of domain knowledge and exposure with E-Commerce domain and used to previously work at BookMyShow, where he went to rewrite the entire app from scratch."
   thumbnailUrl: "AdnanAm.jpg"
+  social:
+   - {name: "twitter", link: "https://twitter.com/AdnanM0123"}
 -
   id: "konrad-pozniak"
   name: "Konrad"
@@ -120,12 +125,16 @@
   surname: "Zagidullina"
   bio: "Dr. Aygul Zagidullina is a passionate Actions on Google developer. Her work experience includes Google, Todoist, MotaWord. She holds a PhD in quantum chemistry and prior to Google dedicated 6 years to scientific research at the University of Stuttgart. Aygul is a very active member of the London digital ecosystem and has been involved in many innovative projects. She is a Google Developer Group (GDG)/ Women Techmakers (WTM) London lead, Google Top Contributor (TC)/ Trusted Tester (TT), and UK STEM Ambassador. Aygul has been a distinguished speaker at numerous international industry events in the US (at Google HQ), UK, Germany, Ireland, UAE, Greece, Turkey, Poland, Georgia, and Russia. She was named as one of The NEXT 100 Top Influencers of the European Digital Industry in 2013."
   thumbnailUrl: "AygulZagidullina.jpg"
+  social:
+   - {name: "twitter", link: "https://twitter.com/aygul"}
 -
   id: "kaan-mamikoglu"
   name: "Kaan"
   surname: "Mamikoglu"
   bio: "Kaan is a mobile software engineer at MyDrive Solutions, a Generali company, in London, UK. As an active community builder, he has co-organized a lot of developer events in the UK and Turkey such as DevFests, Android Developer Days’, Android Study Jams, and has been a distinguished speaker at many international industry events in the US, UK, Czech Republic, UAE, Turkey, and Georgia. Besides being a Google Developer Group (GDG) London co-organizer, he is a Google Top Contributor (TC) and a Google Local Guide. Kaan is passionate about exploring new technologies and traveling around the world."
   thumbnailUrl: "KaanMamikoglu.jpg"
+  social:
+   - {name: "twitter", link: "https://twitter.com/kaanmamikoglu"}
 -
   id: "lakshmikanth-dhanaraj"
   name: "Lakshmikanth"
@@ -150,6 +159,8 @@
   surname: "Roy"
   bio: "A young, passionate and professional Android and Backend developer with 3+ years of experience in building mobile apps that look good and work well. Regular open-source contributor and part-time blogger who believes in the power of collaboration, teamwork and growing together. Self-taught programmer and a fast learner with a keen interest in solving real-world problems and exploring new technologies."
   thumbnailUrl: "AritraRoy.jpg"
+  social:
+   - {name: "twitter", link: "https://twitter.com/aritraroy"}
 -
   id: "christian-lohmaier"
   name: "Christian"
