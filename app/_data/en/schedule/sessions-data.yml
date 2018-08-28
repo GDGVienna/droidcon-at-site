@@ -161,12 +161,6 @@
   speakers: ["yossi-segev"]
 -
   id: 121
-  title: "Modded Android Apps - Gotta Catch ‘Em All!"
-  description: "We at GO-JEK grew by 900X in last 18 months and we (the driver app team) had a difficult and unique problem to solve. The market in which our app runs have an insanely huge number of hackers and modders who sell modded (or tampered) version of our original apps to the drivers thereby hampering our business, trust and brand image. Detecting modded Android apps is not a trivial job by any means. There are lots of deep technical struggles that one needs to overcome. Most of the devices our driver app runs are also rooted devices making our job even more difficult. With root access, there are infinite ways for the modder to bypass any check you want to perform and remain undetected. Anyone (individual developers or companies) would want to make their apps security tight enough and not get exploited. No one would want their premium features getting distributed for free in modded apps. No company would want modded apps to game their system and give unfair advantages to these users and ruin the trust of the original app users."
-  subtype: presentation
-  speakers: ["aritra-roy"]
--
-  id: 122
   title: "Multi Module in practice"
   description: "With Gradle multi-module support, it's much easier to scale your project. But it comes with a cost of increased building time. Contents: 1. How multi-module works? 2. Understanding dagger graph with multi-module? 3. How to structure your code in multi-module without hampering build time?"
   subtype: presentation

@@ -154,14 +154,6 @@
   bio: "Yossi spent the last 6+ years building Android applications. He’s a Tech Lead at Kin Ecosystem during the day and by night he’s co-leading the Android Academy TLV community, Advocating Android development and creating content for developers of all level."
   thumbnailUrl: "YossiSegev.jpg"
 -
-  id: "aritra-roy"
-  name: "Aritra"
-  surname: "Roy"
-  bio: "A young, passionate and professional Android and Backend developer with 3+ years of experience in building mobile apps that look good and work well. Regular open-source contributor and part-time blogger who believes in the power of collaboration, teamwork and growing together. Self-taught programmer and a fast learner with a keen interest in solving real-world problems and exploring new technologies."
-  thumbnailUrl: "AritraRoy.jpg"
-  social:
-   - {name: "twitter", link: "https://twitter.com/aritraroy"}
--
   id: "christian-lohmaier"
   name: "Christian"
   surname: "Lohmaier"
