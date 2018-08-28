@@ -78,7 +78,7 @@
 -
   id: 107
   title: "Awesome Animations using ConstraintLayout and ConstraintSet"
-  description: "Creating awesome animations using ConstraintLayout and ConstraintSet ConstraintLayout helps us to easily create complex UIs without nesting views and complex view-hierarchy management. But do you know, that it also helps us to create beautiful animations and transitions with very less code? That’s what I will be sharing and discussing it with you.<br>In this talk, I’ll be explaining the following:<ul><li>How keyframe animation works with ConstraintLayout and ConstraintSet<li>Few real-time use cases/animations - you can hack them in few minutes<li>How’s it different from others?<li>Animating without duplicating the layouts<li>When and where to use keyframe animations<li>Do’s and Don’ts<li>Limitations of ConstraintSet animations</ul>"
+  description: "ConstraintLayout helps us to easily create complex UIs without nesting views and complex view-hierarchy management. But do you know that it also helps us to create beautiful animations and transitions with very little code? That’s what I will be sharing and discussing with you.<br>In this talk, I’ll be explaining the following:<ul><li>How keyframe animation works with ConstraintLayout and ConstraintSet<li>Few real-time use cases/animations - you can hack them in few minutes<li>How is it different from others?<li>Animating without duplicating the layouts<li>When and where to use keyframe animations<li>Do’s and Don’ts<li>Limitations of ConstraintSet animations</ul>"
   subtype: presentation
   speakers: ["hari-vignesh-jayapalan"]
 -
