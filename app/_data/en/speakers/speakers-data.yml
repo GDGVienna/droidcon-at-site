@@ -19,7 +19,7 @@
   thumbnailUrl: "BartoszKraszewski.jpg"
   bio: "Software Engineer specialised in Mobile Applications development. Focused on code quality and standards, experienced working in fast paced, product-oriented environment - Silicon Valley startups. Co-founder of Mobile Bialystok - local mobile technology enthusiasts group. Also an amateur squash player."
   social:
-   - {name: "github", link: "https://twitter.com/BartoszKraszew1"}
+   - {name: "twitter", link: "https://twitter.com/BartoszKraszew1"}
    - {name: "site", link: "https://about.me/bartoszk"}
 -
   id: "moyinoluwa-adeyemi"
@@ -27,6 +27,9 @@
   surname: "Adeyemi"
   bio: "Moyinoluwa Adeyemi is an Android Developer who enjoys sharing her knowledge about Android Development by speaking at conferences and writing on Medium. She cares a lot about building apps that look good and work well on all devices. She can constantly be found trying to beat her personal best for her 5km run."
   thumbnailUrl: "MoyinoluwaAdeyemi.jpg"
+  social:
+   - {name: "twitter", link: "https://twitter.com/moyheen"}
+   - {name: "site", link: "https://medium.com/@moyinoluwa"}
 -
   id: "maurice-gavin"
   name: "Maurice"
@@ -45,6 +48,7 @@
   thumbnailUrl: "AdnanAm.jpg"
   social:
    - {name: "twitter", link: "https://twitter.com/AdnanM0123"}
+   - {name: "site", link: "http://www.adnan.am/"}
 -
   id: "konrad-pozniak"
   name: "Konrad"
@@ -55,12 +59,16 @@
   thumbnailUrl: "KonradPozniak.jpg"
   social:
     - { name: "github", link: "https://github.com/connyduck"}
+    - { name: "twitter", link: "https://twitter.com/ConnyDuck"}
 -
   id: "hari-vignesh-jayapalan"
   name: "Hari"
   surname: "Vignesh Jayapalan"
   bio: "I’m a unicorn developer, currently working for a non-profit organization called Habba as an Android Developer and a UX engineer. I’m also the world’s first Google-certified Associate Android developer. I love public speaking and blogging. A regular speaker in Google Developer Group events, Droidcon Speaker, a guest writer for PacktPub and a blogger at Medium. My hobbies include close-up magic, lock picking and digital painting."
   thumbnailUrl: "HariVigneshJayapalan.jpg"
+  social:
+   - {name: "twitter", link: "https://twitter.com/HariOfSpades"}
+   - {name: "site", link: "https://medium.com/@harivigneshjayapalan"}
 -
   id: "kapil-bakshi"
   name: "Kapil"
@@ -69,6 +77,8 @@
   title: "Software Development Engineer"
   thumbnailUrl: "KapilBakshi.jpg"
   bio: "Kapil Bakshi is a very passionate techie with an aim to embrace technology, imbibe every bit of it, transcend all the barriers and turn ideas into reality. His experience spans across edtech, fintech and logistics sectors where he has developed things from scratch taking them to a level where they have scaled drastically and have become a brand in their respective domains. Kapil has given talks on emerging Android technologies and architectural best practices and testing and has been invited to speak at International Conferences like Droidcon Beijing 2017, DroidKaigi Tokyo 2018 and Android Makers France 2018 and HesienBug Russia 2018."
+  social:
+   - {name: "twitter", link: "https://twitter.com/akapil167"}
 -
   id: "zeljko-plesac"
   name: "Željko"
@@ -97,12 +107,18 @@
   title: "Software Engineer"
   bio: "Segun Famisa is a Software Engineer at trivago based in Düsseldorf, Germany and has been developing for Android since Gingerbread. He is passionate about Android development and loves to share his passion and findings through technical articles on his blog as well as speaking about the platform. He is an amateur runner and he does some painting in his spare time."
   thumbnailUrl: "SegunFamisa.jpg"
+  social:
+   - {name: "twitter", link: "https://twitter.com/segunfamisa"}
+   - {name: "site", link: "https://segunfamisa.com/"}
 -
   id: "lukas-lechner"
   name: "Lukas"
   surname: "Lechner"
   bio: "I'm a Vienna-based Software Developer who currently focusses on Android Development. I worked on the biggest Mobile App Projects in Austria like willhaben, die Presse and Geizhals. I am currently building eCommerce Apps for RIAG Digital / REWE Group International, like the Billa Online Shop. I always try to stay on the edge of new technologies around Android Development and write about them on my blog (<a href='https://www.lukaslechner.com' target='_blank'>www.lukaslechner.com</a>) or speak about them at meetups."
   thumbnailUrl: "LukasLechner.jpg"
+  social:
+   - {name: "twitter", link: "https://twitter.com/lukleDev"}
+   - {name: "site", link: "http://lukaslechner.com/"}
 -
   id: "juarez-filho"
   name: "Juarez"
@@ -119,6 +135,8 @@
   surname: "Chanddru"
   bio: "First of his name. Developer of frameworks. Advocate of modular code. Master of Android. Lover of Kotlin. Loves to teach and learn. Fell in love with programming when he was 8. Works at Zoho Corporation, India - Developing masterclass software for the world. Working as the Android developer and Mobile App Lead for Zoho Assist suite of products. Writes all the code as modules and publishes it as frameworks that are used by other apps. Google certified Associate Android Developer and Google India scholarship recipient for Android Nanodegree. Have some experience working with WebRTC and constantly tries to write blogs at <a href='https://vivekc.xyz' target='_blank'>vivekc.xyz</a>."
   thumbnailUrl: "VivekChanddru.jpg"
+  social:
+   - {name: "twitter", link: "https://twitter.com/Vivek_Chanddru"}
 -
   id: "aygul-zagidullina"
   name: "Aygul"
@@ -147,12 +165,16 @@
   surname: "Astagi"
   bio: "Santosh Astagi is a Senior Software Engineer developing Android Applications for Rally Health. He has been involved in both the current Rally Health Android applications (Engage and Care). He has spearheaded large features and undertaken setting up the testing infrastructure and migrating the codebase from RxJava 1 to RxJava 2. Currently he is investigating Kotlin Multiplatform projects for Android development and potentially sharing common code."
   thumbnailUrl: "SantoshAstagi.jpg"
+  social:
+   - {name: "twitter", link: "https://twitter.com/sastagi"}
 -
   id: "yossi-segev"
   name: "Yossi"
   surname: "Segev"
   bio: "Yossi spent the last 6+ years building Android applications. He’s a Tech Lead at Kin Ecosystem during the day and by night he’s co-leading the Android Academy TLV community, Advocating Android development and creating content for developers of all level."
   thumbnailUrl: "YossiSegev.jpg"
+  social:
+   - {name: "twitter", link: "https://twitter.com/yossisegev"}
 -
   id: "christian-lohmaier"
   name: "Christian"
