@@ -114,7 +114,7 @@
   id: "lukas-lechner"
   name: "Lukas"
   surname: "Lechner"
-  bio: "I'm a Vienna-based Software Developer who currently focusses on Android Development. I worked on the biggest Mobile App Projects in Austria like willhaben, die Presse and Geizhals. I am currently building eCommerce Apps for RIAG Digital / REWE Group International, like the Billa Online Shop. I always try to stay on the edge of new technologies around Android Development and write about them on my blog (<a href='https://www.lukaslechner.com' target='_blank'>www.lukaslechner.com</a>) or speak about them at meetups."
+  bio: "I'm a Vienna-based Software Developer who currently focusses on Android Development. I worked on the biggest Mobile App Projects in Austria like willhaben, die Presse and Geizhals. I am currently building eCommerce Apps for RIAG Digital / REWE Group International, like the Billa Online Shop. I always try to stay on the edge of new technologies around Android Development and write about them on my blog (<a href='http://www.lukaslechner.com' target='_blank'>www.lukaslechner.com</a>) or speak about them at meetups."
   thumbnailUrl: "LukasLechner.jpg"
   social:
    - {name: "twitter", link: "https://twitter.com/lukleDev"}
