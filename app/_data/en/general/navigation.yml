@@ -3,6 +3,7 @@ links:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/call-for-papers/", text: "Call"}
+ - {permalink: "/diversity/", text: "Diversity"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/photos/", text: "Photos"}
  - {permalink: "/logistics/", text: "Logistics"}

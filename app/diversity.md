@@ -20,10 +20,13 @@ Harassment will not be tolerated. All attendees are welcomed at our event, no â€
 
 #### Diversity Tickets
 
-As a small step towards increased diversity we have offered diversity tickets to underrepresented groups.
+As a small step towards increased diversity we are offering ten diversity tickets to underrepresented groups.
 Women, transgender & non-binary people, people of color and disabled people were invited to apply for a diversity ticket.
 
-Till end of August eight applications have been received and everyone has been provided with a free diversity ticket.
+<a href="https://goo.gl/forms/MJ5LHGdycPHEzPkx2" target="_blank" class="btn btn-primary waves-effect waves-button waves-light waves-float">Apply Here</a>
+
+Please submit your application before 17 September, and we will inform you within two days of your submission.
+The tickets will be offered on a first-come-first-serve basis.
 
 #### Diverse Speakers
 
@@ -34,5 +37,5 @@ At the end of the process about one third female speakers have been selected. In
 
 #### Small Steps
 
-These are small steps and we will continuously measure and review the situation. And if you have specific ideas how we can make droidcon Vienna even more inclusive then please let us know via [diversity@droidcon.at](mailto:diversity@droidcon.at)!
+These are small steps and we will continuously measure and review the situation. And if you have specific ideas how we can make droidcon Vienna even more inclusive then please let us know via [team@droidcon.at](mailto:team@droidcon.at)!
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/diversity2.jpg" style="display:none">
