@@ -6,6 +6,8 @@
   title: "Android Engineer"
   bio: "Hi, my name is Joe. I’m an Android Engineer and Google Developer Expert for Android based in Brighton, UK working on the Android team at Buffer. I’m passionate about coding and love creating robust, polished and exciting projects for mobile, the web, TV, wearables and I’ll probably be toying with whatever the new thing is at the time you’re reading this – I love to be constantly learning. I’m also a keen writer as I love to share my learnings and experiences with others."
   thumbnailUrl: "JoeBirch.jpg"
+  ribbon:
+    - { abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
     - {name: "site", link: "http://hitherejoe.com/"}
     - {name: "github", link: "http://github.com/hitherejoe"}
@@ -34,6 +36,8 @@
   id: "maurice-gavin"
   name: "Maurice"
   surname: "Gavin"
+  title: "Android Lead"
+  company: "Toothpic"
   bio: "Maurice is the Android Lead at Toothpic in Dublin, Ireland. He has been working with Android since 2010 and is currently using his skills to make quality dental care more accessible through tele-dentistry. His interests include machine learning, mobile security and clean architecture. In his spare time he enjoys to travel, run and play computer games."
   thumbnailUrl: "MauriceGavin.jpg"
   social:
@@ -66,6 +70,8 @@
   surname: "Vignesh Jayapalan"
   bio: "I’m a unicorn developer, currently working for a non-profit organization called Habba as an Android Developer and a UX engineer. I’m also the world’s first Google-certified Associate Android developer. I love public speaking and blogging. A regular speaker in Google Developer Group events, Droidcon Speaker, a guest writer for PacktPub and a blogger at Medium. My hobbies include close-up magic, lock picking and digital painting."
   thumbnailUrl: "HariVigneshJayapalan.jpg"
+  company: "Habba"
+  title: "Android Developer &amp; UX Engineer"
   social:
    - {name: "twitter", link: "https://twitter.com/HariOfSpades"}
    - {name: "site", link: "https://medium.com/@harivigneshjayapalan"}
@@ -84,6 +90,7 @@
   name: "Željko"
   surname: "Plesac"
   company: "Infinum"
+  title: "Technical Director"
   bio: "Željko has been a part of the Infinum Android team for 3 years. He has mastered all those nasty bugs and errors which can occur while developing even the most complicated projects. His passions include ORM libraries and frameworks, Android Studio and contributing to open source. His love for Android Studio can only be matched by his hatred for Eclipse"
   thumbnailUrl: "ZeljkoPlesac.jpg"
   social:
@@ -125,6 +132,8 @@
   surname: "Filho"
   bio: "Passionate about traveling as well as sharing his adventures with Web Technologies and Firebase. As a Google Developer Expert, he’s helping communities all over the world to learn, discover and have fun."
   thumbnailUrl: "JuarezFilho.jpg"
+  ribbon:
+    - { abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+JuarezPAFilho"}
     - {name: "twitter", link: "https://twitter.com/juarezpaf"}
@@ -143,26 +152,36 @@
   surname: "Zagidullina"
   bio: "Dr. Aygul Zagidullina is a passionate Actions on Google developer. Her work experience includes Google, Todoist, MotaWord. She holds a PhD in quantum chemistry and prior to Google dedicated 6 years to scientific research at the University of Stuttgart. Aygul is a very active member of the London digital ecosystem and has been involved in many innovative projects. She is a Google Developer Group (GDG)/ Women Techmakers (WTM) London lead, Google Top Contributor (TC)/ Trusted Tester (TT), and UK STEM Ambassador. Aygul has been a distinguished speaker at numerous international industry events in the US (at Google HQ), UK, Germany, Ireland, UAE, Greece, Turkey, Poland, Georgia, and Russia. She was named as one of The NEXT 100 Top Influencers of the European Digital Industry in 2013."
   thumbnailUrl: "AygulZagidullina.jpg"
+  ribbon:
+   - { abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/gdglondon/"}
   social:
    - {name: "twitter", link: "https://twitter.com/aygul"}
 -
   id: "kaan-mamikoglu"
   name: "Kaan"
   surname: "Mamikoglu"
+  title: "Mobile Software Engineer"
+  company: "MyDrive"
   bio: "Kaan is a mobile software engineer at MyDrive Solutions, a Generali company, in London, UK. As an active community builder, he has co-organized a lot of developer events in the UK and Turkey such as DevFests, Android Developer Days’, Android Study Jams, and has been a distinguished speaker at many international industry events in the US, UK, Czech Republic, UAE, Turkey, and Georgia. Besides being a Google Developer Group (GDG) London co-organizer, he is a Google Top Contributor (TC) and a Google Local Guide. Kaan is passionate about exploring new technologies and traveling around the world."
   thumbnailUrl: "KaanMamikoglu.jpg"
+  ribbon:
+   - { abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/gdglondon/"}
   social:
    - {name: "twitter", link: "https://twitter.com/kaanmamikoglu"}
 -
   id: "lakshmikanth-dhanaraj"
   name: "Lakshmikanth"
   surname: "Dhanaraj"
+  company: "Zoho"
+  title: "Android Engineer"
   bio: "Android Engineer @Zoho Corporation, developing apps and libraries on daily basis. Also working on actions on google, Embedded Assistant, Polymer JS and some Gradle utility tools."
   thumbnailUrl: "LakshmikanthDhanaraj.jpg"
 -
   id: "santosh-astagi"
   name: "Santosh"
   surname: "Astagi"
+  title: "Senior Software Engineer"
+  company: "Rally Health"
   bio: "Santosh Astagi is a Senior Software Engineer developing Android Applications for Rally Health. He has been involved in both the current Rally Health Android applications (Engage and Care). He has spearheaded large features and undertaken setting up the testing infrastructure and migrating the codebase from RxJava 1 to RxJava 2. Currently he is investigating Kotlin Multiplatform projects for Android development and potentially sharing common code."
   thumbnailUrl: "SantoshAstagi.jpg"
   social:
@@ -171,6 +190,8 @@
   id: "yossi-segev"
   name: "Yossi"
   surname: "Segev"
+  title: "Tech Lead"
+  company: "Kin Ecosystem"
   bio: "Yossi spent the last 6+ years building Android applications. He’s a Tech Lead at Kin Ecosystem during the day and by night he’s co-leading the Android Academy TLV community, Advocating Android development and creating content for developers of all level."
   thumbnailUrl: "YossiSegev.jpg"
   social:
@@ -179,11 +200,15 @@
   id: "christian-lohmaier"
   name: "Christian"
   surname: "Lohmaier"
+  company: "The Document Foundation"
+  title: "Sysadmin &amp; Release Engineer"
   bio: "Christian 'Cloph' Lohmaier. Age 38, since 5 years working for The Document Foundation as sysadmin and release engineer. TDF is home for LibreOffice (a cross-platform office suite) and the Document Liberation Project (aimed at creating import/export filters for proprietary file formats). Strong believer in open standards and open source."
   thumbnailUrl: "ChristianLohmaier.jpg"
 -
   id: "yogesh-madaan"
   name: "Yogesh"
   surname: "Madaan"
+  title: "Android Engineer"
+  company: "Grab"
   bio: "A Mobile Enthusiast striving for more. Currently working as an Android Engineer at Grab - the leading ride-hailing and mobile payments platform in Southeast Asia. Part of Drivers' platform team focussing on performance and architecture of the application. A software engineer with the passion of coding since childhood. Loves to travel and meet new people."
   thumbnailUrl: "YogeshMadaan.jpg"

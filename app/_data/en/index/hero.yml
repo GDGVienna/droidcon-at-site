@@ -7,3 +7,4 @@ typeoutFallback: "Vienna"
 buttons:
 # - {permalink: "/call-for-papers", text: "Call for Proposals"}
  - {permalink: "/#tickets", text: "Register Now"}
+ - {permalink: "/diversity", text: "Diversity Ticket"}
