@@ -33,8 +33,6 @@ The tickets will be offered on a first-come-first-serve basis.
 We strive in having a better diversity in our speaker set. To reduce unconscious bias, the talk proposals are first reviewed anonymously. The Program Committee does not know the speakers’ gender or race when rating the submissions.
 In a second step we deliberately upvote speakers from diversity groups. This does not overrule good content – the best content will still be the winner – but it adds a small twist towards underrepresented groups.
 
-At the end of the process about one third female speakers have been selected. In addition four female speakers had to withdraw their proposal which resulted in the final speaker set with 20% female speakers.
-
 #### Small Steps
 
 These are small steps and we will continuously measure and review the situation. And if you have specific ideas how we can make droidcon Vienna even more inclusive then please let us know via [team@droidcon.at](mailto:team@droidcon.at)!
