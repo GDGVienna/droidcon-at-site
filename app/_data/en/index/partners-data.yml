@@ -2,3 +2,8 @@
   group: "Silver Sponsor"
   elements:
     - {name: "jumio", description: "Jumio - When Identity Matters", link: "https://www.jumio.com/careers/", imageUrl: "jumio.png"}
+    - {name: "mySugr", description: "mySugr - Make diabetes suck less", link: "https://mysugr.de/jobs", imageUrl: "mysugr.svg"}
+-
+  group: "Bronze Sponsor"
+  elements:
+    - {name: "shpock", description: "Shpock - the boot sale app", link: "https://jobs.shpock.com/", imageUrl: "shpock.png"}
