@@ -52,12 +52,6 @@
   subtype: presentation
   speakers: ["david-schreiber-ranner"]
 -
-  id: 103
-  title: "Production Level Test Driven Development And What's New"
-  description: "Eight out of ten developers don’t really know how to test their apps and write testable code. From practically writing code to test genuine production level scenarios with different approaches to incredibly optimising your tests cases, we will also see what’s new in Android Test Support Library 1.0 and how to test on multiple devices."
-  subtype: presentation
-  speakers: ["kapil-bakshi"]
--
   id: 104
   title: "Sticky Authentication with Fingerprints"
   description: "Fingerprint authentication is becoming increasingly popular in apps these days. In the past, you may have used the FingerPrintManager class to implement it in your app. But with this approach, the responsibility of implementing the UI was all on you. Thankfully, with the release of Android P, there’s a new, better way of doing it using the Fingerprint Dialog API and delivering a better experience to your users. In this talk, you will learn all about the new Fingerprint Dialog API. We will look at the rationale behind this change, how to implement the new APIs in an existing application, and how to incorporate them when starting from scratch. We will also look at how to handle results for the authentication and close out with tips for failing gracefully. You don’t want to miss out on this powerful new API!"
