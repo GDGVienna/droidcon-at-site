@@ -160,6 +160,18 @@
   subtype: presentation
   speakers: ["yogesh-madaan"]
 -
+  id: 122
+  title: "From monolith to modular - our experience at Shpock"
+  description: "About our experiences, approaches, and solutions to typical problems that we encountered while we started to modularize our code base. Also about motivation, benefits we see, and pitfalls we encountered."
+  subtype: presentation
+  speakers: ["daniel-niedermuehlbichler"]
+-
+  id: 123
+  title: "Architecture and framework for clean test code"
+  description: "We started from an Android app (alongside our iOS app, too), and of course parts of it are considered legacy with poor testability. There was no consistent way of test automation. Starting with an approach of heavily using UI testing (which made us very slow at some points), soon we discovered we need something more. We then experimented deeply and tried to tweak our tests in various ways. Existing tools were not always very helpful - e.g. they don't have Cucumber/BDD integration in mind. So we made a framework which became a lightweight helper to fill all these gaps. This talk will explore the journey and the results."
+  subtype: presentation
+  speakers: ["marc-neureiter"]
+-
   id: 200
   title: "Barcamp"
   description: "Your content, selected by you!"

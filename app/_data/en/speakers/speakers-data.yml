@@ -167,6 +167,18 @@
   bio: "Android Engineer @Zoho Corporation, developing apps and libraries on daily basis. Also working on actions on google, Embedded Assistant, Polymer JS and some Gradle utility tools."
   thumbnailUrl: "LakshmikanthDhanaraj.jpg"
 -
+  id: "daniel-niedermuehlbichler"
+  name: "Daniel"
+  surname: "Niedermühlbichler"
+  company: "Shpock"
+  title: "Android Developer"
+  bio: "Born in Vienna in 1986 & still living there. Using Java for 17 years, coding for the Android platform since 2009. Started as a freelancer at that time and implemented Android apps for clients like the Vienna based football club Austria Wien, the Raiffeisen bank, pharmaceutical companies Bayer and Gilead, also sport apps for the public television broadcaster ORF, and the biggest delivery service platform in Austria: Mjam. Since beginning of 2016 working in the Android team of the Vienna based startup Shpock."
+  thumbnailUrl: "DanielNiedermuehlbichler.jpg"
+  social:
+    - {name: "site", link: "https://www.xing.com/profile/Daniel_Niedermuehlbichler"}
+    - {name: "github", link: "https://github.com/dnmbv"}
+    - {name: "twitter", link: "https://twitter.com/DaNiederm"}
+-
   id: "santosh-astagi"
   name: "Santosh"
   surname: "Astagi"
@@ -176,6 +188,14 @@
   thumbnailUrl: "SantoshAstagi.jpg"
   social:
    - {name: "twitter", link: "https://twitter.com/sastagi"}
+-
+  id: "marc-neureiter"
+  name: "Marc"
+  surname: "Neureiter"
+  title: "Software Engineer"
+  company: "mySugr"
+  bio: "I look pretty young for being so old, for a nerd I'm relatively normal and mostly I'm rarely-exciting"
+  thumbnailUrl: "MarcNeureiter.jpg"
 -
   id: "yossi-segev"
   name: "Yossi"

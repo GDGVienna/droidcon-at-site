@@ -21,7 +21,7 @@
     -
         startTime: "10:15"
         endTime: "11:15"
-        sessionIds: [113, 999]
+        sessionIds: [113, 122]
     -
         startTime: "11:15"
         endTime: "11:30"
@@ -49,7 +49,7 @@
     -
         startTime: "16:15"
         endTime: "17:15"
-        sessionIds: [120, 999, 106]
+        sessionIds: [120, 123, 106]
     -
         startTime: "17:15"
         endTime: "18:15"
