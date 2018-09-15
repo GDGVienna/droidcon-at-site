@@ -64,12 +64,6 @@
   subtype: presentation
   speakers: ["adnan-am"]
 -
-  id: 106
-  title: "GraphQL for n00bs"
-  description: "GraphQL is a extremely powerful query language that simplifies data storage and retrieval, offers better query efficiency and improves data understanding and organization. More organizations are switching their backend services to GraphQL in order to take advantage of all it has to offer. As an Android Developer in one of those organizations, you’ll also need to migrate your network requests to work with GraphQL. In this talk, you will learn:<ul><li>What GraphQL is and how it is different from REST and SOAP<li>First steps to include GraphQL in your Android applications<li>What GraphQL queries and mutations are and how to create them<li>How to mock and test GraphQL server responses</ul> At the end of the talk, you’ll be ready to incorporate GraphQL into your existing applications!"
-  subtype: presentation
-  speakers: ["moyinoluwa-adeyemi"]
--
   id: 107
   title: "Awesome Animations using ConstraintLayout and MotionLayout"
   description: "ConstraintLayout helps us to easily create complex UIs without nesting views and complex view-hierarchy management. But do you know that it also helps us to create beautiful animations and transitions with very little code? That’s what I will be sharing and discussing with you.<br>In this talk, I’ll be explaining the following:<ul><li>How keyframe animation works with ConstraintLayout and ConstraintSet<li>Few real-time use cases/animations - you can hack them in few minutes<li>How is it different from others?<li>Animating without duplicating the layouts<li>When and where to use keyframe animations<li>Do’s and Don’ts<li>Limitations of ConstraintSet animations</ul>"

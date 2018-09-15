@@ -24,15 +24,6 @@
    - {name: "twitter", link: "https://twitter.com/BartoszKraszew1"}
    - {name: "site", link: "https://about.me/bartoszk"}
 -
-  id: "moyinoluwa-adeyemi"
-  name: "Moyinoluwa"
-  surname: "Adeyemi"
-  bio: "Moyinoluwa Adeyemi is an Android Developer who enjoys sharing her knowledge about Android Development by speaking at conferences and writing on Medium. She cares a lot about building apps that look good and work well on all devices. She can constantly be found trying to beat her personal best for her 5km run."
-  thumbnailUrl: "MoyinoluwaAdeyemi.jpg"
-  social:
-   - {name: "twitter", link: "https://twitter.com/moyheen"}
-   - {name: "site", link: "https://medium.com/@moyinoluwa"}
--
   id: "maurice-gavin"
   name: "Maurice"
   surname: "Gavin"
