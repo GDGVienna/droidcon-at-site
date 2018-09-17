@@ -7,3 +7,4 @@
   group: "Bronze Sponsor"
   elements:
     - {name: "shpock", description: "Shpock - the boot sale app", link: "https://jobs.shpock.com/", imageUrl: "shpock.png"}
+    - {name: "meisterlabs", description: "MeisterLabs", link: "https://www.meisterlabs.com/jobs/", imageUrl: "meisterlabs.svg"}
