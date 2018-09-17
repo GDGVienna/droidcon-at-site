@@ -156,7 +156,7 @@
 -
   id: 122
   title: "From monolith to modular - our experience at Shpock"
-  description: "About our experiences, approaches, and solutions to typical problems that we encountered while we started to modularize our code base. Also about motivation, benefits we see, and pitfalls we encountered."
+  description: "Despite being a good practice in general, for many years multi-module projects haven’t been a topic in Android development. Android apps usually had a rather small code base, so splitting them up into units just didn’t seem to be necessary. In the recent time modularisation of app projects became a more prominent topic as many app projects reached a scale where monoliths bring up a variety of problems.<br/>This was also the case at Shpock, and recently we started to split up our code base into separate modules. In the presentation I’ll give insights about our motivation, our solutions to several problems we faced in the process, benefits we see, and our future plans regarding this topic."
   subtype: presentation
   speakers: ["daniel-niedermuehlbichler"]
 -
