@@ -17,4 +17,4 @@ blocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
