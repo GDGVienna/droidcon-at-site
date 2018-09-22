@@ -35,9 +35,9 @@
 -
   id: 309
   title: "Afterparty"
-  place: "TBA"
+  place: "Café Alias"
   service: true
-  description: "Time to network and relax - join us at the afterparty!"
+  description: "Time to network and relax - join us at the afterparty in Café Alias - Millenniumcity!<br><br>Address: Hellwagstraße 34, 1200 Vienna"
   imageUrl: "other/party.png"
 -
   id: 101
@@ -45,12 +45,6 @@
   description: "In today's workplaces, there are still huge issues with diversity and inclusivity. Whilst you may not notice it in your workplace, underrepresented groups are faced with difficulties and feelings that those with privilege are likely to have never encountered. But this doesn't, and shouldn't, have to be the way - being an ally allows us to amplify the voices of the underrepresented and make change happen."
   subtype: keynote
   speakers: ["joe-birch"]
--
-  id: 102
-  title: "Building Apps with Flutter"
-  description: "An introduction of building cross-platform apps using Flutter and Dart. In this talk I'll explain the basics of Flutter, describe the technology behind it, and walk through all components that are required to build a basic flutter app."
-  subtype: presentation
-  speakers: ["david-schreiber-ranner"]
 -
   id: 104
   title: "Sticky Authentication with Fingerprints"

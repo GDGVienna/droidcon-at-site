@@ -78,16 +78,6 @@
     - {name: "linkedin", link: "https://hr.linkedin.com/in/željko-plesac-01551214"}
     - {name: "twitter", link: "https://twitter.com/ZeljkoPlesac"}
 -
-  id: "david-schreiber-ranner"
-  name: "David"
-  surname: "Schreiber-Ranner"
-  company: "PSPDFKit"
-  bio: "Born in Vienna, I was writing code for as long as I can think back – including for the ZX Spectrum. Just music, but hey :-) I did my bachelor degree in information and communication systems, and am working on my master degree paper in the same area. I'm a senior Java/Android developer but also spent nearly as much time in web development with PHP, SQL and JavaScript. I started Android development in 2011, and joined PSPDFKit in 2015, where I helped a lot with improving the public framework API, and invested a lot of time in creating a stable, easy-to-use and comprehensive test suite."
-  thumbnailUrl: "DavidSchreiber-Ranner.jpg"
-  social:
-    - {name: "twitter", link: "https://twitter.com/Flashmasterdash"}
-    - {name: "google-plus", link: "https://plus.google.com/112371263315253005287"}
--
   id: "segun-famisa"
   name: "Segun"
   surname: "Famisa"
@@ -95,6 +85,8 @@
   title: "Software Engineer"
   bio: "Segun Famisa is a Software Engineer at trivago based in Düsseldorf, Germany and has been developing for Android since Gingerbread. He is passionate about Android development and loves to share his passion and findings through technical articles on his blog as well as speaking about the platform. He is an amateur runner and he does some painting in his spare time."
   thumbnailUrl: "SegunFamisa.jpg"
+  ribbon:
+    - { abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
    - {name: "twitter", link: "https://twitter.com/segunfamisa"}
    - {name: "site", link: "https://segunfamisa.com/"}
