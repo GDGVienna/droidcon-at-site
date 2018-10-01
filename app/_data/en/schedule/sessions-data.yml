@@ -166,6 +166,30 @@
   subtype: barcamp
   imageUrl: "other/barcamp.jpg"
 -
+  id: 201
+  title: "Essential RxJava Operations"
+  description: "BarCamp session - Samat"
+  subtype: barcamp
+  imageUrl: "other/barcamp.jpg"
+-
+  id: 202
+  title: "Nailing Penetration Testing"
+  description: "BarCamp session - Željko"
+  subtype: barcamp
+  imageUrl: "other/barcamp.jpg"
+-
+  id: 203
+  title: "Fixing the Hiring Gap"
+  description: "BarCamp session - Adnan"
+  subtype: barcamp
+  imageUrl: "other/barcamp.jpg"
+-
+  id: 204
+  title: "Multi-Module - Tips & Tricks"
+  description: "BarCamp session - Roberto"
+  subtype: barcamp
+  imageUrl: "other/barcamp.jpg"
+-
   id: 999
   title: "Coming soon"
   description: "More details will be announced later"

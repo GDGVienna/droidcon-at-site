@@ -100,7 +100,7 @@
     -
         startTime: "13:45"
         endTime: "14:15"
-        sessionIds: [200, 200]
+        sessionIds: [201, 202]
     -
         startTime: "14:15"
         endTime: "14:30"
@@ -108,12 +108,8 @@
     -
         startTime: "14:30"
         endTime: "15:00"
-        sessionIds: [200, 200]
+        sessionIds: [203, 204]
     -
         startTime: "15:00"
-        endTime: "15:30"
-        sessionIds: [200, 200]
-    -
-        startTime: "15:30"
         endTime: "16:00"
         sessionIds: [308]
