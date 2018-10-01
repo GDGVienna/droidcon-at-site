@@ -43,3 +43,74 @@
   file: after-drink.jpg
   year: 2016
   text: "After droidcon ..."
+-
+  id: 10
+  file: speakersdinner-1.jpg
+  year: 2018
+  text: "Speakers Dinner"
+-
+  id: 11
+  file: speakersdinner-2.jpg
+  year: 2018
+  text: "Speakers Dinner"
+-
+  id: 12
+  file: jumio.jpg
+  year: 2018
+  text: "Jumio at drdoicon"
+-
+  id: 13
+  file: mysugr.jpg
+  year: 2018
+  text: "mySugr at droidcon"
+-
+  id: 14
+  file: shpock-stickers.jpg
+  year: 2018
+  text: "Shpock stickers"
+-
+  id: 15
+  file: meisterlabs.jpg
+  year: 2018
+  text: "Meisterlabs T-Shirts"
+-
+  id: 16
+  file: talk-aygul.jpg
+  year: 2018
+  text: "Aygul Zagidullina"
+-
+  id: 17
+  file: talk-bartosz.jpg
+  year: 2018
+  text: "Bartosz krazsewski"
+-
+  id: 18
+  file: talk-kaan.jpg
+  year: 2018
+  text: "Kaan Mamikoglu"
+-
+  id: 19
+  file: talk-maurice.jpg
+  year: 2018
+  text: "Maurice Gavin"
+-
+  id: 20
+  file: wraps.jpg
+  year: 2018
+  text: "Wraps at droidcon"
+-
+  id: 21
+  file: wrapstars.jpg
+  year: 2018
+  text: "Wrapstars Team"
+-
+  id: 22
+  file: afterparty-1.jpg
+  year: 2018
+  text: "After-Party"
+-
+  id: 23
+  file: afterparty-2.jpg
+  year: 2018
+  text: "After-Party"
+-
