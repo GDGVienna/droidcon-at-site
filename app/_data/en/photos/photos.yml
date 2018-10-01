@@ -2,7 +2,7 @@
   id: 0
   file: attendees.jpg
   year: 2016
-  text: "Attendees of droidcon"
+  text: "Attendees"
 -
   id: 1
   file: lunchbreak.jpg
@@ -17,12 +17,12 @@
   id: 4
   file: runtastic.jpg
   year: 2016
-  text: "runtastic at droidcon"
+  text: "runtastic"
 -
   id: 5
   file: shpock.jpg
   year: 2016
-  text: "shpock at droidcon"
+  text: "shpock"
 -
   id: 6
   file: wrapstars.jpg
@@ -55,62 +55,67 @@
   text: "Speakers Dinner"
 -
   id: 12
-  file: jumio.jpg
+  file: emily.jpg
   year: 2018
-  text: "Jumio at drdoicon"
+  text: "Emily"
 -
   id: 13
-  file: mysugr.jpg
+  file: jumio.jpg
   year: 2018
-  text: "mySugr at droidcon"
+  text: "Jumio"
 -
   id: 14
-  file: shpock-stickers.jpg
+  file: mysugr.jpg
   year: 2018
-  text: "Shpock stickers"
+  text: "mySugr"
 -
   id: 15
-  file: meisterlabs.jpg
+  file: shpock-stickers.jpg
   year: 2018
-  text: "Meisterlabs T-Shirts"
+  text: "Shpock"
 -
   id: 16
-  file: talk-aygul.jpg
+  file: meisterlabs.jpg
   year: 2018
-  text: "Aygul Zagidullina"
+  text: "Meisterlabs"
 -
   id: 17
-  file: talk-bartosz.jpg
+  file: talk-aygul.jpg
   year: 2018
-  text: "Bartosz krazsewski"
+  text: "Aygul"
 -
   id: 18
-  file: talk-kaan.jpg
+  file: talk-bartosz.jpg
   year: 2018
-  text: "Kaan Mamikoglu"
+  text: "Bartosz"
 -
   id: 19
-  file: talk-maurice.jpg
+  file: talk-kaan.jpg
   year: 2018
-  text: "Maurice Gavin"
+  text: "Kaan"
 -
   id: 20
-  file: wraps.jpg
+  file: talk-maurice.jpg
   year: 2018
-  text: "Wraps at droidcon"
+  text: "Maurice"
 -
   id: 21
-  file: wrapstars.jpg
+  file: speakers.jpg
   year: 2018
-  text: "Wrapstars Team"
+  text: "Speakers"
 -
   id: 22
-  file: afterparty-1.jpg
+  file: wraps.jpg
   year: 2018
-  text: "After-Party"
+  text: "Wraps"
 -
   id: 23
+  file: afterparty-1.jpg
+  year: 2018
+  text: "Afterparty"
+-
+  id: 24
   file: afterparty-2.jpg
   year: 2018
-  text: "After-Party"
+  text: "Afterparty"
 -
