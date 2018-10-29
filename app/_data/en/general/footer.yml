@@ -8,8 +8,8 @@ blocks:
  -
   title: "Links"
   links:
-   - {link: "http://www.gdg-vienna.at", text: "GDG Vienna"}
-   - {link: "http://www.meetup.com/AndroidHeads/", text: "AndroidHeads Vienna"}
+   - {link: "https://www.gdg-vienna.at", text: "GDG Vienna"}
+   - {link: "https://www.meetup.com/AndroidHeads/", text: "AndroidHeads Vienna"}
  -
   title: "Contacts"
   links:

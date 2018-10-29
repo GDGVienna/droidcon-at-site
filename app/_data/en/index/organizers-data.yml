@@ -1,6 +1,6 @@
 - 
   group: "Organizer"
   elements: 
-    - {name: "GDG Vienna", description: "GDG Google Developer Group Vienna", link: "http://www.gdg-vienna.at", imageUrl: "gdg-vienna.png", width: "200"}
-    - {name: "AndroidHeads Vienna", description: "AndroidHeads Vienna", link: "http://www.androidheads.org/", imageUrl: "androidheads.png"}
+    - {name: "GDG Vienna", description: "GDG Google Developer Group Vienna", link: "https://www.gdg-vienna.at", imageUrl: "gdg-vienna.png", width: "200"}
+    - {name: "AndroidHeads Vienna", description: "AndroidHeads Vienna", link: "https://www.androidheads.org/", imageUrl: "androidheads.png"}
 - 
