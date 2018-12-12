@@ -7,4 +7,4 @@ typeoutFallback: "Vienna"
 buttons:
 # - {permalink: "/call-for-papers", text: "Call for Proposals"}
 # - {permalink: "/#tickets", text: "Register Now"}
- - {url: "https://droidcon-vienna-2019.eventbrite.com", text: "Super Early Bird"}
+ - {link: "https://droidcon-vienna-2019.eventbrite.com", text: "Super Early Bird"}
