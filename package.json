@@ -29,6 +29,6 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
-    "firebase-tools": "^3.19.0"
+    "firebase-tools": "^6.3.0"
   }
 }
