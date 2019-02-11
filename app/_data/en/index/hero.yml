@@ -5,6 +5,6 @@ eventLocation: "Technikum Wien"
 typeoutTextValues: '"", "London", "Krakow", "Zagreb", "Berlin", "Vienna"'
 typeoutFallback: "Vienna"
 buttons:
-# - {permalink: "/call-for-papers", text: "Call for Proposals"}
+ - {permalink: "/call-for-papers", text: "Call for Proposals"}
 # - {permalink: "/#tickets", text: "Register Now"}
  - {link: "https://droidcon-vienna-2019.eventbrite.com", text: "Early Bird"}

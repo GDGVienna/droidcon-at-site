@@ -6,11 +6,11 @@ isStaticPost: true
 ---
 _Interested in presenting at droidcon Vienna? Cool! Thanks a lot!_
 
-The second call for papers is open till 30 June 2018, midnight Vienna time.
+The first call for papers is open till 3 March 2019, midnight Vienna time.
 
 ##### Topics
 
-The theme of droidcon Vienna 2018 is *Everything Android*. We will include talks around development topics on Android, mobile app design, monetization, and related soft skills.
+The theme of droidcon Vienna 2019 is *Everything Android*. We will include talks around development topics on Android, mobile app design, monetization, and related soft skills.
 
 Among our participants are highly-skilled and experienced Android developers. Talk proposals about advanced and specialized Android topics are therefore also welcomed.
 
@@ -36,7 +36,7 @@ All sessions will be held in English.
 
 ###### Equipment
 
-Each room is equipped with a beamer and network connectivity for your notebook PC. We also have adapters for MacBook / MacBook Air (MiniDP).
+Each room is equipped with a beamer and network connectivity for your notebook PC. We also have adapters for MacBook / MacBook Air (MiniDP & USB-C).
 
 ###### Selection Process
 
