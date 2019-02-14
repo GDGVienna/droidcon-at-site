@@ -10,7 +10,7 @@ links:
 # - {permalink: "/blog/", text: "Blog"}
 bottomLinks:
  - {link: "https://droidcon-vienna-2019.eventbrite.com", text: "Tickets"}
-# - {permalink: "/call-for-papers/", text: "Call"}
+ - {permalink: "/call-for-papers/", text: "Call"}
 rightButtons:
  - {link: "https://droidcon-vienna-2019.eventbrite.com", text: "Tickets"}
-# - {permalink: "/call-for-papers/", text: "Call"}
+ - {permalink: "/call-for-papers/", text: "Call"}
