@@ -6,7 +6,7 @@ isStaticPost: true
 ---
 _Interested in presenting at droidcon Vienna? Cool! Thanks a lot!_
 
-The first call for papers is open till 3 March 2019, midnight Vienna time.
+The second call for papers is open till 19 May 2019, midnight Vienna time.
 
 ##### Topics
 
