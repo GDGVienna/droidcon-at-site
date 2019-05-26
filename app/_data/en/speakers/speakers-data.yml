@@ -10,3 +10,46 @@
   surname: "Cirman"
   bio: "Founder of CODEBЯAINEЯ @thecodebrainer With more than 80 web and mobile app projects behind me, it is time to share that knowledge."
   thumbnailUrl: "MihaCirman.jpg"
+-
+  id: "marton-braun"
+  name: "Márton"
+  surname: "Braun"
+  bio: "A Kotlin enthusiast since the 1.0 of the language. Ranked right around the very top of the Kotlin tag on StackOverflow. Creator of a couple open source Kotlin libraries. Android developer (and self-proclaimed Kotlin evangelist) at AutSoft. Android/Kotlin tech editor at RayWenderlich.com. University student, working on a master's in computer engineering at the Budapest University of Technology and Economics. Instructor at the same university, teaching Kotlin and Android."
+  thumbnailUrl: "MartonBraun.jpg"
+  social:
+    - {name: "site", link: "https://zsmb.co/"}
+    - {name: "github", link: "https://github.com/zsmb13"}
+    - {name: "twitter", link: "https://twitter.com/zsmb13"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/zsmb13/"}
+-
+  id: "nick-rout"
+  name: "Nick"
+  surname: "Rout"
+  bio: "Nick Rout is an Android Engineer, with over 4 years of experience, currently employed at Over - the easy app for creating. He is passionate about Material Design and Human-Computer Interaction. He is the organizer for GDG Cape Town, enjoys public speaking and frequently posts Android-related articles on Medium. He is featured on Android Experiments for his creative, open source apps that he works on in his spare time."
+  thumbnailUrl: "NickRout.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/ricknout"}
+-
+  id: "pamela-audrey-hill"
+  name: "Pamela"
+  surname: "Hill"
+  bio: "Pamela is a second-generation coder and hold BSc IT and BSc (Hons) Computer Science degrees from the University of Pretoria. She has more than 15 years of experience writing desktop, web and mobile apps. Currently she is an Android Engineer at the cryptocurrency startup Luno. She loves coding in Kotlin, especially for Android!"
+  thumbnailUrl: "PamelaHill.jpg"
+-
+  id: "jeremy-rempel"
+  name: "Jeremy"
+  surname: "Rempel"
+  bio: "Jeremy is currently a staff software engineer for Etsy in NYC. He has been developing large systems in a consulting role for a wide variety of Global 500 organizations and Android applications for the last 4 years. He is passionate about technology and learning and mentoring others."
+  thumbnailUrl: "JeremyRempel.jpg"
+-
+  id: "gaurav-bhatnagar"
+  name: "Gaurav"
+  surname: "Bhatnagar"
+  bio: "Gaurav is a seasoned mobile developer currently working in Maersk (shipping conglomerate). He has worked in healthcare apps for more than five years targeting different spectrum of users right from Radiologists to Ward-boys specifically for US &amp; Canada. As an android enthusiast, he is fond of connecting with community and spends time as a weekend trainer with <a href='https://www.edureka.co' target='_blank'>Edureka</a> for new entrants in mobile eco-space. He is a regular attendee and participant of GDG BlrDroid at Bangalore."
+  thumbnailUrl: "GauravBhatnagar.jpg"
+-
+  id: "nishant-rivastava"
+  name: "Nishant"
+  surname: "Srivastava"
+  bio: "Nishant is a Sr.Android Engineer at Soundbrenner in Berlin, Germany and an open source enthusiast who spends his time doodling when not hacking on Android. He is a caffeine-dependent life-form and can be found either talking about android libraries or advocating that coffee is the elixir of life at community gatherings. He has been part of 2 startups in the past (Founding Team Member at OmniLabs, Inc. and one of the first employees at Silverpush) with experience in Android SDK Engineering and Audio Digital Signal Processing(DSP) on Android. While working at his past company (Silverpush), he developed the company’s patented UAB (Unique Audio Beacon) Technology."
+  thumbnailUrl: "NishantSrivastava.jpg"
