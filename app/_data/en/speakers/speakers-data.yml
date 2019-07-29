@@ -53,3 +53,45 @@
   surname: "Srivastava"
   bio: "Nishant is a Sr.Android Engineer at Soundbrenner in Berlin, Germany and an open source enthusiast who spends his time doodling when not hacking on Android. He is a caffeine-dependent life-form and can be found either talking about android libraries or advocating that coffee is the elixir of life at community gatherings. He has been part of 2 startups in the past (Founding Team Member at OmniLabs, Inc. and one of the first employees at Silverpush) with experience in Android SDK Engineering and Audio Digital Signal Processing(DSP) on Android. While working at his past company (Silverpush), he developed the company’s patented UAB (Unique Audio Beacon) Technology."
   thumbnailUrl: "NishantSrivastava.jpg"
+-
+  id: "hadi-tok"
+  name: "Hadi"
+  surname: "Tok"
+  bio: ""
+  thumbnailUrl: "HadiTok.jpg"
+-
+  id: "jean-baptiste-vincey"
+  name: "Jean-Baptiste"
+  surname: "Vincey"
+  thumbnailUrl: "Jean-BaptisteVincey.jpg"
+-
+  id: "jitin-sharma"
+  name: "Jitin"
+  surname: "Sharma"
+  thumbnailUrl: "JitinSharma.jpg"
+-
+  id: "marcin-moskala"
+  name: "Marcin"
+  surname: "Moskała"
+  thumbnailUrl: "MarcinMoskala.jpg"
+-
+  id: "elliot-schrock"
+  name: "Elliot"
+  surname: "Schrock"
+  thumbnailUrl: "ElliotSchrock.jpg"
+-
+  id: "adnan-am"
+  name: "Adnan"
+  surname: "A M"
+  company: "Redmart"
+  title: "Android Developer"
+  bio: "Adnan is a seasoned Android developer working with Redmart. His area of focus has generally been writing large scalable code, improving UX and overall app performance. He has a lot of domain knowledge and exposure with E-Commerce domain and used to previously work at BookMyShow, where he went to rewrite the entire app from scratch."
+  thumbnailUrl: "AdnanAm.jpg"
+  social:
+   - {name: "twitter", link: "https://twitter.com/AdnanM0123"}
+   - {name: "site", link: "http://www.adnan.am/"}
+-
+  id: "alexandre-genet"
+  name: "Alexandre"
+  surname: "Genet"
+  thumbnailUrl: "AlexandreGenet.jpg"
