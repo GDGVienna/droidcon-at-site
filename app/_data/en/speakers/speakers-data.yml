@@ -95,3 +95,18 @@
   name: "Alexandre"
   surname: "Genet"
   thumbnailUrl: "AlexandreGenet.jpg"
+-
+  id: "valery-ponomarenko"
+  name: "Valery"
+  surname: "Ponomarenko"
+  thumbnailUrl: "ValeryPonomarenko.jpg"
+-
+  id: "daniel-hartwich"
+  name: "Daniel"
+  surname: "Hartwich"
+  company: "XING"
+  bio: "Daniel Hartwich is an aspiring Android Developer at the German company XING AG located in Hamburg. He has been programming for the Android platform since 2013. Whenever Google releases anything new regarding Android, Daniel instantly gets interested and investigates everything - up to the smallest detail."
+  thumbnailUrl: DanielHartwich.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/KiLLyA_"}
+    - {name: "github", link: "https://github.com/dhartwich1991"}
