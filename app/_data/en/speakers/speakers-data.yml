@@ -110,3 +110,28 @@
   social:
     - {name: "twitter", link: "https://twitter.com/KiLLyA_"}
     - {name: "github", link: "https://github.com/dhartwich1991"}
+-
+  id: "jaroslaw-michalik"
+  name: "Jarosław"
+  surname: "Michalik"
+  thumbnailUrl: "JaroslawMichalik.jpg"
+-
+  id: "philipp-hofmann"
+  name: "Philipp"
+  surname: "Hofmann"
+  thumbnailUrl: "PhilippHofmann.jpg"
+-
+  id: "doug-stevenson"
+  name: "Doug"
+  surname: "Stevenson"
+  thumbnailUrl: "DougStevenson.jpg"
+-
+  id: "suneet-agrawal"
+  name: "Suneet"
+  surname: "Agrawal"
+  thumbnailUrl: "SuneetAgrawal.jpg"
+-
+  id: "giovanni-laquidari"
+  name: "Giovanni"
+  surname: "Laquidari"
+  thumbnailUrl: "GiovanniLaquidara.jpg"
