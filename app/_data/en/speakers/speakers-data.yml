@@ -135,3 +135,26 @@
   name: "Giovanni"
   surname: "Laquidari"
   thumbnailUrl: "GiovanniLaquidara.jpg"
+-
+  id: "enrico-bruno-del-zotto"
+  name: "Enrico"
+  surname: "Bruno Del Zotto"
+  thumbnailUrl: "EnricoBrunoDelZotto.jpg"
+  company: "TUI UK"
+  bio: "After several years working like a mobile consultant, Enrico moved to London working as lead developer @Smartfocus.com developing an indoor positioning system based on beacons. Since May 2017 working @ TUI.co.uk where he's creating the next generation of mobile travel app for TUI customers."
+  title: "Senior Android Developer"
+-
+  id: "fabio-carballo"
+  name: "Fabio"
+  surname: "Carballo"
+  thumbnailUrl: "FabioCarballo.jpg"
+-
+  id: "gemma-socorro-rodriguez"
+  name: "Gemma"
+  surname: "Socorro Rodriguez"
+  thumbnailUrl: "GemaSocorroRodriguez.jpg"
+-
+  id: "kaustav-jaiswal"
+  name: "Kaustav"
+  surname: "Jaiswal"
+  thumbnailUrl: "KaustavJaiswal.jpg"
