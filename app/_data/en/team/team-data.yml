@@ -8,11 +8,19 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+HelmuthBreitenfellner"}
     - {name: "twitter", link: "https://twitter.com/helmuthb"}
     - {name: "github", link: "https://github.com/helmuthb"}
 - 
   id: 1
+  name: "George"
+  surname: "Savvidis"
+  title: "Program Committee"
+  thumbnailUrl: "GeorgeSavvidis.jpg"
+  subTeam: true
+  ribbon:
+    - {abbr: "AHV", title: "AndroidHeads Vienna"}
+- 
+  id: 2
   name: "Marc"
   surname: "Edem"
   title: "IT & Social Media"
@@ -20,10 +28,8 @@
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+MarcEdem"}
-- 
-  id: 2
+-
+  id: 5
   name: "Robert"
   surname: "Hesele"
   title: "Logistics"
@@ -41,15 +47,5 @@
   ribbon:
     - {abbr: "AHV", title: "AndroidHeads Vienna"}
   social: 
-    - {name: "google-plus", title: "Google+", link: "https://google.com/+KlemensZleptnig"}
     - {name: "twitter", title: "Twitter", link: "https://twitter.com/klemensz"}
     - {name: "linkedin", title: "LinkedIn", link: "https://at.linkedin.com/in/klemens1"}
-- 
-  id: 4
-  name: "Peter"
-  surname: "Riegler"
-  title: "Program Committee"
-  thumbnailUrl: PeterRiegler.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+PeterRiegler1"}
