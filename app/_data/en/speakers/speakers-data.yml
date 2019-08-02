@@ -30,7 +30,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/ricknout"}
 -
-  id: "pamela-audrey-hill"
+  id: "pamela-hill"
   name: "Pamela"
   surname: "Hill"
   bio: "Pamela is a second-generation coder and hold BSc IT and BSc (Hons) Computer Science degrees from the University of Pretoria. She has more than 15 years of experience writing desktop, web and mobile apps. Currently she is an Android Engineer at the cryptocurrency startup Luno. She loves coding in Kotlin, especially for Android!"
@@ -48,7 +48,7 @@
   bio: "Gaurav is a seasoned mobile developer currently working in Maersk (shipping conglomerate). He has worked in healthcare apps for more than five years targeting different spectrum of users right from Radiologists to Ward-boys specifically for US &amp; Canada. As an android enthusiast, he is fond of connecting with community and spends time as a weekend trainer with <a href='https://www.edureka.co' target='_blank'>Edureka</a> for new entrants in mobile eco-space. He is a regular attendee and participant of GDG BlrDroid at Bangalore."
   thumbnailUrl: "GauravBhatnagar.jpg"
 -
-  id: "nishant-rivastava"
+  id: "nishant-srivastava"
   name: "Nishant"
   surname: "Srivastava"
   bio: "Nishant is a Sr.Android Engineer at Soundbrenner in Berlin, Germany and an open source enthusiast who spends his time doodling when not hacking on Android. He is a caffeine-dependent life-form and can be found either talking about android libraries or advocating that coffee is the elixir of life at community gatherings. He has been part of 2 startups in the past (Founding Team Member at OmniLabs, Inc. and one of the first employees at Silverpush) with experience in Android SDK Engineering and Audio Digital Signal Processing(DSP) on Android. While working at his past company (Silverpush), he developed the company’s patented UAB (Unique Audio Beacon) Technology."

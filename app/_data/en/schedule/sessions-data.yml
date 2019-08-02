@@ -147,7 +147,7 @@
   id: 119
   title: "Cut your APK size with features on demand"
   subtype: presentation
-  speakers: ["agrawal-suneet"]
+  speakers: ["suneet-agrawal"]
 -
   id: 120
   title: "Work Work Work - WorkManager makes background work easy"
@@ -187,7 +187,7 @@
   id: 127
   title: "Why I love Koin"
   subtype: presentation
-  speakers: ["gema-socorro-rodriguez"]
+  speakers: ["gemma-socorro-rodriguez"]
 -
   id: 128
   title: "Mocking Kotlin With MockK"
