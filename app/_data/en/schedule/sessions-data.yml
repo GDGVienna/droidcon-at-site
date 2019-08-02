@@ -1,192 +1,212 @@
 -
-  id: 301
+  id: 901
   title: "Breakfast &amp; Registration"
   place: "Hall"
   service: true
   description: "We will welcome you with hot espresso, danish pastry and your conference badge."
   imageUrl: "other/breakfast.jpg"
 -
-  id: 302
+  id: 902
   title: "Welcome"
   place: "Room 1"
   service: true
   description: "Opening of this day of droidcon Vienna"
   imageUrl: "other/opening.jpg"
 -
-  id: 303
+  id: 903
   title: "Lunch Break"
   place: "Hall"
   service: true
   imageUrl: "other/lunchbreak.jpg"
 -
-  id: 307
+  id: 907
   title: "Coffee Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
   imageUrl: "other/coffeebreak.jpg"
 -
-  id: 308
+  id: 908
   title: "Closing"
   place: "Hall"
   service: true
   description: "Closing this conference day"
   imageUrl: "other/closing.jpg"
 -
-  id: 309
+  id: 909
   title: "Afterparty"
   place: "Café Alias"
   service: true
   description: "Time to network and relax - join us at the afterparty in Café Alias - Millenniumcity!<br><br>Address: Hellwagstraße 34, 1200 Vienna"
   imageUrl: "other/party.png"
 -
-  id: 101
-  title: "Keynote: Making change as an Ally"
-  description: "In today's workplaces, there are still huge issues with diversity and inclusivity. Whilst you may not notice it in your workplace, underrepresented groups are faced with difficulties and feelings that those with privilege are likely to have never encountered. But this doesn't, and shouldn't, have to be the way - being an ally allows us to amplify the voices of the underrepresented and make change happen."
+  id: 100
+  title: "Keynote Day 1"
+  description: "TBD"
   subtype: keynote
-  speakers: ["joe-birch"]
+  speakers: []
+-
+  id: 200
+  title: "Keynote Day 1"
+  description: "TBD"
+  subtype: keynote
+  speakers: []
+-
+  id: 101
+  title: "Stun your Designer with MotionLayout"
+  description: ""
+  subtype: presentation
+  speakers: ["jossi-wolf"]
+-
+  id: 102
+  title: "My first steps in Flutter"
+  description: ""
+  subtype: presentation
+  speakers: ["miha-cirman"]
+-
+  id: 103
+  title: "Idio(ma)tic Kotlin"
+  subtype: presentation
+  speakers: ["marton-braun"]
 -
   id: 104
-  title: "Sticky Authentication with Fingerprints"
-  description: "Fingerprint authentication is becoming increasingly popular in apps these days. In the past, you may have used the FingerPrintManager class to implement it in your app. But with this approach, the responsibility of implementing the UI was all on you. Thankfully, with the release of Android P, there’s a new, better way of doing it using the Fingerprint Dialog API and delivering a better experience to your users. In this talk, you will learn all about the new Fingerprint Dialog API. We will look at the rationale behind this change, how to implement the new APIs in an existing application, and how to incorporate them when starting from scratch. We will also look at how to handle results for the authentication and close out with tips for failing gracefully. You don’t want to miss out on this powerful new API!"
+  title: "Setting up a Material Components theme for Android"
   subtype: presentation
-  speakers: ["segun-famisa"]
+  speakers: ["nick-rout"]
 -
   id: 105
-  title: "Having fun with Kotlin fun()"
-  description: "Functions are at the heart of Kotlin. Be it writing a simple utility function or writing a very critical piece of functionality, whatever task you have at hand - How do you know which fun() to use? How do they compare to the good old Java functions?<br>In this talk, you will learn:<ul><li>How to write basic functions in Kotlin<li>Understand how are they different from java functions<li>The various functions available and their behaviors<li>Look at how some standard functions - let, apply, run etc help you make life easier<li>How to make the most of the function types available</ul>"
+  title: "Level Up in Kotlin"
+  subtype: presentation
+  speakers: ["pamela-hill"]
+-
+  id: 106
+  title: "Building a Kotlin Native App on iOS and Android"
+  subtype: presentation
+  speakers: ["jeremy-rempel"]
+-
+  id: 107
+  title: "Understanding ML Kit offerings in Android"
+  subtype: presentation
+  speakers: ["gaurav-bhatnagar"]
+-
+  id: 108
+  title: "My love-hate relationship with Android Studio"
+  subtype: presentation
+  speakers: ["nishant-srivastava"]
+-
+  id: 109
+  title: "Let your design evolve, adopt a Design System!"
+  subtype: presentation
+  speakers: ["jean-baptiste-vincey"]
+-
+  id: 110
+  title: "Make some move with MotionLayout"
+  subtype: presentation
+  speakers: ["alexandre-genet"]
+-
+  id: 111
+  title: "Pushing features your users want, when they want them"
+  subtype: presentation
+  speakers: ["raul-hernandez-lopez", "lucas-yan"]
+-
+  id: 112
+  title: "Nitrogen in your (test) pyramid"
+  subtype: presentation
+  speakers: ["enrico-bruno-del-zotto"]
+-
+  id: 113
+  title: "From OOP to FP"
   subtype: presentation
   speakers: ["adnan-am"]
 -
-  id: 107
-  title: "Awesome Animations using ConstraintLayout and MotionLayout"
-  description: "ConstraintLayout helps us to easily create complex UIs without nesting views and complex view-hierarchy management. But do you know that it also helps us to create beautiful animations and transitions with very little code? That’s what I will be sharing and discussing with you.<br>In this talk, I’ll be explaining the following:<ul><li>How keyframe animation works with ConstraintLayout and ConstraintSet<li>Few real-time use cases/animations - you can hack them in few minutes<li>How is it different from others?<li>Animating without duplicating the layouts<li>When and where to use keyframe animations<li>Do’s and Don’ts<li>Limitations of ConstraintSet animations</ul>"
+  id: 114
+  title: "Effective Multiplatform Kotlin Development"
   subtype: presentation
-  speakers: ["hari-vignesh-jayapalan"]
+  speakers: ["marcin-moskala"]
 -
-  id: 108
-  title: "Your Phone is learning! Introduction to running Tensorflow on Android"
-  description: "There is no escape from Machine Learning - advanced algorithms are everywhere, mining, analysing data and making decisions every day. Your phone is extremely smart AI system. In my talk i'd like to introduce you to machine learning without need to understand complex statistic equations and PHD in Math. Together we'll implement practical example of using Tensorflow Framework on Android for real world use case."
+  id: 115
+  title: "Deep Dive into Unit Testing"
   subtype: presentation
-  speakers: ["bartosz-kraszewski"]
+  speakers: ["jaroslaw-michalik"]
 -
-  id: 109
-  title: "Tools for Protecting Your Users' Data"
-  description: "2018 - the year the average user started to care about data protection. Mainstream media continues to run stories of Cambridge Analytica's impact on democratic elections, and with the recent introduction of GDPR, data protection continues to be a hot topic.<br>This talk will focus on security features available from Google Play Services and Google's SafetyNet APIs. We will see how they allow developers to verify the trustworthiness of the devices their apps run on, as well as examples of how to implement them to improve your app’s security.<br>Next, we will share first hand experience of hardening an Android app that handles medical & health information. We will see where patient data had the potential to be leaked to 3rd parties and the measures taken to resolve this.<br>In this current climate of heightened user awareness we need to show that we can protect the users of our products, after this session you will be better able to do just that."
+  id: 116
+  title: "Refactoring Risky Code"
   subtype: presentation
-  speakers: ["maurice-gavin"]
+  speakers: ["philipp-hofmann"]
 -
-  id: 110
-  title: "Android Performance"
-  description: "This talk is all about giving your apps a performance boost. A wide range of topics, from ProGuard to network & memory optimizations, will be covered. You will get a lot of tips with code examples and insights into tools to measure your success. Suitable for beginning developers with little experience, but senior devs will also be able to take away a thing or two."
+  id: 117
+  title: "Instant App Limbo – coming in under the size limit"
+  subtype: presentation
+  speakers: ["elliot-schrock"]
+-
+  id: 118
+  title: "Why should you build a Design System?"
+  subtype: presentation
+  speakers: ["fabio-carballo"]
+-
+  id: 119
+  title: "Cut your APK size with features on demand"
+  subtype: presentation
+  speakers: ["agrawal-suneet"]
+-
+  id: 120
+  title: "Work Work Work - WorkManager makes background work easy"
+  subtype: presentation
+  speakers: ["daniel-hartwich"]
+-
+  id: 121
+  title: "Navigation in Multi-Module Projects"
+  subtype: presentation
+  speakers: ["valery-ponomarenko"]
+-
+  id: 122
+  title: "Decoding Android Runtime"
+  subtype: presentation
+  speakers: ["jitin-sharma"]
+-
+  id: 123
+  title: "Easy, scalable backends for Android developers"
+  subtype: presentation
+  speakers: ["doug-stevenson"]
+-
+  id: 124
+  title: "A Real use case of practical mobile AR-AI couple - Size my luggage"
+  subtype: presentation
+  speakers: ["giovanni-laquidara"]
+-
+  id: 125
+  title: "Exploring JetPack Compose"
+  subtype: presentation
+  speakers: ["kaustav-jaiswal"]
+-
+  id: 126
+  title: "Grid Systems and Android - II"
+  subtype: presentation
+  speakers: ["soham-mondal"]
+-
+  id: 127
+  title: "Why I love Koin"
+  subtype: presentation
+  speakers: ["gema-socorro-rodriguez"]
+-
+  id: 128
+  title: "Mocking Kotlin With MockK"
+  subtype: presentation
+  speakers: ["hadi-tok"]
+-
+  id: 129
+  title: "What are the Widgets in Flutter and how do they work?"
+  subtype: presentation
+  speakers: ["edouard-marquez"]
+-
+  id: 130
+  title: "Open Source Android Development"
   subtype: presentation
   speakers: ["konrad-pozniak"]
 -
-  id: 111
-  title: "What the Hype?"
-  description: "During the development process, we tend to decide on a technology based on the current amount of hype on the internet, in the media, from friends and colleagues. This often leads to a catastrophic result. If you do not base your decision on analytical data, the chosen technology could potentially be unusable for your project or even deprecated. You're shooting yourself in the foot before development has even started. In this talk, we'll take a closer look into what hype-driven development is, examine some of the greatest hypes in Android development in the last couple of years, and provide guidelines for selecting technology based on facts instead of emotions."
-  subtype: presentation
-  speakers: ["zeljko-plesac"]
--
-  id: 112
-  title: "How 'Effective Java' influenced Kotlin"
-  description: "One of the most popular Java books is 'Effective Java' from Joshua Bloch, which describes how to avoid common mistakes, how to deal with Java's weaknesses, and how best practices for the language look like. When Jetbrains started to create a 'better Java' with Kotlin, a lot of ideas about how to make a better language came from the information of 'Effective Java' and lots of design decisions are based on the book. In this talk the audience will learn how the book influenced the language design and the compiler of Kotlin and in what way the book is deeply ingrained into the language."
-  subtype: presentation
-  speakers: ["lukas-lechner"]
--
-  id: 113
-  title: "Struggles with a large native app, LibreOffice's attempts at Android"
-  description: "LibreOffice is open source, and has a solid base of regular developers, but porting to another platform is not an easy task, especially with all kinds of restrictions – both technical and plain like maximum application size, as well as in terms of UI. Started as a strictly volunteer effort, we went through various toolchain changes, multiple overhauls of the UI but are now at a state where we have most features ready 'under the hood' (also thanks to LibreOfficeKit) and all that is left is adding some buttons and other controls for editing, right? The presentation will cover how we hook up LibreOffice's build system to android's ndk environment, the struggle with change and the current state of the port."
-  subtype: presentation
-  speakers: ["christian-lohmaier"]
--
-  id: 114
-  title: "Building a Google Keep clone with React Native"
-  description: "Join me on an adventure cloning the famous Google Keep app taking advantage of React Native and Firebase features. Following this talk, you will learn React Native Best Practices including Modern JavaScript, Material Design for the UI components, and tons of Firebase awesomeness."
-  subtype: presentation
-  speakers: ["juarez-filho"]
--
-  id: 115
-  title: "Dear Kotliners, Java developers are humans too"
-  description: "Ever since Google made the announcement, Pro-Kotlin developers have been having the times of their life. We see a lot of developers using their command of the language to showcase their works and skills. While we have to appreciate Kotlin for bringing a new life to the dull and verbose Android development, it has also created an imaginary wall between the two factions of developers - One who worships Kotlin and the ones who wants to. Believe me, when I say, most of us want to learn and adopt Kotlin. But a few things are standing between the later of the two factions and their end goal. It is not easy for many to find time to learn Kotlin and it is definitely not possible if your company wants to push features out and not spend time rewriting the code that is working in Java or experiment with something new when the old one works perfectly fine! But as a developer, when you see a lot of libraries coming up with solutions in Kotlin, it is not easy for those poor souls to catch up. It breaks their heart to know that they are not able to catch up with the rest of the world. Sometimes, when searching for a library to reduce their work, what do they see? All examples in Kotlin - Beautifully written with Lambdas and higher-order functions. Amazingly structured and optimized with coroutines. So what do the Java developers do? They move away. Did the developers intend them to not use their library? No. They just didn't want to think about Java when they have moved to the all-mightly Kotlin. But for the foreseeable future, Java developers and Kotlin developers need to exist side-by-side until there is a definite transition from Java to Kotlin. This talk is for those Kotlin developers who came from humble Java beginnings to remind them of the sufferings Java developers have to undergo and that they are humans too."
-  subtype: presentation
-  speakers: ["vivek-chanddru"]
--
-  id: 116
-  title: "Quash boring tasks with Android Gradle Plugin"
-  description: "<em>Developer's chores will be an infinite loop of WRITE, TEST and COMPILE code</em>. It's not the case for most Android developers, we do have repetitive boring tasks to be done in every project. But Gradle plugins can help us package these uninspiring tasks as reusable Gradle tasks, which can be used across projects. In this talk, I aim to break Gradle magic by revealing what goes on behind the scene. I will go over basics of Android Gradle plugin development by creating Gradle tasks and extensions for syncing TODO comments to the cloud. I will then talk about Android Gradle tool APIs for creating plugins that inject/generate resources and classes. After attending this talk, you will get familiar with building blocks of the Gradle plugin to get started with your plugin development and quash those uninspiring tasks."
-  subtype: presentation
-  speakers: ["lakshmikanth-dhanaraj"]
--
-  id: 117
-  title: "Gra-Fi-Te: Leveraging Gradle and Firebase for Android Testing"
-  description: "An area of Android testing that may not receive much attention is the setup i.e. running test effectively, leveraging gradle tasks/scripts for creating testing reports and artifacts (e.g. coverage reports) , testing setup for multi module apps, instant apps and multi platform Kotlin Native. The second part of this talk will focus on using Firebase TestLab and the various options available to perform cloud testing effectively and using open source tools such as Flank."
-  subtype: presentation
-  speakers: ["santosh-astagi"]
--
-  id: 118
-  title: "Want a Slice?"
-  description: "With the announcement of Android Slices, you can now provide rich, dynamic and interactive content to your users even outside your app! Slices allow you to build content to be displayed in the Google Search app and later in other places like the Google Assistant. Slices can help users perform tasks faster by enabling engagement outside of the fullscreen app experience. In this session, we’ll explore how Slices can help you provide a better experience for your users and see how it’s implemented."
-  subtype: presentation
-  speakers: ["kaan-mamikoglu"]
--
-  id: 119
-  title: "Leaving No One Behind: Building Apps for The Next Billion Users"
-  description: "The future of the Internet is in the hands of the next billion users — the latest generation of internet users to come online on smartphones in places like Brazil, China, India, Indonesia and Nigeria. As time goes on, the average internet user will be more like these “next billion users” than the first billion who started on PCs. That means we need to look not just at Silicon Valley or London but to places like Sao Paulo, Bangalore, Shanghai, Jakarta and Lagos to truly understand where the internet is going.<br>People in these countries are facing very different constraints to accessing the internet. In this talk, we’ll cover best practices, guidelines, and applied examples of how mobile developers can build their apps to be truly global and inclusive. Some things to consider: the next billion users have a mobile-only mindset, an instinct for ubiquitous computing, a demand for localized content; the Internet access in emerging markets is still slow and intermittent; 80% of people with disabilities live in emerging markets. Come and learn how to create great experiences that work well for billions of users around the world."
-  subtype: presentation
-  speakers: ["aygul-zagidullina"]
--
-  id: 120
-  title: "Clean architecture application - A guided tour"
-  description: "Not so long ago I've built my first full-fledged, clean-architecture application. In this talk, I'll share my experience by proving architecture walkthrough. I’ll describe the different components at play and the relationships between them as well as talk about some of the architecture decisions I’ve made along the way."
-  subtype: presentation
-  speakers: ["yossi-segev"]
--
-  id: 121
-  title: "Multi Module in practice"
-  description: "With Gradle multi-module support, it's much easier to scale your project. But it comes with a cost of increased building time. Contents: 1. How multi-module works? 2. Understanding dagger graph with multi-module? 3. How to structure your code in multi-module without hampering build time?"
-  subtype: presentation
-  speakers: ["yogesh-madaan"]
--
-  id: 122
-  title: "From monolith to modular - our experience at Shpock"
-  description: "Despite being a good practice in general, for many years multi-module projects haven’t been a topic in Android development. Android apps usually had a rather small code base, so splitting them up into units just didn’t seem to be necessary. In the recent time modularisation of app projects became a more prominent topic as many app projects reached a scale where monoliths bring up a variety of problems.<br/>This was also the case at Shpock, and recently we started to split up our code base into separate modules. In the presentation I’ll give insights about our motivation, our solutions to several problems we faced in the process, benefits we see, and our future plans regarding this topic."
-  subtype: presentation
-  speakers: ["daniel-niedermuehlbichler"]
--
-  id: 123
-  title: "Architecture and framework for clean test code"
-  description: "We started from an Android app (alongside our iOS app, too), and of course parts of it are considered legacy with poor testability. There was no consistent way of test automation. Starting with an approach of heavily using UI testing (which made us very slow at some points), soon we discovered we need something more. We then experimented deeply and tried to tweak our tests in various ways. Existing tools were not always very helpful - e.g. they don't have Cucumber/BDD integration in mind. So we made a framework which became a lightweight helper to fill all these gaps. This talk will explore the journey and the results."
-  subtype: presentation
-  speakers: ["marc-neureiter"]
--
-  id: 200
+  id: 300
   title: "Barcamp"
   description: "Your content, selected by you!"
-  subtype: barcamp
-  imageUrl: "other/barcamp.jpg"
--
-  id: 201
-  title: "Essential RxJava Operations"
-  description: "BarCamp session - Samat"
-  subtype: barcamp
-  imageUrl: "other/barcamp.jpg"
--
-  id: 202
-  title: "Nailing Penetration Testing"
-  description: "BarCamp session - Željko"
-  subtype: barcamp
-  imageUrl: "other/barcamp.jpg"
--
-  id: 203
-  title: "Fixing the Hiring Gap"
-  description: "BarCamp session - Adnan"
-  subtype: barcamp
-  imageUrl: "other/barcamp.jpg"
--
-  id: 204
-  title: "Multi-Module - Tips & Tricks"
-  description: "BarCamp session - Roberto"
   subtype: barcamp
   imageUrl: "other/barcamp.jpg"
 -

@@ -1,6 +1,6 @@
 -
-  date: "2018-09-21"
-  dateReadable: "Friday, 21 September"
+  date: "2019-09-19"
+  dateReadable: "Thursday, 19 September"
   tracks:
     - {title: "Room 1", color: "#90be4e"}
     - {title: "Room 2", color: "#03a9f4"}
@@ -9,62 +9,62 @@
     -
       startTime: "08:00"
       endTime: "09:00"
-      sessionIds: [301]
+      sessionIds: [901]
     -
         startTime: "09:00"
         endTime: "09:15"
-        sessionIds: [302]
+        sessionIds: [902]
     -
         startTime: "09:15"
         endTime: "10:15"
-        sessionIds: [101]
+        sessionIds: [100]
     -
         startTime: "10:15"
         endTime: "11:15"
-        sessionIds: [113, 122]
+        sessionIds: [999, 999]
     -
         startTime: "11:15"
         endTime: "11:30"
-        sessionIds: [307]
+        sessionIds: [907]
     -
         startTime: "11:30"
         endTime: "12:30"
-        sessionIds: [105, 104]
+        sessionIds: [999, 999]
     -
         startTime: "12:30"
         endTime: "14:00"
-        sessionIds: [303]
+        sessionIds: [903]
     -
         startTime: "14:00"
         endTime: "15:00"
-        sessionIds: [118, 108]
+        sessionIds: [999, 999]
     -
         startTime: "15:00"
         endTime: "16:00"
-        sessionIds: [109, 110, 111]
+        sessionIds: [999, 999, 999]
     -
         startTime: "16:00"
         endTime: "16:15"
-        sessionIds: [307]
+        sessionIds: [907]
     -
         startTime: "16:15"
         endTime: "17:15"
-        sessionIds: [120, 123]
+        sessionIds: [999, 999]
     -
         startTime: "17:15"
         endTime: "18:15"
-        sessionIds: [115, 119, 117]
+        sessionIds: [999, 999, 999]
     -
         startTime: "18:15"
         endTime: "18:30"
-        sessionIds: [308]
+        sessionIds: [908]
     -
         startTime: "19:00"
         endTime: "22:00"
-        sessionIds: [309]
+        sessionIds: [909]
 -
-  date: "2018-09-22"
-  dateReadable: "Saturday, 22 September"
+  date: "2019-09-20"
+  dateReadable: "Friday, 20 September"
   tracks:
     - {title: "Room 1", color: "#90be4e"}
     - {title: "Room 2", color: "#e91e63"}
@@ -72,44 +72,44 @@
     -
         startTime: "09:00"
         endTime: "09:15"
-        sessionIds: [301]
+        sessionIds: [901]
     -
         startTime: "09:15"
         endTime: "09:30"
-        sessionIds: [302]
+        sessionIds: [902]
     -
         startTime: "09:30"
         endTime: "10:30"
-        sessionIds: [107, 116]
+        sessionIds: [200]
     -
         startTime: "10:30"
         endTime: "11:30"
-        sessionIds: [112, 121]
+        sessionIds: [999, 999]
     -
         startTime: "11:30"
         endTime: "11:45"
-        sessionIds: [307]
+        sessionIds: [907]
     -
         startTime: "11:45"
         endTime: "12:45"
-        sessionIds: [114]
+        sessionIds: [999]
     -
         startTime: "12:45"
         endTime: "13:45"
-        sessionIds: [303]
+        sessionIds: [903]
     -
         startTime: "13:45"
         endTime: "14:15"
-        sessionIds: [201, 202]
+        sessionIds: [300, 300]
     -
         startTime: "14:15"
         endTime: "14:30"
-        sessionIds: [307]
+        sessionIds: [907]
     -
         startTime: "14:30"
         endTime: "15:00"
-        sessionIds: [203, 204]
+        sessionIds: [300, 300]
     -
         startTime: "15:00"
         endTime: "16:00"
-        sessionIds: [308]
+        sessionIds: [908]

@@ -131,9 +131,9 @@
   surname: "Agrawal"
   thumbnailUrl: "SuneetAgrawal.jpg"
 -
-  id: "giovanni-laquidari"
+  id: "giovanni-laquidara"
   name: "Giovanni"
-  surname: "Laquidari"
+  surname: "Laquidara"
   thumbnailUrl: "GiovanniLaquidara.jpg"
 -
   id: "enrico-bruno-del-zotto"
@@ -158,3 +158,19 @@
   name: "Kaustav"
   surname: "Jaiswal"
   thumbnailUrl: "KaustavJaiswal.jpg"
+-
+  id: "konrad-pozniak"
+  name: "Konrad"
+  surname: "Pozniak"
+  company: "REWE International"
+  title: "Open Source Developer"
+  bio: "Konrad is an Android software developer from Vienna with 4 years experience, building E-Commerce apps at REWE International AG and regularly contributing to open source apps.<br>He likes to dig deep into the details of his apps to make sure users get the best experience possible."
+  thumbnailUrl: "KonradPozniak.jpg"
+  social:
+    - { name: "github", link: "https://github.com/connyduck"}
+    - { name: "twitter", link: "https://twitter.com/ConnyDuck"}
+-
+  id: "soham-mondal"
+  name: "Soham"
+  surname: "Mondal"
+  thumbnailUrl: "SohamMondal.jpg"
