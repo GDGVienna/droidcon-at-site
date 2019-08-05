@@ -1,6 +1,7 @@
 'use strict';
 
 module.exports = function(grunt) {
+    const sass = require('node-sass');
     require('time-grunt')(grunt);
     require('jit-grunt')(grunt);
     grunt.task.loadTasks('droidcon-grunt');
@@ -163,6 +164,7 @@ module.exports = function(grunt) {
         },
         sass: {
             options: {
+                implementation: sass,
                 includePaths: [
                     'bower_components/animate-sass',
                     'bower_components/bootstrap-sass/assets/stylesheets',
