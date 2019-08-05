@@ -179,11 +179,6 @@
   subtype: presentation
   speakers: ["kaustav-jaiswal"]
 -
-  id: 126
-  title: "Grid Systems and Android - II"
-  subtype: presentation
-  speakers: ["soham-mondal"]
--
   id: 127
   title: "Why I love Koin"
   subtype: presentation

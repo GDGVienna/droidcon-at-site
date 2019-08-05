@@ -192,16 +192,19 @@
     - { name: "github", link: "https://github.com/connyduck"}
     - { name: "twitter", link: "https://twitter.com/ConnyDuck"}
 -
-  id: "soham-mondal"
-  name: "Soham"
-  surname: "Mondal"
-  bio: "Soham is the founder of Triveous and the creator of the android application Skyro Voice Recorder. He is Google Developer Expert for UX and a mentor at the Google Launchpad and Design Sprint programs. Over the past few years he has worked with companies like Khoslalabs, Novopay, Farmily, Fastfilmz, Hiree, Google, Enparadigm on a wide range of UX and Android projects and spoken at various events like DroidKaigi Japan, Droidcon India, Droidcon Vietnam, Google Developer Days India, Devfest Bangalore among others."
-  thumbnailUrl: "SohamMondal.jpg"
-  ribbon:
-    - { abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/community/experts/"}
--
   id: "edouard-marquez"
   name: "Edouard"
   surname: "Marquez"
   bio: "Edouard is an Android developer since 2012, working both for companies and as a freelancer. A year ago, he discovered Flutter and totally fell in love with the new framework from Google. He has then cofounded a dedicated meetup in Paris: the Flutter Paris. He is also an organizer in the Paris Android User Group team (the GDG behind the Android Makers conference)."
   thumbnailUrl: "EdouardMarquez.jpg"
+-
+  id: "raul-hernandez-lopez"
+  name: "Raul"
+  surname: "Hernandez Lopez"
+  company: "Twitter"
+  bio: "I am originally from Valencia (Spain), but so far I've lived in Belgium and for a while now in London (UK).<br>I consider myself a continuous learner, very enthusiastic about the Android platform & Kotlin language specifically. Love running, traveling, attending music live metal gigs or reading books.<br>I work as a Senior Software Engineer at Twitter, and I've participated in both Periscope and Twitter Android apps, being the Technical lead on Dynamic delivery for Twitter Android."
+  social:
+    - { name: "github", link: "https://github.com/raulh82vlc"}
+    - { name: "twitter", link: "https://twitter.com/raulhernandezl"}
+    - { name: "site", link: "https://raulh82vlc.github.io/"}
+  thumbnailUrl: "RaulHernandezLopez.jpg"
