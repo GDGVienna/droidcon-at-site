@@ -1,3 +1,7 @@
+-
+  group: "Gold Sponsor"
+  elements:
+    - {name: "jumio", description: "Jumio - When Identity Matters", link: "https://www.jumio.com/careers/", imageUrl: "jumio.png"}
 # -
 #  group: "Silver Sponsor"
 #  elements:

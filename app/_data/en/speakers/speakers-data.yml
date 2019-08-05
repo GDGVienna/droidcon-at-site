@@ -27,6 +27,8 @@
   surname: "Rout"
   bio: "Nick Rout is an Android Engineer, with over 4 years of experience, currently employed at Over - the easy app for creating. He is passionate about Material Design and Human-Computer Interaction. He is the organizer for GDG Cape Town, enjoys public speaking and frequently posts Android-related articles on Medium. He is featured on Android Experiments for his creative, open source apps that he works on in his spare time."
   thumbnailUrl: "NickRout.jpg"
+  ribbon:
+    - { abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/community/experts/"}
   social:
     - {name: "twitter", link: "https://twitter.com/ricknout"}
 -
@@ -57,27 +59,33 @@
   id: "hadi-tok"
   name: "Hadi"
   surname: "Tok"
-  bio: ""
+  bio: "Hadi is one of the organisers at GDG Istanbul and develops Android apps for 8 years. He works as the Lead Android Developer at CitizenMe. Hadi is a Kotlin advocate and tries to share his Kotlin and Android knowledge with people through blog posts and talks."
   thumbnailUrl: "HadiTok.jpg"
+  ribbon:
+    - { abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/community/experts/"}
 -
   id: "jean-baptiste-vincey"
   name: "Jean-Baptiste"
   surname: "Vincey"
+  bio: "After completing his master in Munich, and a year in Benin as volunteer, he started to work as an Android engineer in 2015 at Backelite Montpellier (France) to develop banking applications. He is now working at Deezer on the Android app for more than a year in Paris."
   thumbnailUrl: "Jean-BaptisteVincey.jpg"
 -
   id: "jitin-sharma"
   name: "Jitin"
   surname: "Sharma"
+  bio: "Jitin works as an Android Engineer at GO-JEK, India where he works on aligning design and development as part of UX engineering. He previously developed travel applications for various airlines and has 5 years of industry exprience. He writes about Android and Kotlin on Medium, is an open source contributor and has a certification in Android Developer Nanodegreee from Udacity. He has previously given talks at conferences and meetups in Bangalore."
   thumbnailUrl: "JitinSharma.jpg"
 -
   id: "marcin-moskala"
   name: "Marcin"
   surname: "Moskała"
+  bio: "Marcin Moskala is an experienced Android developer, teacher, and an official Jetbrains' Kotlin training partner. He is the founder of Kt. Academy, author of the book 'Android Development with Kotlin', and an active programming community member. He is also the main author on the biggest medium publication about Kotlin and a speaker invited to many programming conferences."
   thumbnailUrl: "MarcinMoskala.jpg"
 -
   id: "elliot-schrock"
   name: "Elliot"
   surname: "Schrock"
+  bio: "Elliot Schrock is an entrepreneur, recovering mathematician, Raspberry Pi enthusiast, and mobile app developer extraordinaire. He currently lives in NYC, where he runs a small mobile app development company, advises various entrepreneurship competitions and startups, and gazes out windows while holding a glass of scotch. He should really get out more often."
   thumbnailUrl: "ElliotSchrock.jpg"
 -
   id: "adnan-am"
@@ -94,18 +102,20 @@
   id: "alexandre-genet"
   name: "Alexandre"
   surname: "Genet"
+  bio: "Alexandre is Android developer for more than 5 years. He is passionate about Kotlin, MotionLayout and Framework created by Google. His current goal is to craft more intuitive and more usable applications. In addition, Alexandre enjoys to share his knowledge to the Android community. Currently working for Xebia in Paris."
   thumbnailUrl: "AlexandreGenet.jpg"
 -
   id: "valery-ponomarenko"
   name: "Valery"
   surname: "Ponomarenko"
+  bio: "When I was a child, instead of being an astronaut I wanted to be a developer. Now I am working as a Senior Android Developer, learning all the new Android-related things and telling other developers about my experience, I realize that my childhood dream come true. All of that makes me feel alive :)"
   thumbnailUrl: "ValeryPonomarenko.jpg"
 -
   id: "daniel-hartwich"
   name: "Daniel"
   surname: "Hartwich"
-  company: "XING"
-  bio: "Daniel Hartwich is an aspiring Android Developer at the German company XING AG located in Hamburg. He has been programming for the Android platform since 2013. Whenever Google releases anything new regarding Android, Daniel instantly gets interested and investigates everything - up to the smallest detail."
+  company: "MOIA"
+  bio: "Daniel is an Android Developer at MOIA. He is interested in automation, gaming and everything related to Android."
   thumbnailUrl: DanielHartwich.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/KiLLyA_"}
@@ -114,26 +124,34 @@
   id: "jaroslaw-michalik"
   name: "Jarosław"
   surname: "Michalik"
+  bio: "An Android developer focusing on providing mobile solutions for startups. He writes a technical blog about Android development and related fields. You can meet him at conferences, meetups, hackathons, as well as on volleyball courts."
   thumbnailUrl: "JaroslawMichalik.jpg"
 -
   id: "philipp-hofmann"
   name: "Philipp"
   surname: "Hofmann"
+  company: "mySugr"
+  bio: "Philipp is the Android Tech Lead at mySugr in Vienna. He drives improving the development process of the Android team. He started splitting up the app into multiple modules, improved the build speed, moved the CI from Jenkins to CircleCI, introduced several Github checks for unit tests, integration tests with Firebase Test Lab, code styles and code smells."
   thumbnailUrl: "PhilippHofmann.jpg"
 -
   id: "doug-stevenson"
   name: "Doug"
   surname: "Stevenson"
+  company: "Google"
+  bio: "Doug is a veteran engineer, experienced public speaker, and developer advocate at Google with the Firebase team. He developed web apps before the web had 'apps', and developed for Android since the very first Android device was on the market. In the SF bay area, he's bootstrapped the efforts of several startups. Outside of work, Doug follows professional ice hockey and enjoys craft beer."
   thumbnailUrl: "DougStevenson.jpg"
 -
   id: "suneet-agrawal"
   name: "Suneet"
   surname: "Agrawal"
+  bio: "Suneet is a non-caffeine-addicted developer, MSc in Video Game Development working as a mobile developer at ShareChat, Bangalore India. His past industry experience of around four and a half years majorly incorporates mobile development on both Android and iOS platforms, native as well as cross-platform (Xamarin) and video games development. He is passionate about animations, having a special interest in playing and developing video games."
   thumbnailUrl: "SuneetAgrawal.jpg"
 -
   id: "giovanni-laquidara"
   name: "Giovanni"
   surname: "Laquidara"
+  company: "TUI"
+  bio: "Android Developer at TUI. XR Engineer, Mobile developer and previously Software Engineer working in Air Traffic Control and Command & Control System development. Udacity Reviewer and Mentor in Android and VR Nanodegrees. Co-founder of Rome VR/AR community SPVR and member of GDG-Rome and CodeInvaders Communities having fun developing VR/AR Android and Web Application. Love startups XR and life changing technologies. Work Hard Dance Hard ;)"
   thumbnailUrl: "GiovanniLaquidara.jpg"
 -
   id: "enrico-bruno-del-zotto"
@@ -145,18 +163,22 @@
   title: "Senior Android Developer"
 -
   id: "fabio-carballo"
-  name: "Fabio"
+  name: "Fábio"
   surname: "Carballo"
+  company: "N26"
+  bio: "Fábio Carballo is one of the Android developers at the mobile bank N26, currently focusing in delivering a smooth and quality banking experience. After a nice experience in a smaller company, he understood that he wanted a challenge where he could learn on to scale a team as well as its development processes. He has a special love for those who care about improving the user experience with well grounded user research and smart interactions."
   thumbnailUrl: "FabioCarballo.jpg"
 -
-  id: "gemma-socorro-rodriguez"
-  name: "Gemma"
+  id: "gema-socorro-rodriguez"
+  name: "Gema"
   surname: "Socorro Rodriguez"
+  bio: "I have been developing apps for 10 years, especially for Android (but a few for iOS as well). When Kotlin started becoming an option for Android development I fell in love with the language and haven't stopped using it (L). So I have been developing, testing, teaching and breathing Kotlin since then. I love the Android community and after 10 years I felt like it is time to start giving back some (although little!) of the contributions anonymous people have done to my career and my Android knowledge and that is the reason I would love to give these talks."
   thumbnailUrl: "GemaSocorroRodriguez.jpg"
 -
   id: "kaustav-jaiswal"
   name: "Kaustav"
   surname: "Jaiswal"
+  bio: "Kaustav is a mobile development enthusiast and loves speaking about the latest in mobile technology. He is currently working as a Senior Android Developer at Amadeus Software Labs where he helps develop multiple airline and airport IT applications - some with over a million downloads. He has been working on Android for the last 5 years and recently fell in love with Flutter."
   thumbnailUrl: "KaustavJaiswal.jpg"
 -
   id: "konrad-pozniak"
@@ -164,7 +186,7 @@
   surname: "Pozniak"
   company: "REWE International"
   title: "Open Source Developer"
-  bio: "Konrad is an Android software developer from Vienna with 4 years experience, building E-Commerce apps at REWE International AG and regularly contributing to open source apps.<br>He likes to dig deep into the details of his apps to make sure users get the best experience possible."
+  bio: "Konrad has been developing Android apps since 2014. Currently he is an Android software developer building E-Commerce apps at REWE International AG (Vienna) and he regularly contributes to open source apps. He likes to dig deep into the details of his apps to make sure users get the best experience possible."
   thumbnailUrl: "KonradPozniak.jpg"
   social:
     - { name: "github", link: "https://github.com/connyduck"}
@@ -173,4 +195,13 @@
   id: "soham-mondal"
   name: "Soham"
   surname: "Mondal"
+  bio: "Soham is the founder of Triveous and the creator of the android application Skyro Voice Recorder. He is Google Developer Expert for UX and a mentor at the Google Launchpad and Design Sprint programs. Over the past few years he has worked with companies like Khoslalabs, Novopay, Farmily, Fastfilmz, Hiree, Google, Enparadigm on a wide range of UX and Android projects and spoken at various events like DroidKaigi Japan, Droidcon India, Droidcon Vietnam, Google Developer Days India, Devfest Bangalore among others."
   thumbnailUrl: "SohamMondal.jpg"
+  ribbon:
+    - { abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/community/experts/"}
+-
+  id: "edouard-marquez"
+  name: "Edouard"
+  surname: "Marquez"
+  bio: "Edouard is an Android developer since 2012, working both for companies and as a freelancer. A year ago, he discovered Flutter and totally fell in love with the new framework from Google. He has then cofounded a dedicated meetup in Paris: the Flutter Paris. He is also an organizer in the Paris Android User Group team (the GDG behind the Android Makers conference)."
+  thumbnailUrl: "EdouardMarquez.jpg"
