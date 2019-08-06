@@ -54,148 +54,175 @@
 -
   id: 101
   title: "Stun your Designer with MotionLayout"
-  description: ""
+  description: "MotionLayout is a new layout based on ConstraintLayout. With MotionLayout, animations and transitions finally are becoming easier to implement. No more disappointing your designer because it would take too long to build this awesome animation! In this talk, you will learn how to use MotionLayout starting with building a simple animation that will replace an existing CollapsingToolbarLayout. As we move on, you will learn about KeyFrames, KeyCycles and other awesome features of MotionLayout, helping you build those fancy animations your designer always wanted you to build. To help make your animations as awesome as possible, you will also learn how to make them follow the Material Design Guidelines using interpolation, animation choreography and fine-grained details about motion. You will leave this talk ready to use MotionLayout and create awesome animations - your designer will be stunned!"
   subtype: presentation
   speakers: ["jossi-wolf"]
 -
   id: 102
   title: "My first steps in Flutter"
-  description: ""
+  description: "A big task on my todo list for this year is getting to know what Flutter is. I would like to take you through steps I took to make my first application come true. As my background is Mobile (iOS and Android) and Web Development I want to take this to another level and want to test flutter on all 3 platforms. How hard is it for Android developer to make an iOS app and can we use the business knowledge to make an web app as well."
   subtype: presentation
   speakers: ["miha-cirman"]
 -
   id: 103
   title: "Idio<strike>ma</strike>tic Kotlin"
+  description: "'Idiomatic' is a word often used by Kotlin experts to describe elegant patterns or solutions that make excellent use of Kotlin's features. Let's turn this attitude around for a change, and have some fun by taking a look at the worst ways you can twist and abuse language features to take shortcuts, create tricky solutions, achieve exciting syntax, or confuse others who dare enter your codebase."
   subtype: presentation
   speakers: ["marton-braun"]
 -
   id: 104
   title: "Setting up a Material Components theme for Android"
+  description: "Migrating to Material Components for Android from the Design Support Library is a necessary part of the broader move to AndroidX. The core widgets that form part of an Android app now mostly fall under the com.google.android.material package and bring with them a variety of new theme/style attributes. In this presentation, Nick will be covering setting up a Material Components theme for Android with the help of a “playground” visual aid. This will include new global theme attributes to customize the three Material Theming subsystems - color, typography and shape - as well as per-widget styles."
   subtype: presentation
   speakers: ["nick-rout"]
 -
   id: 105
   title: "Level Up in Kotlin"
+  description: "Many Android developers are coding or have at least an active interest in Kotlin. This talk aims to help Android developers level up their Kotlin skills, focussing on intermediate/expert language features such as coroutines, DSLs, and conventions."
   subtype: presentation
   speakers: ["pamela-hill"]
 -
   id: 106
   title: "Building a Kotlin Native App on iOS and Android"
+  description: "Briefly provide and introduction to myself and Kotlin Native and jump into a small project to illustrate a fully working application on Android and iOS. Based on Medium article: https://medium.com/android-things/building-a-kotlin-native-on-ios-android-6a6db9df5bef 1) Overview what will we cover: Modules, Layers (view, presenter, json serialization, http), Android, iOS 2) Discuss each layer with code examples to build a complete working project."
   subtype: presentation
   speakers: ["jeremy-rempel"]
 -
   id: 107
   title: "Understanding ML Kit offerings in Android"
+  description: "ML Kit is the SDK that makes machine learning features more straightforward for the mobile developers to incorporate in their apps. Since ML Kit has been made a core ingredient of Firebase ,its robust ML APIs can be implemented seamlessly in both android & IOS apps like it’s any other feature such as analytics, crashlytics etc. The flexibility provided by ML Kit for mobile developers to use On-device or On-Cloud ML Apis as per the use case is quite significant . In this session we will take deep dive in the different ready to use APIs of ML Kit encapsulating the features of Mobile Vision, Google Cloud Vision API, TensorFlow Lite and Neural Network API and also will discuss how custom models can be hosted seamlessly."
   subtype: presentation
   speakers: ["gaurav-bhatnagar"]
 -
   id: 108
   title: "My love-hate relationship with Android Studio"
+  description: "Android Studio is the tool of the trade hands down. When it comes to Android (app/library/IOT) development, the first thing that comes to mind is to install Android Studio and get going from there. However, it has not been a smooth road as expected for me. In my own experience, I talk about my love-hate relationship with Android Studio. I try to cover what Android Studio gets right and what it doesn't. The talk focuses on how to be embrace performance when Android Studio is the bottleneck in the workflow (slow build times and reduced productivity), how switching to a terminal and various tools that exist in the ecosystem can give Android developers the much-needed speed boost and in-depth view in their development workflow. By the end of this talk, you would have embraces a workflow that allows for increased productivity and faster development."
   subtype: presentation
   speakers: ["nishant-srivastava"]
 -
   id: 109
   title: "Let your design evolve, adopt a Design System!"
+  description: "As Deezer team expanded over the last years, making changes and maintaining design in the mobile app became a major concern: - How to keep the different screens of the app(s) consistent and let the design evolve? - How to ensure consistency across platforms / applications? - How to fill knowledge gaps between designers and developers? #ATOMIC DESIGN To tackle these issues, we decided to build a strong Design System, based on Brad Frost methodology: Atomic Design. We established with designers a UIKit, a pattern library, implemented as an Android library and inspired from Atomic Design, defining every UI component of the app. During the presentation, we will dive in the UIKit to see how components are defined and organized, integrated in the app with global architecture, and the implications on the design and development process in our team."
   subtype: presentation
   speakers: ["jean-baptiste-vincey"]
 -
   id: 110
   title: "Make some move with MotionLayout"
+  description: "Always wanted to build better animations ? Let’s explore Motion Layout in order to know its capabilities. MotionLayout beta-1 was release during the Google I/O. It promises to simplify the way we create animation on Android. Based on XML we will be able to describe on animation that could connected to a swipe on the screen or a native component. In this talk, I will explore an Android app that list version of Android. For each version we will discover a new example, starting with basic modification of a constraint. Then adding KeyFrame with position, scale and rotation. Next playing with customs attributes to change the image color saturation. At the end we will explore connection with Coordinator Layout, View Pager, Drawer and SeekBar. At the end, you should know how to use and what are the capabilities of MotionLayout. Should you use it in your application?"
   subtype: presentation
   speakers: ["alexandre-genet"]
 -
   id: 111
   title: "Pushing features your users want, when they want them"
+  description: "Many successful Android apps offer multiple features and components that work together to provide a great user experience. Although we want all prospective users to have the ability to install our app, this may not be possible due to limitations in storage and network connection, especially in emerging markets. What if we can deliver new features selectively post-installation, reducing the initial app size, and allowing us to target a wider audience?"
   subtype: presentation
   speakers: ["raul-hernandez-lopez", "lucas-yan"]
 -
   id: 112
   title: "Nitrogen in your (test) pyramid"
+  description: "Unit, integration, UI tests are part of the famous test pyramid, different tools were used in order to full fill it, but still today there are lot of issues about how to execute it in a proper manner and how to sync all environments (local, ci, etc) in order to satisfy all the testing criteria, and having a good reports. From IO 2018 with the announcement of project Nitrogen, Google'd like to 'nitrogenize' our tests creating a single entry point and solve all issues we had in the past. With October release of Robolectric 4.0 and androidx.test 1.0.0, both testing environments are converging on a set of common test APIs. Robolectric now supports the AndroidJUnit4 test runner, ActivityTestRule, and Espresso for interacting with UI components. Let's see togheter how to organise different levels of our 'test pyramid', with a focus to the last news/releases in order ot be ready for the Nitrogen release."
   subtype: presentation
   speakers: ["enrico-bruno-del-zotto"]
 -
   id: 113
   title: "From OOP to FP"
+  description: "Functional Programming(FP) has become the all the rage at the moment. Maybe you have been wanting to have a look at it but haven't or you already have given it a go but got scared away with all the FP jargon (We are looking at you Monads). In this talk, we will look at how to get started with FP using Kotlin with the existing knowledge you have and look at how we can start moving towards FP by making a few changes(trust me, no talking about the jargon or 3rd party libraries) in your day to day activities. I will also talk about my journey about going from OOP to FP. We will look at some of the mistakes I did and some of the approaches I took while learning FP. We will also create a simple structured approach to start learning/implementing FP in your existing code so that you can learn by doing. At the end of the talk we will look at why a library like Arrow-KT can be useful once you have mastered the basics of FP and also how to approach Arrow-KT for your FP needs."
   subtype: presentation
   speakers: ["adnan-am"]
 -
   id: 114
   title: "Effective Multiplatform Kotlin Development"
+  description: "Kotlin enables you to write Android, iOS and web applications 100% natively. When you add good architecture, you can achieve enormous code reusage. In this lecture, I will show how you can do it yourself. I will present possibilities of this approach, how to apply clean architecture there and how to unit test it all."
   subtype: presentation
   speakers: ["marcin-moskala"]
 -
   id: 115
   title: "Deep Dive into Unit Testing"
+  description: "Testing our code is essential for development process. Yet, creating clean and readable tests is not a piece of cake. During the talk we'll dive into unit testing concepts and see how Kotlin helps us write efficient test code. We will study examples of testing patterns tailored to common application components. We'll discuss Kotlin testing tools that can bring joy and happiness to everyday work."
   subtype: presentation
   speakers: ["jaroslaw-michalik"]
 -
   id: 116
   title: "Refactoring Risky Code"
+  description: "How do you refactor bluetooth code on Android with zero test coverage? When touching such code you have to test it with real phones and bluetooth devices to ensure you are not breaking anything. Thus changes come with a high risk of introducing new bugs. At mySugr we spent quite some time refactoring our bluetooth code, so that we can write plain Kotlin unit tests for it and easily add new functionality. You are going to see how we achieved the refactoring with almost zero bugs and a minimal manual testing effort. This talk doesn’t deal with the details of bluetooth on Android. Instead, we will discuss the strategies and methods we used and how it can be applied to any refactoring of dangerous code. Finally, I’m going to show you that you can even write tests for bluetooth code - there is no excuse not to write tests."
   subtype: presentation
   speakers: ["philipp-hofmann"]
 -
   id: 117
   title: "Instant App Limbo – coming in under the size limit"
+  description: "A while back, Google introduced Instant Apps: small, demo versions of your app that users can quickly download and try out. As you can imagine, this has the possibility to change how users download apps, and adopters can see large increases in Play Store conversions. However, it comes at a cost: for games, there's a size limit of 10 MB, and for regular apps, the limit is 4MB. That’s tiny; you can easily cross that line with dependencies alone. In this talk, we’ll discuss the technical tools available to you to shrink your apps, and talk about some of our hard learned lessons on how to come in under the line."
   subtype: presentation
   speakers: ["elliot-schrock"]
 -
   id: 118
   title: "Why should you build a Design System?"
+  description: "As your application, product and team rapidly develops and scales, you will undoubtedly have inconsistent UI components. It’s easy for developers and designers to create new elements that differ in really small specifications. This not only creates a bad branding experience, but also the feeling that there are several apps and styles inside the same app. In this talk, we will show you some design system fundamentals, how to properly map them to the Android framework and how you can build re-usable components on top of it. We will also tackle what are the biggest problems migrating to a design system from nothing, and how you should approach it. By the end of the talk, we just hope that you go and meet your designer and start developing your design system."
   subtype: presentation
   speakers: ["fabio-carballo"]
 -
   id: 119
   title: "Cut your APK size with features on demand"
+  description: "Do APK or app size matters? Yes, it does. The user thinks about the app size before downloading an app. The user thinks about the data also over which he will be downloading that app. He or she even think about how much space will it take on his or her device. How can we reduce the size of the app? What if we provide very basic functionality and let the user decide whether he wants the advanced or additional functionality or not. What if he or she can download only the features he needs on demand and keep the app compact. What if he can download only his native language in which wants the app and can skip rest all the languages. Google new feature of dynamic delivery enables us to deliver the features on demand. This helps us to reduce the size of APK and even enables the user to choose what features he needs. From a developers perspective, this is very easy to implement and maintain. What is actually a dynamic delivery? How can we reduce the APK size with it? How it can help a user? How to implement it in Android? How difficult is it to implement in the existing code base? How will it look to the user in the app? Well, let’s get all these questions answered in the talk along with a demo."
   subtype: presentation
   speakers: ["suneet-agrawal"]
 -
   id: 120
   title: "Work Work Work - WorkManager makes background work easy"
+  description: "Google recently released their new solution for background work. The WorkManager. This talk will give an overview on what the WorkManager is, how it works and how you as an Android Developer can benefit from it."
   subtype: presentation
   speakers: ["daniel-hartwich"]
 -
   id: 121
   title: "Navigation in Multi-Module Projects"
+  description: "The talk will be about implementing navigation in a multi-modular project. Firstly, will tell what difficulties we had when we were modularizing our Android app, what we did wrong. Then, I will tell the audience how to avoid these difficulties and how to develop a good navigation system for the multi-modular project."
   subtype: presentation
   speakers: ["valery-ponomarenko"]
 -
   id: 122
   title: "Decoding Android Runtime"
+  description: "While most developers are elated when Android Studio compiles their code without any “hiccups”, there is a lot going on when that compiled code runs on Android OS. Android mostly takes care of runtime, but it’s always nice to know what’s happening backstage. How code executes at runtime is a completely different story in case of Android. The .dex format has been here for years and everyone is accustomed to it. But there are a lot of complexities going on once the .dex reaches your device. This talk will focussed on analyzing on what happens after your code in Kotlin/Java is compiled, packaged and run on an actual device. We will take a deep dive into .dex format as well as see how runtime has evolved since Android 1.0 and taken a great leap with Android 5.0 and above. In the process, we will also learn how to write runtime efficient code."
   subtype: presentation
   speakers: ["jitin-sharma"]
 -
   id: 123
   title: "Easy, scalable backends for Android developers"
+  description: "In the past, engineering teams typically split “frontend” and “backend” responsibilities. As an Android developer, you almost certainly slotted into the “frontend” category, with no responsibility on the backend. And if you do want to work on the backend for an app, it can be taxing to learn new tools and languages, while being responsible for managing and scaling a server farm. Today, with “serverless” backends becoming popular, server management and scaling is being fully automated, and you can use many of the same tools and languages you use for Android development. Do you want to write Kotlin everywhere? There’s a solution for you! Join this talk to survey some serverless options provided by Google, see some demos, and figure out which options are right for you."
   subtype: presentation
   speakers: ["doug-stevenson"]
 -
   id: 124
   title: "A Real use case of practical mobile AR-AI couple - Size my luggage"
+  description: "We are reading about AR as the future platform even though we are currently experiencing only gaming/entertainment use cases about it. Let's look an effective non-gaming sample: Many travel and transport companies are using AR to help you to understand if your luggage fit their limits. We will analyze their apps and learn how to develop an Android native app doing the same using ARCore, Sceneform and a bit of AI with Firebase ML Kit. At the end you will be able to apply this new skills to new exciting use cases."
   subtype: presentation
   speakers: ["giovanni-laquidara"]
 -
   id: 125
   title: "Exploring JetPack Compose"
+  description: "Jetpack Compose is an unbundled toolkit designed to simplify UI development. It combines a reactive programming model with the conciseness and ease of use of the Kotlin programming language. Join me as we dive into setting up and building apps with JetPack compose, which will soon become the most intuitive way for writing UI code on Android."
   subtype: presentation
   speakers: ["kaustav-jaiswal"]
 -
   id: 127
   title: "Why I love Koin"
+  description: "Dependency injection is a technique widely used in Android apps nowadays. It is not discussed that it allows developers to decouple components and make them more testable and modularised (and easy to maintain). Koin is a framework that makes it really easy and quick to set up, it is readable and really lightweight when it comes to compiling times. In this talk, my intention (fingers crossed!) is that the audience would run to their laptops and start using Koin straight away after it had finished (or something like that ;)). I would describe my journey using this library, and why I think that despite being so easy to use, it is so powerful."
   subtype: presentation
   speakers: ["gema-socorro-rodriguez"]
 -
   id: 128
   title: "Mocking Kotlin With MockK"
+  description: "MockK is a mocking library for Kotlin enables mocking Kotlin specific features with its Domain Specific Language in a idiomatic way. I will talk about unit testing in general and give a brief introduction to MockK."
   subtype: presentation
   speakers: ["hadi-tok"]
 -
   id: 129
   title: "What are the Widgets in Flutter and how do they work?"
+  description: "In Flutter, you may have heard that 'everything is a widget'. In this talk, you will first discover the different kinds of Widgets that you can use in your application. In the second part, we will dissect how the frameworks works with the Widget tree, the Render tree... and how it affects the performances."
   subtype: presentation
   speakers: ["edouard-marquez"]
 -
   id: 130
   title: "Open Source Android Development"
+  desciption: "In this talk I will explain why I prefer to develop apps open-source instead behind closed doors. I will give an overview over the current Android open-source ecosystem, explain how the F-Droid app store works and why it is awesome and sucks at the same time. Of course I will also share some fun stories about my own experience developing an open-source app. Hopefully I can inspire some people to develop their next app open source or to start contributing to open source apps."
   subtype: presentation
   speakers: ["konrad-pozniak"]
 -
