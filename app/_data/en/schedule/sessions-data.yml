@@ -41,16 +41,16 @@
   imageUrl: "other/party.png"
 -
   id: 100
-  title: "Keynote Day 1"
-  description: "TBD"
+  title: "A Real use case of practical mobile AR-AI couple - Size my luggage"
+  description: "We are reading about AR as the future platform even though we are currently experiencing only gaming/entertainment use cases about it. Let's look an effective non-gaming sample: Many travel and transport companies are using AR to help you to understand if your luggage fit their limits. We will analyze their apps and learn how to develop an Android native app doing the same using ARCore, Sceneform and a bit of AI with Firebase ML Kit. At the end you will be able to apply this new skills to new exciting use cases."
   subtype: keynote
-  speakers: []
+  speakers: ["giovanni-laquidara"]
 -
   id: 200
-  title: "Keynote Day 1"
-  description: "TBD"
-  subtype: keynote
-  speakers: []
+  title: "Effective Kotlin - Best practices for Kotlin programming"
+  description: "How to make your Kotlin code better? Let's see the best practices that were already well established by the biggest programming authorities, and see how do they relate to Kotlin. This presentation shows a concrete set of guidelines for better Kotlin development."
+  subtype: presentation
+  speakers: ["marcin-moskala"]
 -
   id: 101
   title: "Stun your Designer with MotionLayout"
@@ -130,12 +130,6 @@
   subtype: presentation
   speakers: ["adnan-am"]
 -
-  id: 114
-  title: "Effective Multiplatform Kotlin Development"
-  description: "Kotlin enables you to write Android, iOS and web applications 100% natively. When you add good architecture, you can achieve enormous code reusage. In this lecture, I will show how you can do it yourself. I will present possibilities of this approach, how to apply clean architecture there and how to unit test it all."
-  subtype: presentation
-  speakers: ["marcin-moskala"]
--
   id: 115
   title: "Deep Dive into Unit Testing"
   description: "Testing our code is essential for development process. Yet, creating clean and readable tests is not a piece of cake. During the talk we'll dive into unit testing concepts and see how Kotlin helps us write efficient test code. We will study examples of testing patterns tailored to common application components. We'll discuss Kotlin testing tools that can bring joy and happiness to everyday work."
@@ -189,12 +183,6 @@
   description: "In the past, engineering teams typically split “frontend” and “backend” responsibilities. As an Android developer, you almost certainly slotted into the “frontend” category, with no responsibility on the backend. And if you do want to work on the backend for an app, it can be taxing to learn new tools and languages, while being responsible for managing and scaling a server farm. Today, with “serverless” backends becoming popular, server management and scaling is being fully automated, and you can use many of the same tools and languages you use for Android development. Do you want to write Kotlin everywhere? There’s a solution for you! Join this talk to survey some serverless options provided by Google, see some demos, and figure out which options are right for you."
   subtype: presentation
   speakers: ["doug-stevenson"]
--
-  id: 124
-  title: "A Real use case of practical mobile AR-AI couple - Size my luggage"
-  description: "We are reading about AR as the future platform even though we are currently experiencing only gaming/entertainment use cases about it. Let's look an effective non-gaming sample: Many travel and transport companies are using AR to help you to understand if your luggage fit their limits. We will analyze their apps and learn how to develop an Android native app doing the same using ARCore, Sceneform and a bit of AI with Firebase ML Kit. At the end you will be able to apply this new skills to new exciting use cases."
-  subtype: presentation
-  speakers: ["giovanni-laquidara"]
 -
   id: 125
   title: "Exploring JetPack Compose"
