@@ -71,8 +71,8 @@
   speakers: ["marton-braun"]
 -
   id: 104
-  title: "Setting up a Material Components theme for Android"
-  description: "Migrating to Material Components for Android from the Design Support Library is a necessary part of the broader move to AndroidX. The core widgets that form part of an Android app now mostly fall under the com.google.android.material package and bring with them a variety of new theme/style attributes. In this presentation, Nick will be covering setting up a Material Components theme for Android with the help of a “playground” visual aid. This will include new global theme attributes to customize the three Material Theming subsystems - color, typography and shape - as well as per-widget styles."
+  title: "Incorporating Material Theming into Custom Views"
+  description: "Material Theming is a means of systematically customizing Material Design to better reflect your product’s brand. It allows for easy customization of core widgets in terms of three subsystems - color, typography and shape - when using the Material Theme Editor and Material Design Components for Android. However, how would these subsystems be incorporated into custom components? Custom Views can (and should) feel at home amongst the core components of Material Design. In this presentation, Nick will be covering approaches to making Views responsive to Material Theming. With the aid of a practical example, this will include an intro to the capabilities of the Material Theme Editor and MDC Android, basic theme/style attribute support and a deep dive into key MDC Android classes such as MaterialShapeDrawable, RippleUtils and more."
   subtype: presentation
   speakers: ["nick-rout"]
 -

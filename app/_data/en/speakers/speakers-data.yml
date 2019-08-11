@@ -10,6 +10,8 @@
   surname: "Cirman"
   bio: "Founder of CODEBЯAINEЯ @thecodebrainer With more than 80 web and mobile app projects behind me, it is time to share that knowledge."
   thumbnailUrl: "MihaCirman.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/MihaCirman"}
 -
   id: "marton-braun"
   name: "Márton"
@@ -37,12 +39,16 @@
   surname: "Hill"
   bio: "Pamela is a second-generation coder and hold BSc IT and BSc (Hons) Computer Science degrees from the University of Pretoria. She has more than 15 years of experience writing desktop, web and mobile apps. Currently she is an Android Engineer at the cryptocurrency startup Luno. She loves coding in Kotlin, especially for Android!"
   thumbnailUrl: "PamelaHill.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/pamelaahill"}
 -
   id: "jeremy-rempel"
   name: "Jeremy"
   surname: "Rempel"
   bio: "Jeremy is currently a staff software engineer for Etsy in NYC. He has been developing large systems in a consulting role for a wide variety of Global 500 organizations and Android applications for the last 4 years. He is passionate about technology and learning and mentoring others."
   thumbnailUrl: "JeremyRempel.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/jeremyrempel"}
 -
   id: "gaurav-bhatnagar"
   name: "Gaurav"
