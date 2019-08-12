@@ -35,6 +35,12 @@
 -
   id: 909
   title: "Afterparty"
+  service: true
+  description: "Time to network and relax - join us at the afterparty!"
+  imageUrl: "other/party.png"
+-
+  id: 909xxx
+  title: "Afterparty"
   place: "Café Alias"
   service: true
   description: "Time to network and relax - join us at the afterparty in Café Alias - Millenniumcity!<br><br>Address: Hellwagstraße 34, 1200 Vienna"

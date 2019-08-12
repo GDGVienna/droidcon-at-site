@@ -21,7 +21,7 @@
     -
         startTime: "10:15"
         endTime: "11:15"
-        sessionIds: [999, 999]
+        sessionIds: [999, 999, 108]
     -
         startTime: "11:15"
         endTime: "11:30"
@@ -29,7 +29,7 @@
     -
         startTime: "11:30"
         endTime: "12:30"
-        sessionIds: [999, 999]
+        sessionIds: [102, 105,118]
     -
         startTime: "12:30"
         endTime: "14:00"
@@ -37,7 +37,7 @@
     -
         startTime: "14:00"
         endTime: "15:00"
-        sessionIds: [999, 999]
+        sessionIds: [999, 999, 999]
     -
         startTime: "15:00"
         endTime: "16:00"
@@ -49,7 +49,7 @@
     -
         startTime: "16:15"
         endTime: "17:15"
-        sessionIds: [999, 999]
+        sessionIds: [999, 999, 119]
     -
         startTime: "17:15"
         endTime: "18:15"
@@ -84,7 +84,7 @@
     -
         startTime: "10:30"
         endTime: "11:30"
-        sessionIds: [999, 999]
+        sessionIds: [999, 999, 111]
     -
         startTime: "11:30"
         endTime: "11:45"
@@ -92,7 +92,7 @@
     -
         startTime: "11:45"
         endTime: "12:45"
-        sessionIds: [999]
+        sessionIds: [127, 999, 109]
     -
         startTime: "12:45"
         endTime: "13:45"
@@ -100,7 +100,7 @@
     -
         startTime: "13:45"
         endTime: "14:15"
-        sessionIds: [300, 300]
+        sessionIds: [103, 999, 999]
     -
         startTime: "14:15"
         endTime: "14:30"
@@ -108,8 +108,28 @@
     -
         startTime: "14:30"
         endTime: "15:00"
-        sessionIds: [300, 300]
+        sessionIds: [300, 300, 300]
     -
         startTime: "15:00"
+        endTime: "15:30"
+        sessionIds: [300, 300, 300]
+    -
+        startTime: "15:30"
         endTime: "16:00"
+        sessionIds: [300, 300, 300]
+    -
+        startTime: "16:00"
+        endTime: "16:15"
+        sessionIds: [907]
+    -
+        startTime: "16:15"
+        endTime: "16:45"
+        sessionIds: [300, 300, 300]
+    -
+        startTime: "16:45"
+        endTime: "17:15"
+        sessionIds: [300, 300, 300]
+    -
+        startTime: "17:15"
+        endTime: "17:30"
         sessionIds: [908]

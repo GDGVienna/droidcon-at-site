@@ -1,12 +1,12 @@
 links:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/call-for-papers/", text: "Call"}
-# - {permalink: "/diversity/", text: "Diversity"}
+ - {permalink: "/diversity/", text: "Diversity"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/photos/", text: "Photos"}
-# - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/blog/", text: "Blog"}
 bottomLinks:
  - {link: "https://droidcon-vienna-2019.eventbrite.com", text: "Tickets"}
