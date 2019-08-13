@@ -24,16 +24,6 @@
     - {name: "twitter", link: "https://twitter.com/zsmb13"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/zsmb13/"}
 -
-  id: "nick-rout"
-  name: "Nick"
-  surname: "Rout"
-  bio: "Nick Rout is an Android Engineer, with over 4 years of experience, currently employed at Over - the easy app for creating. He is passionate about Material Design and Human-Computer Interaction. He is the organizer for GDG Cape Town, enjoys public speaking and frequently posts Android-related articles on Medium. He is featured on Android Experiments for his creative, open source apps that he works on in his spare time."
-  thumbnailUrl: "NickRout.jpg"
-  ribbon:
-    - { abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/community/experts/"}
-  social:
-    - {name: "twitter", link: "https://twitter.com/ricknout"}
--
   id: "pamela-hill"
   name: "Pamela"
   surname: "Hill"
