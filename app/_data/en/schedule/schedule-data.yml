@@ -21,7 +21,7 @@
     -
         startTime: "10:15"
         endTime: "11:15"
-        sessionIds: [999, 999, 108]
+        sessionIds: [101, 113, 108]
     -
         startTime: "11:15"
         endTime: "11:30"
@@ -37,11 +37,11 @@
     -
         startTime: "14:00"
         endTime: "15:00"
-        sessionIds: [999, 999, 117]
+        sessionIds: [104, 106, 117]
     -
         startTime: "15:00"
         endTime: "16:00"
-        sessionIds: [999, 999, 123]
+        sessionIds: [107, 116, 123]
     -
         startTime: "16:00"
         endTime: "16:15"
@@ -49,11 +49,11 @@
     -
         startTime: "16:15"
         endTime: "17:15"
-        sessionIds: [999, 999, 119]
+        sessionIds: [115, 121, 119]
     -
         startTime: "17:15"
         endTime: "18:15"
-        sessionIds: [120, 999, 125]
+        sessionIds: [120, 122, 125]
     -
         startTime: "18:15"
         endTime: "18:30"
@@ -67,7 +67,8 @@
   dateReadable: "Friday, 20 September"
   tracks:
     - {title: "Room 1", color: "#90be4e"}
-    - {title: "Room 2", color: "#e91e63"}
+    - {title: "Room 2", color: "#03a9f4"}
+    - {title: "Room 3", color: "#e91e63"}
   timeslots:
     -
         startTime: "09:00"
@@ -84,7 +85,7 @@
     -
         startTime: "10:30"
         endTime: "11:30"
-        sessionIds: [999, 129, 111]
+        sessionIds: [112, 129, 111]
     -
         startTime: "11:30"
         endTime: "11:45"
