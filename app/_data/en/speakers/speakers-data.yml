@@ -55,12 +55,16 @@
   surname: "Bhatnagar"
   bio: "Gaurav is a seasoned mobile developer currently working in Maersk (shipping conglomerate). He has worked in healthcare apps for more than five years targeting different spectrum of users right from Radiologists to Ward-boys specifically for US &amp; Canada. As an android enthusiast, he is fond of connecting with community and spends time as a weekend trainer with <a href='https://www.edureka.co' target='_blank'>Edureka</a> for new entrants in mobile eco-space. He is a regular attendee and participant of GDG BlrDroid at Bangalore."
   thumbnailUrl: "GauravBhatnagar.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/bhatnagar_g"}
 -
   id: "nishant-srivastava"
   name: "Nishant"
   surname: "Srivastava"
   bio: "Nishant is a Sr.Android Engineer at Soundbrenner in Berlin, Germany and an open source enthusiast who spends his time doodling when not hacking on Android. He is a caffeine-dependent life-form and can be found either talking about android libraries or advocating that coffee is the elixir of life at community gatherings. He has been part of 2 startups in the past (Founding Team Member at OmniLabs, Inc. and one of the first employees at Silverpush) with experience in Android SDK Engineering and Audio Digital Signal Processing(DSP) on Android. While working at his past company (Silverpush), he developed the company’s patented UAB (Unique Audio Beacon) Technology."
   thumbnailUrl: "NishantSrivastava.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/nisrulz"}
 -
   id: "hadi-tok"
   name: "Hadi"
@@ -114,8 +118,11 @@
   id: "valery-ponomarenko"
   name: "Valery"
   surname: "Ponomarenko"
-  bio: "When I was a child, instead of being an astronaut I wanted to be a developer. Now I am working as a Senior Android Developer, learning all the new Android-related things and telling other developers about my experience, I realize that my childhood dream come true. All of that makes me feel alive :)"
+  bio: "When I was a child, instead of being an astronaut, I wanted to be a developer. So I became who I wanted to be. I have an MS degree in CS. I worked in an outsource company where I was able to try different ways to implement the architecture. I took part in breaking a big application into modules and the most exciting is that the app was released and we refactor it carefully and by small steps. I was involved in developing an app with more than 50 millions downloads. All these projects gave me an unforgettable experience that I am ready to share with you."
   thumbnailUrl: "ValeryPonomarenko.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/iamvaleroncho"}
+    - {name: "github", link: "https://github.com/ValeryPonomarenko"}
 -
   id: "daniel-hartwich"
   name: "Daniel"
