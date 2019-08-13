@@ -46,6 +46,14 @@
   description: "Time to network and relax - join us at the afterparty in Café Alias - Millenniumcity!<br><br>Address: Hellwagstraße 34, 1200 Vienna"
   imageUrl: "other/party.png"
 -
+  id: 910
+  title: "Barcamp Kick-Off"
+  place: "Hall"
+  service: true
+  subtype: barcamp
+  imageUrl: "other/barcamp.jpg"
+  description: "Kicking off the Barcamp!"
+-
   id: 100
   title: "A Real use case of practical mobile AR-AI couple - Size my luggage"
   description: "We are reading about AR as the future platform even though we are currently experiencing only gaming/entertainment use cases about it. Let's look an effective non-gaming sample: Many travel and transport companies are using AR to help you to understand if your luggage fit their limits. We will analyze their apps and learn how to develop an Android native app doing the same using ARCore, Sceneform and a bit of AI with Firebase ML Kit. At the end you will be able to apply this new skills to new exciting use cases."
@@ -96,7 +104,7 @@
 -
   id: 107
   title: "Understanding ML Kit offerings in Android"
-  description: "ML Kit is the SDK that makes machine learning features more straightforward for the mobile developers to incorporate in their apps. Since ML Kit has been made a core ingredient of Firebase ,its robust ML APIs can be implemented seamlessly in both android & IOS apps like it’s any other feature such as analytics, crashlytics etc. The flexibility provided by ML Kit for mobile developers to use On-device or On-Cloud ML Apis as per the use case is quite significant . In this session we will take deep dive in the different ready to use APIs of ML Kit encapsulating the features of Mobile Vision, Google Cloud Vision API, TensorFlow Lite and Neural Network API and also will discuss how custom models can be hosted seamlessly."
+  description: "ML Kit is the SDK that makes machine learning features more straightforward for the mobile developers to incorporate in their apps. Since ML Kit has been made a core ingredient of Firebase, its robust ML APIs can be implemented seamlessly in both android &amp; IOS apps like it’s any other feature such as analytics, crashlytics etc. The flexibility provided by ML Kit for mobile developers to use On-device or On-Cloud ML Apis as per the use case is quite significant. In this session we will take deep dive in the different ready to use APIs of ML Kit encapsulating the features of Mobile Vision, Google Cloud Vision API, TensorFlow Lite and Neural Network API and also will discuss how custom models can be hosted seamlessly."
   subtype: presentation
   speakers: ["gaurav-bhatnagar"]
 -
@@ -174,7 +182,7 @@
 -
   id: 121
   title: "Navigation in Multi-Module Projects"
-  description: "The talk will be about implementing navigation in a multi-modular project. Firstly, will tell what difficulties we had when we were modularizing our Android app, what we did wrong. Then, I will tell the audience how to avoid these difficulties and how to develop a good navigation system for the multi-modular project."
+  description: "Navigation is quite an important part in developing Android applications. Once the application is becoming bigger it might be challenging to refactor the navigation system, adjust it to support multi-modular environment, dynamic features.<br>In this presentation, I am going to tell about a navigation system that works fine with both monolith and multi-modular environments. More importantly, that is easy to refactor, test and support new features."
   subtype: presentation
   speakers: ["valery-ponomarenko"]
 -
