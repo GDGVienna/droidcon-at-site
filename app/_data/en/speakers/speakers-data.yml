@@ -204,6 +204,15 @@
   social:
     - {name: "twitter", link: "https://twitter.com/fabiocarballo"}
 -
+  id: "omkar-pimple"
+  name: "Omkar"
+  surname: "Pimple"
+  company: "N26"
+  bio: "Omkar is a software engineer currently working at N26 GmbH, where he focuses on mentoring, building mobile architecture, design systems and engineering processes that perform at scale. He also works on several active Android side projects that have reached over 5 million users across 180+ countries."
+  thumbnailUrl: "OmkarPimple.jpg"
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/omkarpimple"}
+-
   id: "gema-socorro-rodriguez"
   name: "Gema"
   surname: "Socorro Rodriguez"

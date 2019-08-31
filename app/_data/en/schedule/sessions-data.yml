@@ -166,7 +166,7 @@
   title: "Why should you build a Design System?"
   description: "As your application, product and team rapidly develops and scales, you will undoubtedly have inconsistent UI components. It’s easy for developers and designers to create new elements that differ in really small specifications. This not only creates a bad branding experience, but also the feeling that there are several apps and styles inside the same app. In this talk, we will show you some design system fundamentals, how to properly map them to the Android framework and how you can build re-usable components on top of it. We will also tackle what are the biggest problems migrating to a design system from nothing, and how you should approach it. By the end of the talk, we just hope that you go and meet your designer and start developing your design system."
   subtype: presentation
-  speakers: ["fabio-carballo"]
+  speakers: ["fabio-carballo", "omkar-pimple"]
 -
   id: 119
   title: "Cut your APK size with features on demand"
