@@ -1,9 +1,8 @@
 languagesTitle: "Languages"
 socialLinks:
- - {link: "https://plus.google.com/droidconVienna", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=droidconVIE", icon: "twitter"}
  - {link: "https://facebook.com/droidconVie", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://www.linkedin.com/showcase/droidcon-vienna", icon: "linkedin"}
 blocks:
  -
   title: "Links"
