@@ -138,12 +138,6 @@
   subtype: presentation
   speakers: ["enrico-bruno-del-zotto"]
 -
-  id: 113
-  title: "From OOP to FP"
-  description: "Functional Programming(FP) has become the all the rage at the moment. Maybe you have been wanting to have a look at it but haven't or you already have given it a go but got scared away with all the FP jargon (We are looking at you Monads). In this talk, we will look at how to get started with FP using Kotlin with the existing knowledge you have and look at how we can start moving towards FP by making a few changes(trust me, no talking about the jargon or 3rd party libraries) in your day to day activities. I will also talk about my journey about going from OOP to FP. We will look at some of the mistakes I did and some of the approaches I took while learning FP. We will also create a simple structured approach to start learning/implementing FP in your existing code so that you can learn by doing. At the end of the talk we will look at why a library like Arrow-KT can be useful once you have mastered the basics of FP and also how to approach Arrow-KT for your FP needs."
-  subtype: presentation
-  speakers: ["adnan-am"]
--
   id: 115
   title: "Deep Dive into Unit Testing"
   description: "Testing our code is essential for development process. Yet, creating clean and readable tests is not a piece of cake. During the talk we'll dive into unit testing concepts and see how Kotlin helps us write efficient test code. We will study examples of testing patterns tailored to common application components. We'll discuss Kotlin testing tools that can bring joy and happiness to everyday work."
@@ -215,12 +209,6 @@
   description: "MockK is a mocking library for Kotlin enables mocking Kotlin specific features with its Domain Specific Language in a idiomatic way. I will talk about unit testing in general and give a brief introduction to MockK."
   subtype: presentation
   speakers: ["hadi-tok"]
--
-  id: 129
-  title: "What are the Widgets in Flutter and how do they work?"
-  description: "In Flutter, you may have heard that 'everything is a widget'. In this talk, you will first discover the different kinds of Widgets that you can use in your application. In the second part, we will dissect how the frameworks works with the Widget tree, the Render tree... and how it affects the performances."
-  subtype: presentation
-  speakers: ["edouard-marquez"]
 -
   id: 130
   title: "Open Source Android Development"

@@ -102,17 +102,6 @@
     - {name: "twitter", link: "https://twitter.com/elliot_schrock"}
     - {name: "site", link: "https://elliotschrock.com/"}
 -
-  id: "adnan-am"
-  name: "Adnan"
-  surname: "A M"
-  company: "Redmart"
-  title: "Android Developer"
-  bio: "Adnan is a seasoned Android developer working with Redmart. His area of focus has generally been writing large scalable code, improving UX and overall app performance. He has a lot of domain knowledge and exposure with E-Commerce domain and used to previously work at BookMyShow, where he went to rewrite the entire app from scratch."
-  thumbnailUrl: "AdnanAm.jpg"
-  social:
-   - {name: "twitter", link: "https://twitter.com/AdnanM0123"}
-   - {name: "site", link: "http://www.adnan.am/"}
--
   id: "alexandre-genet"
   name: "Alexandre"
   surname: "Genet"
@@ -240,18 +229,9 @@
     - { name: "github", link: "https://github.com/connyduck"}
     - { name: "twitter", link: "https://twitter.com/ConnyDuck"}
 -
-  id: "edouard-marquez"
-  name: "Edouard"
-  surname: "Marquez"
-  bio: "Edouard is an Android developer since 2012, working both for companies and as a freelancer. A year ago, he discovered Flutter and totally fell in love with the new framework from Google. He has then cofounded a dedicated meetup in Paris: the Flutter Paris. He is also an organizer in the Paris Android User Group team (the GDG behind the Android Makers conference)."
-  thumbnailUrl: "EdouardMarquez.jpg"
-  scial:
-    - {name: "twitter", link: "https://twitter.com/g123k"}
-    - {name: "link", link: "https://www.edouard-marquez.me/"}
--
   id: "raul-hernandez-lopez"
-  name: "Raul"
-  surname: "Hernandez Lopez"
+  name: "Raúl"
+  surname: "Hernández López"
   company: "Twitter"
   bio: "I am originally from Valencia (Spain), but so far I've lived in Belgium and for a while now in London (UK).<br>I consider myself a continuous learner, very enthusiastic about the Android platform & Kotlin language specifically. Love running, traveling, attending music live metal gigs or reading books.<br>I work as a Senior Software Engineer at Twitter, and I've participated in both Periscope and Twitter Android apps, being the Technical lead on Dynamic delivery for Twitter Android."
   thumbnailUrl: "RaulHernandezLopez.jpg"
