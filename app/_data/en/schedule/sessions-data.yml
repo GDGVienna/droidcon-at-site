@@ -223,8 +223,8 @@
   imageUrl: "other/barcamp.jpg"
 -
   id: 999
-  title: "Coming soon"
-  description: "More details will be announced later"
+  title: ""
+  description: "No presentation in this room at this time"
   subtype: presentation
   speakers: []
   imageUrl: "other/questionmark.jpg"
